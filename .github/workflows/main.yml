@@ -1,0 +1,21 @@
+name: Main
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.3.4
+      - name: Set up asdf-vm
+        uses: asdf-vm/actions/setup@v1.0.1
+      - name: Checkout asdf-plugins repo
+        uses: actions/checkout@v2
+        with:
+          repository: asdf-vm/asdf-plugins
+          path: asdf-plugins
