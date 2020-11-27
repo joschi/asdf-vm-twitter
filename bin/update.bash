@@ -42,7 +42,7 @@ function update_plugin_versions {
 		echo "${plugin}: Added ${version}"
 
 		# Tweet new plugin versions
-		cat<<EOF > "${TWEETS_DIR}/${version}.tweet"
+		cat<<EOF > "${tweets_dir}/${version}.tweet"
 🚀 ${plugin} ${version} is now available in asdf!
 
 💡 Run \`asdf install ${plugin} ${version}\` to install it.
