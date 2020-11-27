@@ -1,18 +1,12 @@
-name: Twitter, together!
-on: [push, pull_request]
+name: Twitter (main)
+on:
+  push:
+    branches:
+    - main
 jobs:
-  preview:
-    name: Preview
-    runs-on: ubuntu-latest
-    if: github.event_name == 'pull_request'
-    steps:
-      - uses: gr2m/twitter-together@v1.x
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   tweet:
     name: Tweet
     runs-on: ubuntu-latest
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     steps:
       - name: Checkout
         uses: actions/checkout@v2

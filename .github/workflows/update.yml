@@ -1,11 +1,8 @@
-name: Main
+name: Update
 on:
   workflow_dispatch:
-  push:
-    branches:
-    - main
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.3.4
