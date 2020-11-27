@@ -1,4 +1,3 @@
-0.67.0
 0.67.1
 0.68.0
 0.68.1
@@ -28,7 +27,7 @@
 0.78.0
 0.78.1
 0.78.2
-extended_0.67.0
+0.79.0
 extended_0.67.1
 extended_0.68.0
 extended_0.68.1
@@ -58,3 +57,4 @@ extended_0.77.0
 extended_0.78.0
 extended_0.78.1
 extended_0.78.2
+extended_0.79.0
