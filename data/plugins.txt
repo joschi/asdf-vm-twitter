@@ -9,6 +9,7 @@ argo-rollouts
 argocd
 aria2
 asciidoctorj
+aws-iam-authenticator
 bat
 bazel
 binnacle
