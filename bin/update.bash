@@ -49,6 +49,7 @@ function update_plugin_versions {
 EOF
 	done < "${TEMP_DIR}/${plugin}-added.txt"
 
+	diff -u "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt"
 	mv -f "${TEMP_DIR}/${plugin}-new.txt" "${plugin_dir}/versions.txt"
 	rm -f "${TEMP_DIR}/${plugin}-added.txt"
 }
@@ -75,6 +76,7 @@ do
 EOF
 done < "${TEMP_DIR}/plugins-added.txt"
 
+diff -u "${DATA_DIR}/plugins.txt" "${TEMP_DIR}/plugins-new.txt"
 mv -f "${TEMP_DIR}/plugins-new.txt" "${DATA_DIR}/plugins.txt"
 rm -f "${TEMP_DIR}/plugins-added.txt"
 
