@@ -287,4 +287,3 @@
 6.8-milestone-1
 6.8-milestone-2
 6.8-milestone-3
-6.8-rc-1
