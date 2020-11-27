@@ -6,6 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.3.4
+      with:
+        token: ${{ secrets.PUSH_TOKEN }}
     - name: Set up asdf-vm
       uses: asdf-vm/actions/setup@v1.0.1
     - name: Checkout asdf-plugins repo
@@ -24,7 +26,7 @@ jobs:
         message: "🤖 Update plugin and versions metadata"
         add: "data/"
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
     - name: Commit new tweets
       uses: EndBug/add-and-commit@v5
       with:
