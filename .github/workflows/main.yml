@@ -22,13 +22,16 @@ jobs:
         OAUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: ./bin/update.bash
     - name: Commit metadata changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add data/
-        git diff-index --quiet HEAD || git commit -m "Update plugin and versions metadata"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+      uses: EndBug/add-and-commit@v5
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        message: "🤖 Update plugin and versions metadata"
+        add: "data/"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit new tweets
+      uses: EndBug/add-and-commit@v5
+      with:
+        message: "🤖 Add new tweets"
+        add: "tweets/"
+      env:
+        GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
