@@ -49,9 +49,10 @@ function update_plugin_versions {
 EOF
 	done < "${TEMP_DIR}/${plugin}-added.txt"
 
-	diff -u "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt" || true
-	mv -f "${TEMP_DIR}/${plugin}-new.txt" "${plugin_dir}/versions.txt"
-	rm -f "${TEMP_DIR}/${plugin}-added.txt"
+	sort "${TEMP_DIR}/${plugin}-new.txt" "${plugin_dir}/versions.txt" | uniq > "${TEMP_DIR}/${plugin}-merged.txt"
+	diff -u "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-merged.txt" || true
+	mv "${TEMP_DIR}/${plugin}-merged.txt" "${plugin_dir}/versions.txt"
+	rm -f "${TEMP_DIR}/${plugin}-new.txt" "${TEMP_DIR}/${plugin}-added.txt"
 }
 
 ensure_dir "${DATA_DIR}"
@@ -76,9 +77,10 @@ do
 EOF
 done < "${TEMP_DIR}/plugins-added.txt"
 
-diff -u "${DATA_DIR}/plugins.txt" "${TEMP_DIR}/plugins-new.txt" || true
-mv -f "${TEMP_DIR}/plugins-new.txt" "${DATA_DIR}/plugins.txt"
-rm -f "${TEMP_DIR}/plugins-added.txt"
+sort "${DATA_DIR}/plugins.txt" "${TEMP_DIR}/plugins-new.txt" | uniq > "${TEMP_DIR}/plugins-merged.txt"
+diff -u "${DATA_DIR}/plugins.txt" "${TEMP_DIR}/plugins-merged.txt" || true
+mv -f "${TEMP_DIR}/plugins-merged.txt" "${DATA_DIR}/plugins.txt"
+rm -f "${TEMP_DIR}/plugins-new.txt" "${TEMP_DIR}/plugins-added.txt"
 
 for plugin_path in asdf-plugins/plugins/*
 do
