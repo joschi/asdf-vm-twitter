@@ -35,7 +35,7 @@ function update_plugin_versions {
 	then
 		touch "${plugin_dir}/versions.txt"
 	fi
-	comm --nocheck-order -13 "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt" | sort -V > "${TEMP_DIR}/${plugin}-added.txt"
+	comm -13 "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt" | sort -V | tail -n1 > "${TEMP_DIR}/${plugin}-added.txt"
 
 	while IFS= read -r version
 	do
@@ -49,7 +49,7 @@ function update_plugin_versions {
 EOF
 	done < "${TEMP_DIR}/${plugin}-added.txt"
 
-	sort -V "${TEMP_DIR}/${plugin}-new.txt" "${plugin_dir}/versions.txt" | uniq > "${TEMP_DIR}/${plugin}-merged.txt"
+	sort "${TEMP_DIR}/${plugin}-new.txt" "${plugin_dir}/versions.txt" | uniq > "${TEMP_DIR}/${plugin}-merged.txt"
 	diff -u "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-merged.txt" || true
 	mv "${TEMP_DIR}/${plugin}-merged.txt" "${plugin_dir}/versions.txt"
 	rm -f "${TEMP_DIR}/${plugin}-new.txt" "${TEMP_DIR}/${plugin}-added.txt"
