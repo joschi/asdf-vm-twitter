@@ -30,12 +30,12 @@ function update_plugin_versions {
 	ensure_dir "${plugin_dir}"
 	ensure_dir "${tweets_dir}"
 
-	asdf list-all "${plugin}" | sort > "${TEMP_DIR}/${plugin}-new.txt"
+	asdf list-all "${plugin}" | sort | uniq > "${TEMP_DIR}/${plugin}-new.txt"
 	if [[ ! -r "${plugin_dir}/versions.txt" ]]
 	then
 		touch "${plugin_dir}/versions.txt"
 	fi
-	comm -13 "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt" | sort > "${TEMP_DIR}/${plugin}-added.txt"
+	comm --nocheck-order -13 "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt" | sort -V > "${TEMP_DIR}/${plugin}-added.txt"
 
 	while IFS= read -r version
 	do
@@ -49,7 +49,7 @@ function update_plugin_versions {
 EOF
 	done < "${TEMP_DIR}/${plugin}-added.txt"
 
-	sort "${TEMP_DIR}/${plugin}-new.txt" "${plugin_dir}/versions.txt" | uniq > "${TEMP_DIR}/${plugin}-merged.txt"
+	sort -V "${TEMP_DIR}/${plugin}-new.txt" "${plugin_dir}/versions.txt" | uniq > "${TEMP_DIR}/${plugin}-merged.txt"
 	diff -u "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-merged.txt" || true
 	mv "${TEMP_DIR}/${plugin}-merged.txt" "${plugin_dir}/versions.txt"
 	rm -f "${TEMP_DIR}/${plugin}-new.txt" "${TEMP_DIR}/${plugin}-added.txt"
