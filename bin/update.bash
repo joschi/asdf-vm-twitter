@@ -5,6 +5,7 @@ set -Euo pipefail
 DATA_DIR="./data"
 TWEETS_DIR="./tweets"
 TEMP_DIR=$(mktemp -d)
+BLACKLIST="${DATA_DIR}/blacklist.txt"
 trap 'rm -rf ${TEMP_DIR}' EXIT
 
 function ensure_dir {
@@ -41,12 +42,17 @@ function update_plugin_versions {
 	do
 		echo "${plugin}: Added ${version}"
 
-		# Tweet new plugin versions
-		cat<<EOF > "${tweets_dir}/${version}.tweet"
+		if grep "^${plugin}$" "${BLACKLIST}"
+		then
+			echo "${plugin}: Not tweeting about ${plugin} ${version} because it's blacklisted"
+		else
+			# Tweet new plugin versions
+			cat<<EOF > "${tweets_dir}/${version}.tweet"
 🚀 ${plugin} ${version} is now available in asdf!
 
 💡 Run \`asdf install ${plugin} ${version}\` to install it.
 EOF
+		fi
 	done < "${TEMP_DIR}/${plugin}-added.txt"
 
 	sort "${TEMP_DIR}/${plugin}-new.txt" "${plugin_dir}/versions.txt" | uniq > "${TEMP_DIR}/${plugin}-merged.txt"
