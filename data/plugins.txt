@@ -54,6 +54,7 @@ dotnet-core
 dotty
 draft
 dust
+editorconfig-checker
 eksctl
 elasticsearch
 elixir
@@ -77,6 +78,7 @@ github-cli
 github-markdown-toc
 gitui
 gleam
+go-jsonnet
 gohugo
 golang
 golangci-lint
@@ -138,10 +140,12 @@ kubeval
 kubie
 kustomize
 lean
+leiningen
 levant
 lfe
 linkerd
 logtalk
+loki-logcli
 lua
 luaJIT
 maven
@@ -168,6 +172,7 @@ nova
 nuclei
 oc
 ocaml
+opa
 opam
 openresty
 operator-sdk
@@ -222,6 +227,7 @@ sops
 sopstool
 spago
 spark
+spring-boot
 sqlite
 stack
 starship
