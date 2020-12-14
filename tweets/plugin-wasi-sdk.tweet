@@ -1,0 +1,3 @@
+💥 wasi-sdk is now supported by asdf!
+
+💡 Run `asdf plugin-add wasi-sdk` to install it.
