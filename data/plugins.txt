@@ -254,6 +254,7 @@ vagrant
 vault
 velero
 vim
+wasi-sdk
 waypoint
 wren-cli
 yarn
