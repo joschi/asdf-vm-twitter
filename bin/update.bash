@@ -4,6 +4,7 @@ set -Euo pipefail
 
 DATA_DIR="./data"
 TWEETS_DIR="./tweets"
+TOOTS_DIR="./toots"
 TEMP_DIR=$(mktemp -d)
 BLACKLIST="${DATA_DIR}/blacklist.txt"
 trap 'rm -rf ${TEMP_DIR}' EXIT
@@ -19,6 +20,7 @@ function update_plugin_versions {
 	local plugin=$1
 	local plugin_dir="${DATA_DIR}/${plugin}"
 	local tweets_dir="${TWEETS_DIR}/${plugin}"
+	local toots_dir="${TOOTS_DIR}/${plugin}"
 
 	echo "Processing plugin ${plugin}"
 	if  [[ $# -eq 1 ]]
@@ -30,6 +32,7 @@ function update_plugin_versions {
 
 	ensure_dir "${plugin_dir}"
 	ensure_dir "${tweets_dir}"
+	ensure_dir "${toots_dir}"
 
 	asdf list-all "${plugin}" | sort | uniq > "${TEMP_DIR}/${plugin}-new.txt"
 	if [[ ! -r "${plugin_dir}/versions.txt" ]]
@@ -52,6 +55,8 @@ function update_plugin_versions {
 
 💡 Run \`asdf install ${plugin} ${version}\` to install it.
 EOF
+			# Toot new plugin versions
+			cp "${tweets_dir}/${version}.tweet" "${toots_dir}/${version}.toot"
 		fi
 	done < "${TEMP_DIR}/${plugin}-added.txt"
 
@@ -63,6 +68,7 @@ EOF
 
 ensure_dir "${DATA_DIR}"
 ensure_dir "${TWEETS_DIR}"
+ensure_dir "${TOOTS_DIR}"
 
 find asdf-plugins/plugins -type f -exec basename "{}" \; | sort > "${TEMP_DIR}/plugins-new.txt"
 if [[ ! -r "${DATA_DIR}/plugins.txt" ]]
@@ -81,6 +87,8 @@ do
 
 💡 Run \`asdf plugin-add ${plugin}\` to install it.
 EOF
+	# Toot new plugins
+	cp "${TWEETS_DIR}/plugin-${plugin}.tweet" "${TOOTS_DIR}/plugin-${plugin}.toot"
 done < "${TEMP_DIR}/plugins-added.txt"
 
 sort "${DATA_DIR}/plugins.txt" "${TEMP_DIR}/plugins-new.txt" | uniq > "${TEMP_DIR}/plugins-merged.txt"
