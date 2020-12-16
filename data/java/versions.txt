@@ -161,6 +161,7 @@ dragonwell-8.2.2
 dragonwell-8.3.3
 dragonwell-8.4.4
 dragonwell-8.5.4
+dragonwell-8.5.5
 graalvm-19.0.0
 graalvm-19.0.2
 graalvm-19.1.0
