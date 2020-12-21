@@ -135,3 +135,5 @@
 0.6.6
 0.6.7
 0.6.8-macos.arm64.dev.1
+0.6.8-macos.arm64.dev.2
+0.6.8-macos.arm64.dev.3
