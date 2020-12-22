@@ -3,6 +3,7 @@ R
 act
 adr-tools
 aks-engine
+alias
 alp
 argo
 argo-rollouts
