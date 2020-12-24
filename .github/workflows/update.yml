@@ -23,21 +23,21 @@ jobs:
         OAUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: ./bin/update.bash
     - name: Commit metadata changes
-      uses: EndBug/add-and-commit@v5
+      uses: EndBug/add-and-commit@v6.2.0
       with:
         message: "🤖 Update plugin and versions metadata"
         add: "data/"
       env:
         GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
     - name: Commit new tweets
-      uses: EndBug/add-and-commit@v5
+      uses: EndBug/add-and-commit@v6.2.0
       with:
         message: "🤖 Add new tweets 🐦"
         add: "tweets/"
       env:
         GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
     - name: Commit new toots
-      uses: EndBug/add-and-commit@v5
+      uses: EndBug/add-and-commit@v6.2.0
       with:
         message: "🤖 Add new toots 🐘"
         add: "toots/"
