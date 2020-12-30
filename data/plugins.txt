@@ -122,6 +122,7 @@ just
 jx
 k14s
 k3d
+k3sup
 k6
 k9s
 kind
