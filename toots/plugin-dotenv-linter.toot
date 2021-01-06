@@ -1,0 +1,3 @@
+💥 dotenv-linter is now supported by asdf!
+
+💡 Run `asdf plugin-add dotenv-linter` to install it.
