@@ -222,6 +222,7 @@ scenery
 sentinel
 serf
 shellcheck
+shellspec
 shfmt
 sinker
 skaffold
