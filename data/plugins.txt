@@ -40,6 +40,7 @@ crc
 crystal
 cue
 dart
+dasel
 deno
 dep
 desk
@@ -47,10 +48,12 @@ dhall
 digdag
 direnv
 dive
+djinni
 dmd
 docker-slim
 doctl
 dome
+dotenv-linter
 dotnet-core
 dotty
 draft
