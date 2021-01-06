@@ -78,6 +78,7 @@ gauche
 gcloud
 getenvoy
 ghq
+git-chglog
 github-cli
 github-markdown-toc
 gitui
@@ -96,9 +97,11 @@ groovy
 grpcurl
 grype
 guile
+gwvault
 hadolint
 hamler
 haskell
+hasura-cli
 haxe
 helm
 helm-cr
