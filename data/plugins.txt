@@ -134,6 +134,7 @@ k3sup
 k6
 k9s
 kind
+kompose
 kops
 kotlin
 kpt
@@ -247,6 +248,7 @@ stern
 swift
 swiftlint
 swiprolog
+syncher
 talos
 tanka
 tekton-cli
