@@ -49,14 +49,17 @@ function update_plugin_versions {
 		then
 			echo "${plugin}: Not tweeting about ${plugin} ${version} because it's blacklisted"
 		else
+			# Sanitize version for use as file name
+			version_filename=${version//\//-}
+
 			# Tweet new plugin versions
-			cat<<EOF > "${tweets_dir}/${version}.tweet"
+			cat<<EOF > "${tweets_dir}/${version_filename}.tweet"
 🚀 ${plugin} ${version} is now available in asdf!
 
 💡 Run \`asdf install ${plugin} ${version}\` to install it.
 EOF
 			# Toot new plugin versions
-			cp "${tweets_dir}/${version}.tweet" "${toots_dir}/${version}.toot"
+			cp "${tweets_dir}/${version_filename}.tweet" "${toots_dir}/${version_filename}.toot"
 		fi
 	done < "${TEMP_DIR}/${plugin}-added.txt"
 
