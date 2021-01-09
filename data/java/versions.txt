@@ -332,6 +332,7 @@ mandrel-20.1.0.1.Final+java11
 mandrel-20.1.0.2.Final+java11
 mandrel-20.1.0.3.Final+java11
 mandrel-20.2.0.0.Final+java11
+mandrel-20.3.0.0.Final+java11
 openjdk-10
 openjdk-10.0.1
 openjdk-10.0.2
