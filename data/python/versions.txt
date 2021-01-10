@@ -277,6 +277,7 @@ miniconda3-4.6.14
 miniconda3-4.7.10
 miniconda3-4.7.12
 miniconda3-latest
+miniforge3-4.9.2
 pypy-1.5
 pypy-1.5-src
 pypy-1.6
