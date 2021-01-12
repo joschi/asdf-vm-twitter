@@ -273,5 +273,6 @@ waypoint
 wren-cli
 yarn
 yq
+ytt
 zig
 zola
