@@ -148,6 +148,7 @@ kubectx
 kubefedctl
 kubeseal
 kubesec
+kubespy
 kubeval
 kubie
 kustomize
