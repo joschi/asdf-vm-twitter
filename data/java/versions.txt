@@ -117,6 +117,7 @@ adoptopenjdk-large_heap-8.0.262+10.openj9-0.21.0
 adoptopenjdk-large_heap-8.0.265+1.openj9-0.21.0
 adoptopenjdk-large_heap-8.0.272+10.openj9-0.23.0
 adoptopenjdk-large_heap-8.0.275+1.openj9-0.23.0
+corretto-11.0.10.9.1
 corretto-11.0.2.9.1
 corretto-11.0.2.9.2
 corretto-11.0.2.9.3
@@ -142,6 +143,8 @@ corretto-8.265.01.1
 corretto-8.272.10.1
 corretto-8.272.10.3
 corretto-8.275.01.1
+corretto-8.282.08.1
+corretto-musl-11.0.10.9.1
 corretto-musl-11.0.7.10.1
 corretto-musl-11.0.8.10.1
 corretto-musl-11.0.9.11.1
@@ -154,6 +157,7 @@ corretto-musl-8.265.01.2
 corretto-musl-8.272.10.2
 corretto-musl-8.272.10.4
 corretto-musl-8.275.01.2
+corretto-musl-8.282.08.1
 dragonwell-11.0.7.2+9
 dragonwell-8.0.0
 dragonwell-8.1.1
@@ -181,6 +185,8 @@ graalvm-19.3.3+java11
 graalvm-19.3.3+java8
 graalvm-19.3.4+java11
 graalvm-19.3.4+java8
+graalvm-19.3.5+java11
+graalvm-19.3.5+java8
 graalvm-20.0.0+java11
 graalvm-20.0.0+java8
 graalvm-20.1.0+java11
@@ -189,6 +195,10 @@ graalvm-20.2.0+java11
 graalvm-20.2.0+java8
 graalvm-20.3.0+java11
 graalvm-20.3.0+java8
+graalvm-20.3.1+java11
+graalvm-20.3.1+java8
+graalvm-21.0.0+java11
+graalvm-21.0.0+java8
 java-se-ri-10+44
 java-se-ri-11+28
 java-se-ri-12+32
@@ -201,6 +211,7 @@ liberica-1.8.0
 liberica-10.0.2
 liberica-11
 liberica-11.0.1
+liberica-11.0.10+9
 liberica-11.0.2
 liberica-11.0.3
 liberica-11.0.4
@@ -224,6 +235,7 @@ liberica-14.0.1+8
 liberica-14.0.2+13
 liberica-15+36
 liberica-15.0.1+9
+liberica-15.0.2+8
 liberica-8u202
 liberica-8u212
 liberica-8u222
@@ -235,6 +247,8 @@ liberica-8u262+10
 liberica-8u265+1
 liberica-8u272+10
 liberica-8u275+1
+liberica-8u282+8
+liberica-javafx-11.0.10+9
 liberica-javafx-11.0.6+10
 liberica-javafx-11.0.7+10
 liberica-javafx-11.0.8+10
@@ -247,14 +261,17 @@ liberica-javafx-14.0.1+8
 liberica-javafx-14.0.2+13
 liberica-javafx-15+36
 liberica-javafx-15.0.1+9
+liberica-javafx-15.0.2+8
 liberica-javafx-8u242+7
 liberica-javafx-8u252+9
 liberica-javafx-8u262+10
 liberica-javafx-8u265+1
 liberica-javafx-8u272+10
 liberica-javafx-8u275+1
+liberica-javafx-8u282+8
 liberica-lite-11
 liberica-lite-11.0.1
+liberica-lite-11.0.10+9
 liberica-lite-11.0.2
 liberica-lite-11.0.3
 liberica-lite-11.0.4
@@ -278,6 +295,8 @@ liberica-lite-14.0.1+8
 liberica-lite-14.0.2+13
 liberica-lite-15+36
 liberica-lite-15.0.1+9
+liberica-lite-15.0.2+8
+liberica-lite-musl-11.0.10+9
 liberica-lite-musl-11.0.2
 liberica-lite-musl-11.0.3
 liberica-lite-musl-11.0.4
@@ -301,6 +320,8 @@ liberica-lite-musl-14.0.1+8
 liberica-lite-musl-14.0.2+13
 liberica-lite-musl-15+36
 liberica-lite-musl-15.0.1+9
+liberica-lite-musl-15.0.2+8
+liberica-musl-11.0.10+9
 liberica-musl-11.0.2
 liberica-musl-11.0.3
 liberica-musl-11.0.4
@@ -324,10 +345,12 @@ liberica-musl-14.0.1+8
 liberica-musl-14.0.2+13
 liberica-musl-15+36
 liberica-musl-15.0.1+9
+liberica-musl-15.0.2+8
 liberica-musl-8u262+10
 liberica-musl-8u265+1
 liberica-musl-8u272+10
 liberica-musl-8u275+1
+liberica-musl-8u282+8
 mandrel-20.1.0.1.Final+java11
 mandrel-20.1.0.2.Final+java11
 mandrel-20.1.0.3.Final+java11
@@ -350,9 +373,11 @@ openjdk-14.0.1
 openjdk-14.0.2
 openjdk-15
 openjdk-15.0.1
+openjdk-15.0.2
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
+sapmachine-11.0.10
 sapmachine-11.0.6
 sapmachine-11.0.6.0.1
 sapmachine-11.0.7
