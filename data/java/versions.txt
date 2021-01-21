@@ -354,6 +354,7 @@ liberica-musl-8u282+8
 mandrel-20.1.0.1.Final+java11
 mandrel-20.1.0.2.Final+java11
 mandrel-20.1.0.3.Final+java11
+mandrel-20.1.0.4.Final+java11
 mandrel-20.2.0.0.Final+java11
 mandrel-20.3.0.0.Final+java11
 openjdk-10
@@ -429,6 +430,7 @@ zulu-11.39.15
 zulu-11.41.23
 zulu-11.43.21
 zulu-11.43.55
+zulu-11.45.27
 zulu-12.1.3
 zulu-12.2.3
 zulu-12.3.11
@@ -439,6 +441,7 @@ zulu-13.31.11
 zulu-13.33.25
 zulu-13.35.17
 zulu-13.35.51
+zulu-13.37.21
 zulu-14.27.1
 zulu-14.28.21
 zulu-14.29.23
@@ -492,6 +495,7 @@ zulu-7.4.0.5
 zulu-7.40.0.15
 zulu-7.42.0.13
 zulu-7.42.0.51
+zulu-7.44.0.11
 zulu-7.5.0.1
 zulu-7.6.0.1
 zulu-7.7.0.1
@@ -534,6 +538,7 @@ zulu-8.48.0.53
 zulu-8.5.0.1
 zulu-8.50.0.21
 zulu-8.50.0.51
+zulu-8.52.0.23
 zulu-8.6.0.1
 zulu-8.7.0.5
 zulu-8.8.0.3
@@ -585,6 +590,7 @@ zulu-musl-11.39.15
 zulu-musl-11.41.23
 zulu-musl-11.43.21
 zulu-musl-11.43.55
+zulu-musl-11.45.27
 zulu-musl-12.1.3
 zulu-musl-12.2.3
 zulu-musl-12.3.11
@@ -595,6 +601,7 @@ zulu-musl-13.31.11
 zulu-musl-13.33.25
 zulu-musl-13.35.17
 zulu-musl-13.35.51
+zulu-musl-13.37.21
 zulu-musl-14.27.1
 zulu-musl-14.28.21
 zulu-musl-14.29.23
@@ -617,3 +624,4 @@ zulu-musl-8.48.0.51
 zulu-musl-8.48.0.53
 zulu-musl-8.50.0.21
 zulu-musl-8.50.0.51
+zulu-musl-8.52.0.23
