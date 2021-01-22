@@ -76,6 +76,8 @@ adoptopenjdk-8.0.272+10
 adoptopenjdk-8.0.272+10.openj9-0.23.0
 adoptopenjdk-8.0.275+1
 adoptopenjdk-8.0.275+1.openj9-0.23.0
+adoptopenjdk-8.0.282+8
+adoptopenjdk-8.0.282+8.openj9-0.24.0
 adoptopenjdk-9.0.0+181
 adoptopenjdk-9.0.4+11
 adoptopenjdk-9.0.4+12.openj9-0.9.0
@@ -117,6 +119,7 @@ adoptopenjdk-large_heap-8.0.262+10.openj9-0.21.0
 adoptopenjdk-large_heap-8.0.265+1.openj9-0.21.0
 adoptopenjdk-large_heap-8.0.272+10.openj9-0.23.0
 adoptopenjdk-large_heap-8.0.275+1.openj9-0.23.0
+adoptopenjdk-large_heap-8.0.282+8.openj9-0.24.0
 corretto-11.0.10.9.1
 corretto-11.0.2.9.1
 corretto-11.0.2.9.2
