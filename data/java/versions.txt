@@ -134,6 +134,7 @@ corretto-11.0.9.11.1
 corretto-11.0.9.12.1
 corretto-15.0.0.36.1
 corretto-15.0.1.9.1
+corretto-15.0.2.7.1
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -154,6 +155,7 @@ corretto-musl-11.0.9.11.1
 corretto-musl-11.0.9.12.1
 corretto-musl-15.0.0.36.1
 corretto-musl-15.0.1.9.1
+corretto-musl-15.0.2.7.1
 corretto-musl-8.252.09.1
 corretto-musl-8.262.10.2
 corretto-musl-8.265.01.2
