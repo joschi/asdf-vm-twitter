@@ -271,6 +271,7 @@
 1.22.3-stable
 1.22.4-stable
 1.22.5-stable
+1.22.6-stable
 1.23.0-13.0.pre-dev
 1.23.0-18.0.pre-dev
 1.23.0-18.1.pre-beta
