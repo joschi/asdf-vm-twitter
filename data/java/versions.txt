@@ -577,15 +577,18 @@ zulu-javafx-11.39.15
 zulu-javafx-11.41.23
 zulu-javafx-11.43.21
 zulu-javafx-11.43.55
+zulu-javafx-11.45.27
 zulu-javafx-13.29.11
 zulu-javafx-13.31.11
 zulu-javafx-13.33.25
 zulu-javafx-13.35.17
 zulu-javafx-13.35.51
+zulu-javafx-13.37.21
 zulu-javafx-14.29.23
 zulu-javafx-15.27.17
 zulu-javafx-15.28.13
 zulu-javafx-15.28.51
+zulu-javafx-15.29.15
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -597,6 +600,7 @@ zulu-javafx-8.48.0.51
 zulu-javafx-8.48.0.53
 zulu-javafx-8.50.0.21
 zulu-javafx-8.50.0.53
+zulu-javafx-8.52.0.23
 zulu-musl-11.2.3
 zulu-musl-11.29.11
 zulu-musl-11.29.3
