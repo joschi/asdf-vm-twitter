@@ -256,8 +256,15 @@ miniconda3-3.18.3
 miniconda3-3.19.0
 miniconda3-3.3.0
 miniconda3-3.4.2
+miniconda3-3.7-4.8.2
+miniconda3-3.7-4.8.3
+miniconda3-3.7-4.9.2
 miniconda3-3.7.0
+miniconda3-3.8-4.8.2
+miniconda3-3.8-4.8.3
+miniconda3-3.8-4.9.2
 miniconda3-3.8.3
+miniconda3-3.9-4.9.2
 miniconda3-3.9.1
 miniconda3-4.0.5
 miniconda3-4.1.11
