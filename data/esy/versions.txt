@@ -135,6 +135,7 @@
 0.6.6
 0.6.7
 0.6.8-beta.1
+0.6.8-beta.3
 0.6.8-glibc.beta.1
 0.6.8-macos.arm64.dev.1
 0.6.8-macos.arm64.dev.2
