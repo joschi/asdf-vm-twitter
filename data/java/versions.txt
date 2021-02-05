@@ -393,6 +393,7 @@ openjdk-14.0.2
 openjdk-15
 openjdk-15.0.1
 openjdk-15.0.2
+openjdk-16
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
