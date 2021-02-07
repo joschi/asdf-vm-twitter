@@ -142,6 +142,7 @@ kpt
 kscript
 ksonnet
 kube-capacity
+kubebuilder
 kubectl
 kubectl-bindrole
 kubectx
