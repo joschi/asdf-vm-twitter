@@ -201,6 +201,7 @@ pnpm
 poetry
 popeye
 postgres
+pre-commit
 protoc
 pulumi
 purescript
