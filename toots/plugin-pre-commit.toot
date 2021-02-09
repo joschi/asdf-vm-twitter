@@ -1,0 +1,3 @@
+💥 pre-commit is now supported by asdf!
+
+💡 Run `asdf plugin-add pre-commit` to install it.
