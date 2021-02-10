@@ -12,6 +12,7 @@ argocd
 aria2
 asciidoctorj
 aws-iam-authenticator
+awscli
 babashka
 bat
 bazel
