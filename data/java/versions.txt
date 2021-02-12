@@ -209,8 +209,12 @@ graalvm-20.3.0+java11
 graalvm-20.3.0+java8
 graalvm-20.3.1+java11
 graalvm-20.3.1+java8
+graalvm-20.3.1.2+java11
+graalvm-20.3.1.2+java8
 graalvm-21.0.0+java11
 graalvm-21.0.0+java8
+graalvm-21.0.0.2+java11
+graalvm-21.0.0.2+java8
 java-se-ri-10+44
 java-se-ri-11+28
 java-se-ri-12+32
