@@ -211,6 +211,7 @@ pulumi
 purescript
 purty
 python
+rabbitmq
 racket
 rancher
 rbac-lookup
