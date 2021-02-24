@@ -15,6 +15,7 @@ aws-iam-authenticator
 awscli
 babashka
 bat
+bats
 bazel
 binnacle
 bitwarden
@@ -61,6 +62,7 @@ dotnet-core
 dotty
 draft
 dust
+dyff
 editorconfig-checker
 eksctl
 elasticsearch
@@ -124,6 +126,7 @@ java
 jb
 jbang
 jmespath
+jmeter
 jq
 jsonnet
 julia
