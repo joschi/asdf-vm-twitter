@@ -1,0 +1,3 @@
+🚀 codefresh ${{PACKAGE_VERSION}} is now available in asdf!
+
+💡 Run `asdf install codefresh ${{PACKAGE_VERSION}}` to install it.
