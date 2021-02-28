@@ -283,6 +283,7 @@ wasi-sdk
 waypoint
 websocat
 wren-cli
+xcodegen
 yarn
 yq
 ytt
