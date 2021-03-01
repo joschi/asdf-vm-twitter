@@ -257,6 +257,7 @@ stack
 starship
 stern
 swift
+swiftgen
 swiftlint
 swiprolog
 syncher
