@@ -199,6 +199,7 @@ operator-sdk
 osm
 pachctl
 packer
+peco
 perl
 php
 please
