@@ -12,6 +12,7 @@ argocd
 aria2
 asciidoctorj
 aws-iam-authenticator
+aws-nuke
 awscli
 babashka
 bat
@@ -100,6 +101,7 @@ goreleaser
 goss
 graalvm
 gradle
+gradle-profiler
 grails
 groovy
 grpcurl
@@ -207,6 +209,7 @@ please
 pluto
 pnpm
 poetry
+polaris
 popeye
 postgres
 pre-commit
@@ -260,6 +263,7 @@ stack
 starship
 stern
 swift
+swiftformat
 swiftgen
 swiftlint
 swiprolog
