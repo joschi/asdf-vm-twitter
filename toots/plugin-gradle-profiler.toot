@@ -1,0 +1,3 @@
+💥 gradle-profiler is now supported by asdf!
+
+💡 Run `asdf plugin-add gradle-profiler` to install it.
