@@ -90,6 +90,7 @@ github-cli
 github-markdown-toc
 gitui
 gleam
+go-jira
 go-jsonnet
 gohugo
 golang
@@ -250,6 +251,7 @@ snyk
 solidity
 sops
 sopstool
+sourcery
 spago
 spark
 spring-boot
