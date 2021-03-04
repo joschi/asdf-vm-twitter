@@ -402,5 +402,6 @@
 1.9.7-dev
 2.0.0-beta
 2.0.0-stable
+2.0.1-beta
 2.0.1-stable
 2.1.0-10.0.pre-dev
