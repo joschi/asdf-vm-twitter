@@ -270,6 +270,7 @@ swiprolog
 syncher
 talos
 tanka
+task
 tekton-cli
 terraform
 terraform-docs
