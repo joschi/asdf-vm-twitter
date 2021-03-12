@@ -1,3 +1,4 @@
+500:
 8.10+beta1
 8.10+beta2
 8.10+beta3
@@ -36,3 +37,6 @@
 8.9+beta1
 8.9.0
 8.9.1
+Error
+Internal
+Server
