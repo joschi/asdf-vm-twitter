@@ -169,6 +169,7 @@ corretto-musl-8.272.10.2
 corretto-musl-8.272.10.4
 corretto-musl-8.275.01.2
 corretto-musl-8.282.08.1
+dragonwell-11.0.10.5
 dragonwell-11.0.7.2+9
 dragonwell-11.0.8.3
 dragonwell-11.0.9.4
