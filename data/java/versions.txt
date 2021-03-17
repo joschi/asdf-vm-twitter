@@ -487,6 +487,7 @@ zulu-15.27.17
 zulu-15.28.13
 zulu-15.28.51
 zulu-15.29.15
+zulu-16.28.11
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -609,6 +610,7 @@ zulu-javafx-15.27.17
 zulu-javafx-15.28.13
 zulu-javafx-15.28.51
 zulu-javafx-15.29.15
+zulu-javafx-16.28.11
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -652,6 +654,7 @@ zulu-musl-15.27.17
 zulu-musl-15.28.13
 zulu-musl-15.28.51
 zulu-musl-15.29.15
+zulu-musl-16.28.11
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
