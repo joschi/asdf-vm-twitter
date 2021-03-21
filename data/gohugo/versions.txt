@@ -31,6 +31,7 @@
 0.79.1
 0.80.0
 0.81.0
+0.82.0
 extended_0.67.1
 extended_0.68.0
 extended_0.68.1
@@ -64,3 +65,4 @@ extended_0.79.0
 extended_0.79.1
 extended_0.80.0
 extended_0.81.0
+extended_0.82.0
