@@ -299,3 +299,4 @@
 7.0-milestone-1
 7.0-milestone-2
 7.0-milestone-3
+7.0-rc-1
