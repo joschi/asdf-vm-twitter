@@ -242,6 +242,7 @@ sbt
 scala
 scaleway-cli
 scenery
+semgrep
 sentinel
 serf
 shellcheck
