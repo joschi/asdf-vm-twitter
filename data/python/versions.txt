@@ -199,6 +199,7 @@ anaconda3-5.3.1
 graalpython-20.1.0
 graalpython-20.2.0
 graalpython-20.3.0
+graalpython-21.0.0
 ironpython-2.7.4
 ironpython-2.7.5
 ironpython-2.7.6.3
