@@ -1015,6 +1015,7 @@
 4.7.1
 4.7.2
 4.7.3
+4.7.4
 candidate-4.2
 candidate-4.3
 candidate-4.4
