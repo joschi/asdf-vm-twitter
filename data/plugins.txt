@@ -45,6 +45,7 @@ copper
 coq
 crc
 crystal
+ctlptl
 cue
 dart
 dasel
