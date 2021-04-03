@@ -295,6 +295,7 @@ waypoint
 websocat
 wren-cli
 xcodegen
+yadm
 yarn
 yq
 ytt
