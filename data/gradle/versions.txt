@@ -296,6 +296,7 @@
 6.8.1
 6.8.2
 6.8.3
+7.0
 7.0-milestone-1
 7.0-milestone-2
 7.0-milestone-3
