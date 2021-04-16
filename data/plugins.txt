@@ -77,6 +77,7 @@ emsdk
 erlang
 esy
 etcd
+exa
 fd
 firebase
 flutter
@@ -86,6 +87,7 @@ fzf
 gauche
 gcloud
 getenvoy
+ghidra
 ghq
 git-chglog
 github-cli
@@ -134,6 +136,7 @@ jbang
 jmespath
 jmeter
 jq
+jreleaser
 jsonnet
 julia
 just
@@ -144,6 +147,7 @@ k3sup
 k6
 k9s
 kconf
+ki
 kind
 kompose
 kops
