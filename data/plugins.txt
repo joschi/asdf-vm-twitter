@@ -187,7 +187,9 @@ minishift
 mkcert
 mlton
 mockery
+mongo-tools
 mongodb
+mongosh
 mvnd
 mysql
 neko
@@ -263,6 +265,7 @@ sopstool
 sourcery
 spago
 spark
+spin
 spring-boot
 sqlite
 stack
