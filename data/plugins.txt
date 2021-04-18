@@ -49,6 +49,7 @@ ctlptl
 cue
 dart
 dasel
+delta
 deno
 dep
 desk
@@ -298,6 +299,7 @@ vault
 velero
 vim
 wasi-sdk
+watchexec
 waypoint
 websocat
 wren-cli
