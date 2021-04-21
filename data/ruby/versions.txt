@@ -324,6 +324,7 @@ mruby-2.0.1
 mruby-2.1.0
 mruby-2.1.1
 mruby-2.1.2
+mruby-3.0.0
 mruby-dev
 rbx-2.10
 rbx-2.11
@@ -490,6 +491,7 @@ truffleruby+graalvm-20.1.0
 truffleruby+graalvm-20.2.0
 truffleruby+graalvm-20.3.0
 truffleruby+graalvm-21.0.0
+truffleruby+graalvm-21.1.0
 truffleruby-1.0.0-rc10
 truffleruby-1.0.0-rc11
 truffleruby-1.0.0-rc12
@@ -516,4 +518,5 @@ truffleruby-20.1.0
 truffleruby-20.2.0
 truffleruby-20.3.0
 truffleruby-21.0.0
+truffleruby-21.1.0
 truffleruby-dev
