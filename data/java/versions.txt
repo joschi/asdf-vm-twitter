@@ -333,6 +333,7 @@ liberica-10.0.2
 liberica-11
 liberica-11.0.1
 liberica-11.0.10+9
+liberica-11.0.11+9
 liberica-11.0.2
 liberica-11.0.3
 liberica-11.0.4
@@ -359,6 +360,7 @@ liberica-15.0.1+9
 liberica-15.0.2+10
 liberica-15.0.2+8
 liberica-16+36
+liberica-16.0.1+9
 liberica-8u202
 liberica-8u212
 liberica-8u222
@@ -371,7 +373,9 @@ liberica-8u265+1
 liberica-8u272+10
 liberica-8u275+1
 liberica-8u282+8
+liberica-8u292+10
 liberica-javafx-11.0.10+9
+liberica-javafx-11.0.11+9
 liberica-javafx-11.0.6+10
 liberica-javafx-11.0.7+10
 liberica-javafx-11.0.8+10
@@ -387,6 +391,7 @@ liberica-javafx-15.0.1+9
 liberica-javafx-15.0.2+10
 liberica-javafx-15.0.2+8
 liberica-javafx-16+36
+liberica-javafx-16.0.1+9
 liberica-javafx-8u242+7
 liberica-javafx-8u252+9
 liberica-javafx-8u262+10
@@ -394,9 +399,11 @@ liberica-javafx-8u265+1
 liberica-javafx-8u272+10
 liberica-javafx-8u275+1
 liberica-javafx-8u282+8
+liberica-javafx-8u292+10
 liberica-lite-11
 liberica-lite-11.0.1
 liberica-lite-11.0.10+9
+liberica-lite-11.0.11+9
 liberica-lite-11.0.2
 liberica-lite-11.0.3
 liberica-lite-11.0.4
@@ -423,7 +430,9 @@ liberica-lite-15.0.1+9
 liberica-lite-15.0.2+10
 liberica-lite-15.0.2+8
 liberica-lite-16+36
+liberica-lite-16.0.1+9
 liberica-lite-musl-11.0.10+9
+liberica-lite-musl-11.0.11+9
 liberica-lite-musl-11.0.2
 liberica-lite-musl-11.0.3
 liberica-lite-musl-11.0.4
@@ -450,7 +459,9 @@ liberica-lite-musl-15.0.1+9
 liberica-lite-musl-15.0.2+10
 liberica-lite-musl-15.0.2+8
 liberica-lite-musl-16+36
+liberica-lite-musl-16.0.1+9
 liberica-musl-11.0.10+9
+liberica-musl-11.0.11+9
 liberica-musl-11.0.2
 liberica-musl-11.0.3
 liberica-musl-11.0.4
@@ -477,11 +488,13 @@ liberica-musl-15.0.1+9
 liberica-musl-15.0.2+10
 liberica-musl-15.0.2+8
 liberica-musl-16+36
+liberica-musl-16.0.1+9
 liberica-musl-8u262+10
 liberica-musl-8u265+1
 liberica-musl-8u272+10
 liberica-musl-8u275+1
 liberica-musl-8u282+8
+liberica-musl-8u292+10
 mandrel-20.1.0.1.Final+java11
 mandrel-20.1.0.2.Final+java11
 mandrel-20.1.0.3.Final+java11
