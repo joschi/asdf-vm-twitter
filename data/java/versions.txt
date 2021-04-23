@@ -134,6 +134,7 @@ adoptopenjdk-openj9-10.0.2+13.openj9-0.9.0
 adoptopenjdk-openj9-11.0.0+28.OpenJDK11-jdk_x64_linux_openj9_11_28.tar.gz
 adoptopenjdk-openj9-11.0.1+13.openj9-0.11.0
 adoptopenjdk-openj9-11.0.10+9.openj9-0.24.0
+adoptopenjdk-openj9-11.0.11+9.openj9-0.26.0
 adoptopenjdk-openj9-11.0.2+9.openj9-0.12.0
 adoptopenjdk-openj9-11.0.2+9.openj9-0.12.1
 adoptopenjdk-openj9-11.0.3+7.openj9-0.14.0
@@ -175,6 +176,7 @@ adoptopenjdk-openj9-8.0.265+1.openj9-0.21.0
 adoptopenjdk-openj9-8.0.272+10.openj9-0.23.0
 adoptopenjdk-openj9-8.0.275+1.openj9-0.23.0
 adoptopenjdk-openj9-8.0.282+8.openj9-0.24.0
+adoptopenjdk-openj9-8.0.292+10.openj9-0.26.0
 adoptopenjdk-openj9-9.0.4+12.openj9-0.9.0
 adoptopenjdk-openj9-large_heap-11.0.0+28.OpenJDK11-jdk_x64_linux_openj9_linuxXL_11_28.tar.gz
 adoptopenjdk-openj9-large_heap-11.0.10+9.openj9-0.24.0
@@ -508,6 +510,7 @@ mandrel-20.3.1.2-Final+java11
 mandrel-20.3.1.2.Final+java11
 mandrel-21.0.0.0-Final+java11
 mandrel-21.0.0.0.Final+java11
+microsoft-11.0.11.9.1
 openjdk-10
 openjdk-10.0.1
 openjdk-10.0.2
