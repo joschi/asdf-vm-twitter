@@ -150,6 +150,7 @@ k9s
 kconf
 ki
 kind
+ko
 kompose
 kops
 kotlin
@@ -308,5 +309,6 @@ yadm
 yarn
 yq
 ytt
+zephyr
 zig
 zola
