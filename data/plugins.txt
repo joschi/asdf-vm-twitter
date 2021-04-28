@@ -28,6 +28,7 @@ caddy
 carthage
 ccache
 cf
+chamber
 chezscheme
 chicken
 clojure
