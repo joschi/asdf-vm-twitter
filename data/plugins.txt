@@ -32,6 +32,7 @@ chamber
 chezscheme
 chicken
 clojure
+cloudsql-proxy
 clusterctl
 cmake
 cockroach
