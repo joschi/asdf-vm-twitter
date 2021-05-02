@@ -1,0 +1,3 @@
+💥 cloudsql-proxy is now supported by asdf!
+
+💡 Run `asdf plugin-add cloudsql-proxy` to install it.
