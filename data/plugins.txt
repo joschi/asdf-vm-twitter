@@ -176,6 +176,7 @@ leiningen
 levant
 lfe
 linkerd
+litestream
 logtalk
 loki-logcli
 lua
