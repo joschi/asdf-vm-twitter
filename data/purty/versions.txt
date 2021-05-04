@@ -59,3 +59,4 @@
 Forbidden</h1></center>.z
 Forbidden</title></head>.z
 bgcolor=white>.z
+generic
