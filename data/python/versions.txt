@@ -450,6 +450,7 @@ pypy3.7-c-jit-latest
 pyston-0.5.1
 pyston-0.6.0
 pyston-0.6.1
+pyston-2.2
 stackless-2.7-dev
 stackless-2.7.10
 stackless-2.7.11
