@@ -22,6 +22,7 @@ binnacle
 bitwarden
 boundary
 brig
+buf
 buildpack
 bundler
 caddy
