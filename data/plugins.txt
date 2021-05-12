@@ -274,6 +274,7 @@ spago
 spark
 spin
 spring-boot
+spruce
 sqlite
 stack
 starship
@@ -301,6 +302,7 @@ trdsql
 tridentctl
 v
 vagrant
+vals
 vault
 velero
 vim
