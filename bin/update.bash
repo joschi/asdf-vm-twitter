@@ -84,11 +84,14 @@ while IFS= read -r plugin
 do
 	echo "Added plugin ${plugin}"
 
+	PLUGIN_REPO="$(sed -e 's/repository = //' "asdf-plugins/plugins/${plugin}")"
+
 	# Tweet new plugins
 	cat<<EOF > "${TWEETS_DIR}/plugin-${plugin}.tweet"
 💥 ${plugin} is now supported by asdf!
 
 💡 Run \`asdf plugin-add ${plugin}\` to install it.
+🔗 ${PLUGIN_REPO}
 EOF
 	# Toot new plugins
 	cp "${TWEETS_DIR}/plugin-${plugin}.tweet" "${TOOTS_DIR}/plugin-${plugin}.toot"
