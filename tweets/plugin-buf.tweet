@@ -1,0 +1,4 @@
+💥 buf is now supported by asdf!
+
+💡 Run `asdf plugin-add buf` to install it.
+🔗 https://github.com/truepay/asdf-buf.git
