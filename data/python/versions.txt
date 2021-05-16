@@ -191,6 +191,7 @@ anaconda3-2019.10
 anaconda3-2020.02
 anaconda3-2020.07
 anaconda3-2020.11
+anaconda3-2021.05
 anaconda3-4.0.0
 anaconda3-4.1.0
 anaconda3-4.1.1
@@ -302,6 +303,7 @@ miniconda3-4.7.10
 miniconda3-4.7.12
 miniconda3-latest
 miniforge3-4.10
+miniforge3-4.10.1-1
 miniforge3-4.9.2
 pypy-1.5
 pypy-1.5-src
