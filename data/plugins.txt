@@ -4,6 +4,7 @@ act
 adr-tools
 aks-engine
 alias
+allure
 alp
 ant
 argo
@@ -20,6 +21,7 @@ bats
 bazel
 binnacle
 bitwarden
+bosh
 boundary
 brig
 buf
@@ -47,6 +49,7 @@ container-diff
 copper
 coq
 crc
+credhub
 crystal
 ctlptl
 cue
@@ -87,6 +90,7 @@ firebase
 flutter
 flux2
 fluxctl
+fly
 fzf
 gauche
 gcloud
@@ -191,6 +195,7 @@ mill
 minikube
 minio
 minishift
+mint
 mkcert
 mlton
 mockery
@@ -209,6 +214,7 @@ nova
 nuclei
 oc
 ocaml
+om
 opa
 opam
 openresty
@@ -219,6 +225,7 @@ packer
 peco
 perl
 php
+pivnet
 please
 pluto
 pnpm
