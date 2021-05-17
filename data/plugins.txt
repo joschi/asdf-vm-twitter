@@ -326,3 +326,4 @@ ytt
 zephyr
 zig
 zola
+zoxide
