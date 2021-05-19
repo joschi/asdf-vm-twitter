@@ -1,2 +1,3 @@
+alias
 smlnj
 vim
