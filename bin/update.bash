@@ -22,6 +22,12 @@ function update_plugin_versions {
 	local tweets_dir="${TWEETS_DIR}/${plugin}"
 	local toots_dir="${TOOTS_DIR}/${plugin}"
 
+	if grep "^${plugin}$" "${BLACKLIST}"
+	then
+		echo "Skipping ${plugin} because it's blacklisted"
+		return 0
+	fi
+
 	echo "Processing plugin ${plugin}"
 	if  [[ $# -eq 1 ]]
 	then
