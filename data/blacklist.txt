@@ -2,3 +2,4 @@ alias
 k14s
 smlnj
 vim
+yadm
