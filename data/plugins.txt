@@ -133,6 +133,7 @@ heptio-authenticator-aws
 hey
 httpie-go
 hub
+hugo
 idris
 idris2
 imagemagick
@@ -298,6 +299,7 @@ task
 tekton-cli
 terraform
 terraform-docs
+terraform-ls
 terraform-lsp
 terraform-validator
 terragrunt
