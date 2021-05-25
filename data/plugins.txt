@@ -59,6 +59,7 @@ delta
 deno
 dep
 desk
+devspace
 dhall
 digdag
 direnv
