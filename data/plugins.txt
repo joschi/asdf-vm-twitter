@@ -137,6 +137,7 @@ hugo
 idris
 idris2
 imagemagick
+inlets
 io
 istioctl
 java
@@ -248,6 +249,7 @@ rclone
 rebar
 reckoner
 redis
+redis-cli
 redskyctl
 reg
 riak
