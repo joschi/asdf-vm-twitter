@@ -40,7 +40,8 @@ function update_plugin_versions {
 	ensure_dir "${tweets_dir}"
 	ensure_dir "${toots_dir}"
 
-	asdf list-all "${plugin}" | sort | uniq > "${TEMP_DIR}/${plugin}-new.txt"
+	asdf list-all "${plugin}" | sort | uniq > "${TEMP_DIR}/${plugin}-new.txt" || return 1
+
 	if [[ ! -r "${plugin_dir}/versions.txt" ]]
 	then
 		touch "${plugin_dir}/versions.txt"
@@ -111,7 +112,7 @@ rm -f "${TEMP_DIR}/plugins-new.txt" "${TEMP_DIR}/plugins-added.txt"
 for plugin_path in asdf-plugins/plugins/*
 do
 	plugin=$(basename "${plugin_path}")
-	update_plugin_versions "${plugin}"
+	update_plugin_versions "${plugin}" || echo "Error while updating tool versions provided by plugin ${plugin}"
 done
 
 while IFS= read -r plugin_row
