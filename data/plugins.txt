@@ -135,6 +135,7 @@ hey
 httpie-go
 hub
 hugo
+hygen
 idris
 idris2
 imagemagick
