@@ -200,6 +200,7 @@ minikube
 minio
 minishift
 mint
+mitmproxy
 mkcert
 mlton
 mockery
