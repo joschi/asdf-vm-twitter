@@ -15,3 +15,4 @@ v0.39.2
 v1.0.0-alpha.2
 v1.0.0-alpha.3
 v1.0.0-alpha.4
+v1.0.0-alpha.5
