@@ -25,6 +25,7 @@ bitwarden
 bosh
 boundary
 brig
+btrace
 buf
 buildpack
 bundler
