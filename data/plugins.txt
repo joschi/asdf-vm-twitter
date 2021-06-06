@@ -109,6 +109,7 @@ go-jsonnet
 gohugo
 golang
 golangci-lint
+gomigrate
 gomplate
 goreleaser
 goss
