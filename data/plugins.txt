@@ -328,6 +328,7 @@ watchexec
 waypoint
 websocat
 wren-cli
+wtfutil
 xcodegen
 yadm
 yarn
