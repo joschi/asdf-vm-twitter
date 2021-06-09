@@ -22,6 +22,7 @@ bats
 bazel
 binnacle
 bitwarden
+bombardier
 bosh
 boundary
 brig
