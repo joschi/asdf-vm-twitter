@@ -215,6 +215,7 @@ mvnd
 mysql
 neko
 neovim
+newrelic-cli
 nim
 ninja
 nodejs
