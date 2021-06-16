@@ -52,11 +52,13 @@
 1.10.0+ent-beta2
 1.10.0+ent-beta3
 1.10.0+ent-beta4
+1.10.0+ent-rc
 1.10.0-alpha
 1.10.0-beta1
 1.10.0-beta2
 1.10.0-beta3
 1.10.0-beta4
+1.10.0-rc
 1.2.0
 1.2.0+ent
 1.2.1
