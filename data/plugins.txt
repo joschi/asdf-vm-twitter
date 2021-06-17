@@ -58,6 +58,7 @@ ctlptl
 cue
 dart
 dasel
+dbmate
 delta
 deno
 dep
