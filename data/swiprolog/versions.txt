@@ -149,6 +149,7 @@
 8.3.23-devel
 8.3.24-devel
 8.3.25-devel
+8.3.26-devel
 8.3.3-devel
 8.3.4-devel
 8.3.5-devel
