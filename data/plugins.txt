@@ -136,6 +136,7 @@ haxe
 helm
 helm-cr
 helm-ct
+helm-diff
 helm-docs
 helmfile
 heptio-authenticator-aws
