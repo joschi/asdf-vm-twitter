@@ -1,3 +1,4 @@
+/usr/bin/jq
 0.1.5-beta
 0.1.6-dev
 0.1.8-dev
@@ -427,3 +428,7 @@
 2.3.0-12.1.pre-dev
 2.3.0-16.0.pre-dev
 2.3.0-24.0.pre-dev
+in
+is
+jq
+now
