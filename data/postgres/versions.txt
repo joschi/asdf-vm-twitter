@@ -47,6 +47,7 @@
 13beta2
 13beta3
 14beta1
+14beta2
 6.0
 6.1
 6.2
