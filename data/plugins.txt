@@ -35,6 +35,7 @@ carthage
 ccache
 cf
 chamber
+cheat
 chezscheme
 chicken
 clojure
