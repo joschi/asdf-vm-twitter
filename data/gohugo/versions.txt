@@ -38,6 +38,7 @@
 0.84.0
 0.84.1
 0.84.2
+0.84.3
 extended_0.67.1
 extended_0.68.0
 extended_0.68.1
@@ -78,3 +79,4 @@ extended_0.83.1
 extended_0.84.0
 extended_0.84.1
 extended_0.84.2
+extended_0.84.3
