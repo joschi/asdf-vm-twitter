@@ -79,6 +79,7 @@ dotnet-core
 dotty
 draft
 driftctl
+duf
 dust
 dyff
 editorconfig-checker
