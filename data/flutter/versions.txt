@@ -430,6 +430,7 @@
 2.3.0-16.0.pre-dev
 2.3.0-24.0.pre-dev
 2.3.0-24.1.pre-beta
+2.4.0-0.0.pre-dev
 in
 is
 jq
