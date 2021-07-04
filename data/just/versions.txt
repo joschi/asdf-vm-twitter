@@ -66,3 +66,4 @@
 0.9.7
 0.9.8
 cross-test
+package-test
