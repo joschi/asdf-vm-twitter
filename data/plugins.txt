@@ -344,6 +344,7 @@ websocat
 wren-cli
 wtfutil
 xcodegen
+xh
 yadm
 yarn
 yq
