@@ -206,6 +206,7 @@ logtalk
 loki-logcli
 lua
 luaJIT
+make
 maven
 mc
 meson
