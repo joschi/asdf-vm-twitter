@@ -13,6 +13,7 @@ argo-rollouts
 argocd
 aria2
 asciidoctorj
+aws-copilot
 aws-iam-authenticator
 aws-nuke
 awscli
@@ -34,6 +35,7 @@ caddy
 carthage
 ccache
 cf
+cfssl
 chamber
 cheat
 chezscheme
