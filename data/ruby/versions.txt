@@ -498,6 +498,7 @@ truffleruby+graalvm-20.2.0
 truffleruby+graalvm-20.3.0
 truffleruby+graalvm-21.0.0
 truffleruby+graalvm-21.1.0
+truffleruby+graalvm-21.2.0
 truffleruby-1.0.0-rc10
 truffleruby-1.0.0-rc11
 truffleruby-1.0.0-rc12
@@ -525,4 +526,5 @@ truffleruby-20.2.0
 truffleruby-20.3.0
 truffleruby-21.0.0
 truffleruby-21.1.0
+truffleruby-21.2.0
 truffleruby-dev
