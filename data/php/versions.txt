@@ -967,3 +967,4 @@
 8.1.0alpha1
 8.1.0alpha2
 8.1.0alpha3
+8.1.0beta1
