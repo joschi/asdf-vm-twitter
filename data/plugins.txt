@@ -53,6 +53,7 @@ conform
 conftest
 consul
 container-diff
+cookiecutter
 copper
 coq
 crc
