@@ -201,6 +201,7 @@ kubespy
 kubeval
 kubie
 kustomize
+lazygit
 lean
 leiningen
 levant
