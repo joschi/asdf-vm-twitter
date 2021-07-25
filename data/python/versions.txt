@@ -233,8 +233,10 @@ jython-2.7.0
 jython-2.7.1
 jython-2.7.2
 jython-dev
+mambaforge
 mambaforge-4.10.1-4
 mambaforge-4.10.1-5
+mambaforge-pypy3
 micropython-1.10
 micropython-1.11
 micropython-1.12
@@ -313,6 +315,8 @@ miniconda3-4.6.14
 miniconda3-4.7.10
 miniconda3-4.7.12
 miniconda3-latest
+miniforge-pypy3
+miniforge3
 miniforge3-4.10
 miniforge3-4.10.1-1
 miniforge3-4.10.1-3
