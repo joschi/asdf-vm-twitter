@@ -4,6 +4,7 @@ R
 act
 adr-tools
 ag
+age
 aks-engine
 alias
 allure
@@ -231,6 +232,7 @@ mongodb
 mongosh
 mvnd
 mysql
+nano
 neko
 neovim
 newrelic-cli
