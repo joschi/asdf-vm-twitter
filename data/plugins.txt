@@ -335,6 +335,7 @@ terraform-validator
 terragrunt
 tflint
 tfsec
+tfupdate
 tilt
 tmux
 trdsql
