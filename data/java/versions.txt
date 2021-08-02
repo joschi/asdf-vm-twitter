@@ -279,6 +279,8 @@ corretto-musl-8.282.08.1
 corretto-musl-8.292.10.1
 corretto-musl-8.302.08.1
 dragonwell-11.0.10.5
+dragonwell-11.0.11.6
+dragonwell-11.0.11.7
 dragonwell-11.0.7.2+9
 dragonwell-11.0.8.3
 dragonwell-11.0.9.4
@@ -291,6 +293,7 @@ dragonwell-8.5.4
 dragonwell-8.5.5
 dragonwell-8.6.5
 dragonwell-8.6.6
+dragonwell-8.7.7
 dragonwell-musl-11.0.10.5
 graalvm-19.0.0
 graalvm-19.0.2
@@ -591,6 +594,9 @@ sapmachine-15.0.2
 sapmachine-16
 sapmachine-16.0.1
 sapmachine-16.0.2
+temurin-11.0.12+7
+temurin-16.0.2+7
+temurin-8.0.302+8
 trava-11.0.1+1
 trava-11.0.1+2
 trava-11.0.1+3
