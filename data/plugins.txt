@@ -100,6 +100,7 @@ esy
 etcd
 exa
 fd
+figma-export
 firebase
 flutter
 flux2
