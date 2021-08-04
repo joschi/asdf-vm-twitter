@@ -7,6 +7,7 @@ adoptopenjdk-11.0.1+13.openj9-0.11.0
 adoptopenjdk-11.0.10+9
 adoptopenjdk-11.0.10+9.openj9-0.24.0
 adoptopenjdk-11.0.11+9
+adoptopenjdk-11.0.12+7
 adoptopenjdk-11.0.2+7
 adoptopenjdk-11.0.2+9
 adoptopenjdk-11.0.2+9.openj9-0.12.0
@@ -55,6 +56,7 @@ adoptopenjdk-15.0.2+7.openj9-0.24.0
 adoptopenjdk-16.0.0+36
 adoptopenjdk-16.0.0+36.openj9-0.25.0
 adoptopenjdk-16.0.1+9
+adoptopenjdk-16.0.2+7
 adoptopenjdk-8.0.162+12.openj9-0.8.0
 adoptopenjdk-8.0.181+13
 adoptopenjdk-8.0.181+13.openj9-0.9.0
@@ -87,6 +89,7 @@ adoptopenjdk-8.0.275+1.openj9-0.23.0
 adoptopenjdk-8.0.282+8
 adoptopenjdk-8.0.282+8.openj9-0.24.0
 adoptopenjdk-8.0.292+10
+adoptopenjdk-8.0.302+8
 adoptopenjdk-9.0.0+181
 adoptopenjdk-9.0.4+11
 adoptopenjdk-9.0.4+12.openj9-0.9.0
