@@ -341,6 +341,7 @@ tilt
 tmux
 trdsql
 tridentctl
+upx
 v
 vagrant
 vals
