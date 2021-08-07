@@ -577,6 +577,7 @@ openjdk-15.0.2
 openjdk-16
 openjdk-16.0.1
 openjdk-16.0.2
+openjdk-17
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
