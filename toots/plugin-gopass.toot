@@ -1,0 +1,4 @@
+💥 gopass is now supported by asdf!
+
+💡 Run `asdf plugin-add gopass` to install it.
+🔗 https://github.com/trallnag/asdf-gopass.git
