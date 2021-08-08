@@ -127,6 +127,7 @@ golang
 golangci-lint
 gomigrate
 gomplate
+gopass
 goreleaser
 goss
 graalvm
