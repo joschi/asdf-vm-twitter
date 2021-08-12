@@ -436,6 +436,7 @@
 2.4.0-4.2.pre-beta
 2.5.0-1.0.pre-dev
 2.5.0-5.0.pre-dev
+2.5.0-5.1.pre-beta
 in
 is
 jq
