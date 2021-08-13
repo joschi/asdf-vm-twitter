@@ -187,6 +187,7 @@ kompose
 kops
 kotlin
 kpt
+krew
 kscript
 ksonnet
 kube-capacity
