@@ -135,6 +135,7 @@ gradle
 gradle-profiler
 grails
 groovy
+grpc-health-probe
 grpcurl
 grype
 guile
@@ -318,6 +319,7 @@ spring-boot
 spruce
 sqlite
 stack
+starboard
 starship
 stern
 swift
