@@ -44,6 +44,7 @@ cheat
 chezscheme
 chicken
 clojure
+cloudflared
 cloudsql-proxy
 clusterctl
 cmake
