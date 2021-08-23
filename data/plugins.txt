@@ -161,6 +161,7 @@ hygen
 idris
 idris2
 imagemagick
+imgpkg
 inlets
 io
 istioctl
@@ -180,6 +181,8 @@ k3d
 k3sup
 k6
 k9s
+kapp
+kbld
 kconf
 ki
 kind
@@ -207,6 +210,7 @@ kubespy
 kubeval
 kubie
 kustomize
+kwt
 lazygit
 lean
 leiningen
@@ -354,6 +358,7 @@ vals
 vault
 vcluster
 velero
+vendir
 vim
 wasi-sdk
 watchexec
