@@ -1,0 +1,4 @@
+💥 kapp is now supported by asdf!
+
+💡 Run `asdf plugin-add kapp` to install it.
+🔗 https://github.com/vmware-tanzu/asdf-carvel.git
