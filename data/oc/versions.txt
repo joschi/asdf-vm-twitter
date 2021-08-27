@@ -1072,6 +1072,7 @@
 4.8.5
 4.8.6
 4.8.7
+4.8.8
 candidate-4.2
 candidate-4.3
 candidate-4.4
