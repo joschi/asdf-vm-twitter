@@ -1,0 +1,4 @@
+💥 go-sdk is now supported by asdf!
+
+💡 Run `asdf plugin-add go-sdk` to install it.
+🔗 https://github.com/yacchi/asdf-go-sdk.git
