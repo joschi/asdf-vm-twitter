@@ -122,6 +122,7 @@ gleam
 go-containerregistry
 go-jira
 go-jsonnet
+go-sdk
 gohugo
 gojq
 golang
