@@ -438,6 +438,7 @@
 2.5.0-5.0.pre-dev
 2.5.0-5.1.pre-beta
 2.5.0-5.2.pre-beta
+2.5.0-5.3.pre-beta
 2.5.0-6.0.pre-dev
 2.6.0-0.0.pre-dev
 in
