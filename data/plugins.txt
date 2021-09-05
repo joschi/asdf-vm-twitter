@@ -20,6 +20,7 @@ aws-iam-authenticator
 aws-nuke
 awscli
 babashka
+bashbot
 bat
 batect
 bats
@@ -63,6 +64,7 @@ crc
 credhub
 crystal
 ctlptl
+ctop
 cue
 dart
 dasel
@@ -213,6 +215,7 @@ kubeval
 kubie
 kustomize
 kwt
+lab
 lazygit
 lean
 leiningen
