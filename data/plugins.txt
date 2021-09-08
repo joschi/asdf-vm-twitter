@@ -80,6 +80,7 @@ direnv
 dive
 djinni
 dmd
+docker-compose-v1
 docker-slim
 doctl
 dome
