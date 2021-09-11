@@ -9,6 +9,7 @@ aks-engine
 alias
 allure
 alp
+ansible-base
 ant
 argo
 argo-rollouts
@@ -19,6 +20,7 @@ aws-copilot
 aws-iam-authenticator
 aws-nuke
 awscli
+awsebcli
 babashka
 bashbot
 bat
@@ -51,6 +53,7 @@ clusterctl
 cmake
 cockroach
 codefresh
+conan
 concourse
 conduit
 conform
