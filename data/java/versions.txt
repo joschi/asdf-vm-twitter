@@ -824,6 +824,7 @@ sapmachine-15.0.2
 sapmachine-16
 sapmachine-16.0.1
 sapmachine-16.0.2
+sapmachine-17
 sapmachine-jre-11.0.10
 sapmachine-jre-11.0.11
 sapmachine-jre-11.0.12
@@ -843,6 +844,7 @@ sapmachine-jre-15.0.2
 sapmachine-jre-16
 sapmachine-jre-16.0.1
 sapmachine-jre-16.0.2
+sapmachine-jre-17
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-16.0.2+7_openj9-0.27.0
 semeru-jre-openj9-8u302-b08_openj9-0.27.0
