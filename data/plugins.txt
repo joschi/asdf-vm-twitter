@@ -124,6 +124,7 @@ git-chglog
 github-cli
 github-markdown-toc
 gitui
+glab
 gleam
 go-containerregistry
 go-jira
