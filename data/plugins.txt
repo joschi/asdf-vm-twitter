@@ -342,6 +342,7 @@ swiftformat
 swiftgen
 swiftlint
 swiprolog
+syft
 syncher
 talos
 tanka
