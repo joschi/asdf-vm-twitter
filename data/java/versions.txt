@@ -805,6 +805,7 @@ openjdk-17
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
+oracle-17
 sapmachine-11.0.10
 sapmachine-11.0.11
 sapmachine-11.0.12
