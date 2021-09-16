@@ -444,6 +444,7 @@
 2.5.0-stable
 2.6.0-0.0.pre-dev
 2.6.0-5.1.pre-dev
+2.6.0-5.2.pre-beta
 in
 is
 jq
