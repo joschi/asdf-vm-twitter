@@ -370,6 +370,7 @@ vault
 vcluster
 velero
 vendir
+viddy
 vim
 wasi-sdk
 watchexec
