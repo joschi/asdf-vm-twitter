@@ -127,6 +127,7 @@ gitui
 glab
 gleam
 go-containerregistry
+go-getter
 go-jira
 go-jsonnet
 go-sdk
