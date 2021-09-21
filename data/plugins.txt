@@ -44,6 +44,7 @@ cf
 cfssl
 chamber
 cheat
+chezmoi
 chezscheme
 chicken
 clojure
@@ -383,6 +384,7 @@ xcodegen
 xh
 yadm
 yarn
+yj
 yq
 ytt
 zephyr
