@@ -57,6 +57,7 @@ adoptopenjdk-16.0.0+36
 adoptopenjdk-16.0.0+36.openj9-0.25.0
 adoptopenjdk-16.0.1+9
 adoptopenjdk-16.0.2+7
+adoptopenjdk-17.0.0+35
 adoptopenjdk-8.0.162+12.openj9-0.8.0
 adoptopenjdk-8.0.181+13
 adoptopenjdk-8.0.181+13.openj9-0.9.0
@@ -862,6 +863,7 @@ semeru-openj9-16.0.2+7_openj9-0.27.0
 semeru-openj9-8u302-b08_openj9-0.27.0
 temurin-11.0.12+7
 temurin-16.0.2+7
+temurin-17.0.0+35
 temurin-8.0.302+8
 temurin-jre-11.0.12+7
 temurin-jre-8.0.302+8
