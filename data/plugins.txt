@@ -234,6 +234,7 @@ logtalk
 loki-logcli
 lua
 luaJIT
+lucy
 make
 maven
 mc
