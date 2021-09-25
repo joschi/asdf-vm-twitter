@@ -66,6 +66,7 @@ copper
 coq
 crc
 credhub
+crossplane-cli
 crystal
 ctlptl
 ctop
