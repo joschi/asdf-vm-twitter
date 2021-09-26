@@ -363,6 +363,7 @@ tfsec
 tfupdate
 tilt
 tmux
+tokei
 trdsql
 tridentctl
 trivy
