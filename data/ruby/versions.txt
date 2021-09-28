@@ -315,6 +315,7 @@ jruby-9.2.6.0
 jruby-9.2.7.0
 jruby-9.2.8.0
 jruby-9.2.9.0
+jruby-9.3.0.0
 jruby-dev
 maglev-1.0.0
 maglev-1.1.0-dev
@@ -530,3 +531,4 @@ truffleruby-21.1.0
 truffleruby-21.2.0
 truffleruby-21.2.0.1
 truffleruby-dev
+yjit-dev
