@@ -155,6 +155,7 @@ guile
 gwvault
 hadolint
 hamler
+has
 haskell
 hasura-cli
 haxe
