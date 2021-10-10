@@ -19,6 +19,8 @@ asciidoctorj
 aws-copilot
 aws-iam-authenticator
 aws-nuke
+aws-sam-cli
+aws-vault
 awscli
 awsebcli
 babashka
@@ -269,6 +271,7 @@ nova
 nuclei
 oc
 ocaml
+okteto
 om
 opa
 opam
