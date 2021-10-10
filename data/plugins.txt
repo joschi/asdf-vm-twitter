@@ -178,6 +178,7 @@ imgpkg
 inlets
 io
 istioctl
+janet
 java
 jb
 jbang
