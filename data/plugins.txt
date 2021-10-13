@@ -219,6 +219,7 @@ kubectl
 kubectl-bindrole
 kubectx
 kubefedctl
+kubemqctl
 kubergrunt
 kubeseal
 kubesec
