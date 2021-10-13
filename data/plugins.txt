@@ -227,6 +227,7 @@ kubespy
 kubeval
 kubie
 kustomize
+kuttl
 kwt
 lab
 lazygit
