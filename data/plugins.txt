@@ -184,6 +184,7 @@ janet
 java
 jb
 jbang
+jib
 jmespath
 jmeter
 jq
