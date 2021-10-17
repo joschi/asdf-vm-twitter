@@ -90,6 +90,7 @@ dmd
 docker-compose-v1
 docker-slim
 doctl
+doctoolchain
 dome
 dotenv-linter
 dotnet-core
