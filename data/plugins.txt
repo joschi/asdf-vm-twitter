@@ -101,6 +101,7 @@ duf
 dust
 dyff
 editorconfig-checker
+ejson
 eksctl
 elasticsearch
 elixir
