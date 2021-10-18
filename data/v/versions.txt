@@ -55,6 +55,7 @@ weekly.2021.37
 weekly.2021.38
 weekly.2021.39
 weekly.2021.41
+weekly.2021.42
 weekly.2021.5
 weekly.2021.6
 weekly.2021.7
