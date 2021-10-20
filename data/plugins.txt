@@ -91,6 +91,7 @@ docker-compose-v1
 docker-slim
 doctl
 doctoolchain
+docuum
 dome
 dotenv-linter
 dotnet-core
