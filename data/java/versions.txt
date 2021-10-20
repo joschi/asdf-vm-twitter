@@ -358,6 +358,7 @@ adoptopenjdk-openj9-large_heap-8.0.282+8.openj9-0.24.0
 corretto-11.0.10.9.1
 corretto-11.0.11.9.1
 corretto-11.0.12.7.1
+corretto-11.0.13.8.1
 corretto-11.0.2.9.1
 corretto-11.0.2.9.2
 corretto-11.0.2.9.3
@@ -391,9 +392,11 @@ corretto-8.275.01.1
 corretto-8.282.08.1
 corretto-8.292.10.1
 corretto-8.302.08.1
+corretto-8.312.07.1
 corretto-musl-11.0.10.9.1
 corretto-musl-11.0.11.9.1
 corretto-musl-11.0.12.7.1
+corretto-musl-11.0.13.8.1
 corretto-musl-11.0.7.10.1
 corretto-musl-11.0.8.10.1
 corretto-musl-11.0.9.11.1
@@ -414,6 +417,7 @@ corretto-musl-8.275.01.2
 corretto-musl-8.282.08.1
 corretto-musl-8.292.10.1
 corretto-musl-8.302.08.1
+corretto-musl-8.312.07.1
 dragonwell-11.0.10.5
 dragonwell-11.0.11.6
 dragonwell-11.0.11.7
@@ -473,6 +477,7 @@ graalvm-20.3.2+java11
 graalvm-20.3.2+java8
 graalvm-20.3.3+java11
 graalvm-20.3.3+java8
+graalvm-20.3.4+java11
 graalvm-21.0.0+java11
 graalvm-21.0.0+java8
 graalvm-21.0.0.2+java11
@@ -483,6 +488,8 @@ graalvm-21.1.0+java8
 graalvm-21.2.0+java11
 graalvm-21.2.0+java16
 graalvm-21.2.0+java8
+graalvm-21.3.0+java11
+graalvm-21.3.0+java17
 java-se-ri-10+44
 java-se-ri-11+28
 java-se-ri-12+32
@@ -815,13 +822,16 @@ openjdk-16
 openjdk-16.0.1
 openjdk-16.0.2
 openjdk-17
+openjdk-17.0.1
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
 oracle-17
+oracle-17.0.1
 sapmachine-11.0.10
 sapmachine-11.0.11
 sapmachine-11.0.12
+sapmachine-11.0.13
 sapmachine-11.0.6
 sapmachine-11.0.6.0.1
 sapmachine-11.0.7
@@ -842,6 +852,7 @@ sapmachine-17
 sapmachine-jre-11.0.10
 sapmachine-jre-11.0.11
 sapmachine-jre-11.0.12
+sapmachine-jre-11.0.13
 sapmachine-jre-11.0.6
 sapmachine-jre-11.0.6.0.1
 sapmachine-jre-11.0.7
@@ -920,6 +931,7 @@ zulu-11.43.55
 zulu-11.45.27
 zulu-11.48.21
 zulu-11.50.19
+zulu-11.52.13
 zulu-12.1.3
 zulu-12.2.3
 zulu-12.3.11
@@ -933,6 +945,7 @@ zulu-13.35.51
 zulu-13.37.21
 zulu-13.40.15
 zulu-13.42.17
+zulu-13.44.13
 zulu-14.27.1
 zulu-14.28.21
 zulu-14.29.23
@@ -942,6 +955,7 @@ zulu-15.28.51
 zulu-15.29.15
 zulu-15.32.15
 zulu-15.34.17
+zulu-15.36.13
 zulu-16.28.11
 zulu-16.30.15
 zulu-16.32.15
@@ -997,6 +1011,7 @@ zulu-7.44.0.11
 zulu-7.46.0.11
 zulu-7.48.0.11
 zulu-7.5.0.1
+zulu-7.50.0.11
 zulu-7.6.0.1
 zulu-7.7.0.1
 zulu-7.8.0.3
@@ -1041,6 +1056,7 @@ zulu-8.50.0.51
 zulu-8.52.0.23
 zulu-8.54.0.21
 zulu-8.56.0.21
+zulu-8.58.0.13
 zulu-8.6.0.1
 zulu-8.7.0.5
 zulu-8.8.0.3
@@ -1108,6 +1124,7 @@ zulu-jre-11.43.55
 zulu-jre-11.45.27
 zulu-jre-11.48.21
 zulu-jre-11.50.19
+zulu-jre-11.52.13
 zulu-jre-13.28.11
 zulu-jre-13.29.9
 zulu-jre-13.31.11
@@ -1117,6 +1134,7 @@ zulu-jre-13.35.51
 zulu-jre-13.37.21
 zulu-jre-13.40.15
 zulu-jre-13.42.17
+zulu-jre-13.44.13
 zulu-jre-14.28.21
 zulu-jre-14.29.23
 zulu-jre-15.27.17
@@ -1125,6 +1143,7 @@ zulu-jre-15.28.51
 zulu-jre-15.29.15
 zulu-jre-15.32.15
 zulu-jre-15.34.17
+zulu-jre-15.36.13
 zulu-jre-16.28.11
 zulu-jre-16.30.15
 zulu-jre-16.32.15
@@ -1145,6 +1164,7 @@ zulu-jre-8.50.0.51
 zulu-jre-8.52.0.23
 zulu-jre-8.54.0.21
 zulu-jre-8.56.0.21
+zulu-jre-8.58.0.13
 zulu-jre-javafx-11.29.3
 zulu-jre-javafx-11.31.11
 zulu-jre-javafx-11.33.15
@@ -1198,6 +1218,7 @@ zulu-jre-musl-11.43.55
 zulu-jre-musl-11.45.27
 zulu-jre-musl-11.48.21
 zulu-jre-musl-11.50.19
+zulu-jre-musl-11.52.13
 zulu-jre-musl-13.28.11
 zulu-jre-musl-13.29.9
 zulu-jre-musl-13.31.11
@@ -1207,6 +1228,7 @@ zulu-jre-musl-13.35.51
 zulu-jre-musl-13.37.21
 zulu-jre-musl-13.40.15
 zulu-jre-musl-13.42.17
+zulu-jre-musl-13.44.13
 zulu-jre-musl-14.28.21
 zulu-jre-musl-14.29.23
 zulu-jre-musl-15.27.17
@@ -1215,6 +1237,7 @@ zulu-jre-musl-15.28.51
 zulu-jre-musl-15.29.15
 zulu-jre-musl-15.32.15
 zulu-jre-musl-15.34.17
+zulu-jre-musl-15.36.13
 zulu-jre-musl-16.28.11
 zulu-jre-musl-16.30.15
 zulu-jre-musl-16.32.15
@@ -1233,6 +1256,7 @@ zulu-jre-musl-8.50.0.51
 zulu-jre-musl-8.52.0.23
 zulu-jre-musl-8.54.0.21
 zulu-jre-musl-8.56.0.21
+zulu-jre-musl-8.58.0.13
 zulu-musl-11.2.3
 zulu-musl-11.29.11
 zulu-musl-11.29.3
@@ -1248,6 +1272,7 @@ zulu-musl-11.43.55
 zulu-musl-11.45.27
 zulu-musl-11.48.21
 zulu-musl-11.50.19
+zulu-musl-11.52.13
 zulu-musl-12.1.3
 zulu-musl-12.2.3
 zulu-musl-12.3.11
@@ -1261,6 +1286,7 @@ zulu-musl-13.35.51
 zulu-musl-13.37.21
 zulu-musl-13.40.15
 zulu-musl-13.42.17
+zulu-musl-13.44.13
 zulu-musl-14.27.1
 zulu-musl-14.28.21
 zulu-musl-14.29.23
@@ -1270,6 +1296,7 @@ zulu-musl-15.28.51
 zulu-musl-15.29.15
 zulu-musl-15.32.15
 zulu-musl-15.34.17
+zulu-musl-15.36.13
 zulu-musl-16.28.11
 zulu-musl-16.30.15
 zulu-musl-16.32.15
@@ -1293,3 +1320,4 @@ zulu-musl-8.50.0.51
 zulu-musl-8.52.0.23
 zulu-musl-8.54.0.21
 zulu-musl-8.56.0.21
+zulu-musl-8.58.0.13
