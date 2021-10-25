@@ -1096,6 +1096,7 @@
 4.8.9
 4.9.0
 4.9.1
+4.9.2
 candidate-4.2
 candidate-4.3
 candidate-4.4
