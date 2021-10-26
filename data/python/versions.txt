@@ -489,9 +489,13 @@ pypy3.7-7.3.5
 pypy3.7-7.3.5-src
 pypy3.7-7.3.6
 pypy3.7-7.3.6-src
+pypy3.7-7.3.7
+pypy3.7-7.3.7-src
 pypy3.7-c-jit-latest
 pypy3.8-7.3.6
 pypy3.8-7.3.6-src
+pypy3.8-7.3.7
+pypy3.8-7.3.7-src
 pyston-0.5.1
 pyston-0.6.0
 pyston-0.6.1
