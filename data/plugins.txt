@@ -2,6 +2,7 @@
 1password-cli
 R
 act
+action-validator
 adr-tools
 ag
 age
@@ -329,6 +330,7 @@ scala
 scaleway-cli
 scenery
 semgrep
+semver
 sentinel
 serf
 shellcheck
