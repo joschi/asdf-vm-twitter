@@ -129,6 +129,7 @@ getenvoy
 ghidra
 ghq
 ginkgo
+git
 git-chglog
 github-cli
 github-markdown-toc
