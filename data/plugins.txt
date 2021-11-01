@@ -90,6 +90,7 @@ djinni
 dmd
 docker-compose-v1
 docker-slim
+dockle
 doctl
 doctoolchain
 docuum
@@ -247,6 +248,7 @@ loki-logcli
 lua
 luaJIT
 lucy
+mage
 make
 maven
 mc
