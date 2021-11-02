@@ -72,8 +72,10 @@
 1.10.3+ent
 1.11.0+ent-alpha
 1.11.0+ent-beta1
+1.11.0+ent-beta2
 1.11.0-alpha
 1.11.0-beta1
+1.11.0-beta2
 1.2.0
 1.2.0+ent
 1.2.1
