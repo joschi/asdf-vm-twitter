@@ -143,6 +143,7 @@ adoptopenjdk-jre-8.0.275+1
 adoptopenjdk-jre-8.0.282+8
 adoptopenjdk-jre-8.0.292+10
 adoptopenjdk-jre-8.0.302+8
+adoptopenjdk-jre-8.0.312+7
 adoptopenjdk-jre-9.0.0+181
 adoptopenjdk-jre-9.0.4+11
 adoptopenjdk-jre-openj9-11.0.0+28.OpenJDK11-jre_x64_linux_openj9_11_28.tar.gz
@@ -927,6 +928,7 @@ temurin-8.0.312+7
 temurin-jre-11.0.12+7
 temurin-jre-11.0.13+8
 temurin-jre-8.0.302+8
+temurin-jre-8.0.312+7
 trava-11.0.1+1
 trava-11.0.1+2
 trava-11.0.1+3
