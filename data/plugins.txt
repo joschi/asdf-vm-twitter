@@ -55,6 +55,7 @@ cloudflared
 cloudsql-proxy
 clusterctl
 cmake
+cmctl
 cockroach
 codefresh
 conan
