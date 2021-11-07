@@ -159,6 +159,7 @@
 3.9.5
 3.9.6
 3.9.7
+3.9.8
 activepython-2.7.14
 activepython-3.5.4
 activepython-3.6.0
