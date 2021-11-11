@@ -68,6 +68,7 @@ container-diff
 cookiecutter
 copper
 coq
+cosign
 crc
 credhub
 crossplane-cli
@@ -78,6 +79,7 @@ cue
 dart
 dasel
 dbmate
+deck
 delta
 deno
 dep
@@ -174,6 +176,7 @@ helm-ct
 helm-diff
 helm-docs
 helmfile
+helmsman
 heptio-authenticator-aws
 hey
 httpie-go
