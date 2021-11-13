@@ -260,6 +260,8 @@ micropython-1.12
 micropython-1.13
 micropython-1.14
 micropython-1.15
+micropython-1.16
+micropython-1.17
 micropython-1.9.3
 micropython-1.9.4
 micropython-dev
