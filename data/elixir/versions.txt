@@ -313,6 +313,10 @@
 1.9.4-otp-20
 1.9.4-otp-21
 1.9.4-otp-22
+main
+main-otp-22
+main-otp-23
+main-otp-24
 master
 master-otp-21
 master-otp-22
