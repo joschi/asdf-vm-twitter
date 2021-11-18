@@ -222,6 +222,7 @@ kpt
 krew
 kscript
 ksonnet
+ktlint
 kube-capacity
 kube-code-generator
 kube-controller-tools
@@ -257,6 +258,7 @@ mage
 make
 maven
 mc
+mdbook
 meson
 micronaut
 mill
@@ -345,6 +347,7 @@ shellspec
 shfmt
 sinker
 skaffold
+sloth
 smlnj
 snyk
 solidity
@@ -381,6 +384,7 @@ terragrunt
 tflint
 tfsec
 tfupdate
+thrift
 tilt
 tmux
 tokei
