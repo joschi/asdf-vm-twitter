@@ -1,0 +1,4 @@
+💥 mdbook is now supported by asdf!
+
+💡 Run `asdf plugin-add mdbook` to install it.
+🔗 https://github.com/cipherstash/asdf-mdbook.git
