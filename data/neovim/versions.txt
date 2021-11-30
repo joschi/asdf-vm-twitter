@@ -25,5 +25,15 @@
 0.4.4
 0.5.0
 0.5.1
+0.6.0
+eval-clear-rebase-1-compiles-and-passes-u-tests-3-next
+eval-clear-rebase-1-compiles-and-passes-u-tests-4-next
+eval-clear-rebase-1-compiles-and-passes-u-tests-5-next
+eval-clear-rebase-1-compiles-and-passes-u-tests-6-next
+eval-clear-rebase-1-compiles-and-passes-u-tests-7-next
+eval-clear-rebase-1-compiles-and-passes-u-tests-8-next
+eval-clear-rebase-1-compiles-and-passes-u-tests-9-next
+eval-clear-rebase-1-compiles-and-passes-uf-tests-1
+eval-clear-rebase-1-compiles-and-passes-uf-tests-2-next
 nightly
 stable
