@@ -259,6 +259,7 @@ make
 maven
 mc
 mdbook
+mdbook-linkcheck
 meson
 micronaut
 mill
@@ -392,6 +393,7 @@ trdsql
 tridentctl
 trivy
 upx
+usql
 v
 vagrant
 vals
