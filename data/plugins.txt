@@ -363,6 +363,7 @@ spruce
 sqlite
 stack
 starboard
+starport
 starship
 stern
 swift
