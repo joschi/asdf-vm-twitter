@@ -454,6 +454,7 @@
 2.8.0-3.1.pre-beta
 2.8.0-3.2.pre-beta
 2.8.0-3.3.pre-beta
+2.8.0-stable
 in
 is
 jq
