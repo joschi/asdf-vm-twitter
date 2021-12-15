@@ -256,6 +256,7 @@ luaJIT
 lucy
 mage
 make
+mark
 maven
 mc
 mdbook
@@ -383,6 +384,7 @@ terraform-ls
 terraform-lsp
 terraform-validator
 terragrunt
+tfenv
 tflint
 tfsec
 tfupdate
