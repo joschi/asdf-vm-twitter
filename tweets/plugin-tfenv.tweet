@@ -1,0 +1,4 @@
+💥 tfenv is now supported by asdf!
+
+💡 Run `asdf plugin-add tfenv` to install it.
+🔗 https://github.com/carlduevel/asdf-tfenv.git
