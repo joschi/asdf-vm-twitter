@@ -127,6 +127,7 @@ adoptopenjdk-jre-15.0.1+9
 adoptopenjdk-jre-15.0.2+7
 adoptopenjdk-jre-16.0.0+36
 adoptopenjdk-jre-16.0.1+9
+adoptopenjdk-jre-17.0.1+12
 adoptopenjdk-jre-8.0.181+13
 adoptopenjdk-jre-8.0.192+12
 adoptopenjdk-jre-8.0.202+8
@@ -931,6 +932,7 @@ temurin-8.0.302+8
 temurin-8.0.312+7
 temurin-jre-11.0.12+7
 temurin-jre-11.0.13+8
+temurin-jre-17.0.1+12
 temurin-jre-8.0.302+8
 temurin-jre-8.0.312+7
 trava-11.0.1+1
