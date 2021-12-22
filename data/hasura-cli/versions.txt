@@ -117,4 +117,5 @@
 2.1.1
 cli/v2.1.0
 cli/v2.1.1
+draft-release-test
 shadow-tag-test
