@@ -8,6 +8,7 @@
 "helm.v1.16.1.z
 "helm.v2.0.0.z
 "helm.v2.0.1.z
+"helm.v2.0.2.z
 0.10.0
 0.10.0-alpha.1
 0.10.0-alpha.2
