@@ -414,6 +414,8 @@
 2.1.0-10.0.pre-dev
 2.1.0-12.1.pre-dev
 2.1.0-12.2.pre-beta
+2.10.0-0.1.pre-beta
+2.10.0-0.1.pre-dev
 2.2.0-10.1.pre-beta
 2.2.0-10.1.pre-dev
 2.2.0-10.2.pre-beta
