@@ -242,6 +242,7 @@ graalpython-21.0.0
 graalpython-21.1.0
 graalpython-21.2.0
 graalpython-21.3.0
+graalpython-22.0.0
 ironpython-2.7.4
 ironpython-2.7.5
 ironpython-2.7.6.3
