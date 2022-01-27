@@ -41,3 +41,4 @@
 0.19.2-alpha
 0.19.2-alpha.1
 0.19.3
+nightly
