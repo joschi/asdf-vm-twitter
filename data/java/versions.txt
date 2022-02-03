@@ -883,9 +883,11 @@ mandrel-22.0.0.2-Final+java17
 microsoft-11.0.11.9.1
 microsoft-11.0.12.7.1
 microsoft-11.0.13.8.1
+microsoft-11.0.14.9.1
 microsoft-16.0.1.9.1
 microsoft-16.0.2.7.1
 microsoft-17.0.1.12.1
+microsoft-17.0.2.8.1
 microsoft-17.35.1
 openjdk-10
 openjdk-10.0.1
