@@ -526,6 +526,7 @@ pyston-0.6.1
 pyston-2.2
 pyston-2.3
 pyston-2.3.1
+pyston-2.3.2
 stackless-2.7-dev
 stackless-2.7.10
 stackless-2.7.11
