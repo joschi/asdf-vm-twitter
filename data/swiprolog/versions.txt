@@ -169,3 +169,4 @@
 8.5.4-devel
 8.5.5-devel
 8.5.6-devel
+8.5.7-devel
