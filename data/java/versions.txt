@@ -371,6 +371,7 @@ corretto-11.0.10.9.1
 corretto-11.0.11.9.1
 corretto-11.0.12.7.1
 corretto-11.0.13.8.1
+corretto-11.0.14.10.1
 corretto-11.0.14.9.1
 corretto-11.0.2.9.1
 corretto-11.0.2.9.2
@@ -414,6 +415,7 @@ corretto-musl-11.0.10.9.1
 corretto-musl-11.0.11.9.1
 corretto-musl-11.0.12.7.1
 corretto-musl-11.0.13.8.1
+corretto-musl-11.0.14.10.1
 corretto-musl-11.0.14.9.1
 corretto-musl-11.0.7.10.1
 corretto-musl-11.0.8.10.1
