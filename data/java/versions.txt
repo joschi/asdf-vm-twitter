@@ -9,6 +9,7 @@ adoptopenjdk-11.0.10+9.openj9-0.24.0
 adoptopenjdk-11.0.11+9
 adoptopenjdk-11.0.12+7
 adoptopenjdk-11.0.13+8
+adoptopenjdk-11.0.14+101
 adoptopenjdk-11.0.14+9
 adoptopenjdk-11.0.2+7
 adoptopenjdk-11.0.2+9
@@ -106,6 +107,7 @@ adoptopenjdk-jre-11.0.10+9
 adoptopenjdk-jre-11.0.11+9
 adoptopenjdk-jre-11.0.12+7
 adoptopenjdk-jre-11.0.13+8
+adoptopenjdk-jre-11.0.14+101
 adoptopenjdk-jre-11.0.14+9
 adoptopenjdk-jre-11.0.2+7
 adoptopenjdk-jre-11.0.2+9
@@ -983,6 +985,7 @@ sapmachine-jre-17.0.2
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
+semeru-jre-openj9-11.0.14.1+1_openj9-0.30.1
 semeru-jre-openj9-16.0.2+7_openj9-0.27.0
 semeru-jre-openj9-17.0.1+12_openj9-0.29.1
 semeru-jre-openj9-17.0.2+8_openj9-0.30.0
@@ -992,6 +995,7 @@ semeru-jre-openj9-8u322-b06_openj9-0.30.0
 semeru-openj9-11.0.12+7_openj9-0.27.0
 semeru-openj9-11.0.13+8_openj9-0.29.0
 semeru-openj9-11.0.14+9_openj9-0.30.0
+semeru-openj9-11.0.14.1+1_openj9-0.30.1
 semeru-openj9-16.0.2+7_openj9-0.27.0
 semeru-openj9-17.0.1+12_openj9-0.29.1
 semeru-openj9-17.0.2+8_openj9-0.30.0
@@ -1000,6 +1004,7 @@ semeru-openj9-8u312-b07_openj9-0.29.0
 semeru-openj9-8u322-b06_openj9-0.30.0
 temurin-11.0.12+7
 temurin-11.0.13+8
+temurin-11.0.14+101
 temurin-11.0.14+9
 temurin-16.0.2+7
 temurin-17.0.0+35
@@ -1010,6 +1015,7 @@ temurin-8.0.312+7
 temurin-8.0.322+6
 temurin-jre-11.0.12+7
 temurin-jre-11.0.13+8
+temurin-jre-11.0.14+101
 temurin-jre-11.0.14+9
 temurin-jre-17.0.1+12
 temurin-jre-17.0.2+8
