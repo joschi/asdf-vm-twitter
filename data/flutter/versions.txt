@@ -422,6 +422,7 @@
 2.10.0-0.3.pre-dev
 2.10.0-stable
 2.10.1-stable
+2.10.2-stable
 2.11.0-0.1.pre-beta
 2.11.0-0.1.pre-dev
 2.2.0-10.1.pre-beta
