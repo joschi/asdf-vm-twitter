@@ -1,0 +1,4 @@
+💥 iam-policy-json-to-terraform is now supported by asdf!
+
+💡 Run `asdf plugin-add iam-policy-json-to-terraform` to install it.
+🔗 https://github.com/carlduevel/asdf-iam-policy-json-to-terraform.git
