@@ -1,0 +1,4 @@
+💥 kubeconform is now supported by asdf!
+
+💡 Run `asdf plugin-add kubeconform` to install it.
+🔗 https://github.com/lirlia/asdf-kubeconform.git

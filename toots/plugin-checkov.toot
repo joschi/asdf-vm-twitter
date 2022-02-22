@@ -1,0 +1,4 @@
+💥 checkov is now supported by asdf!
+
+💡 Run `asdf plugin-add checkov` to install it.
+🔗 https://github.com/bosmak/asdf-checkov.git
