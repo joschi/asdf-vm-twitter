@@ -1,0 +1,4 @@
+💥 kcctl is now supported by asdf!
+
+💡 Run `asdf plugin-add kcctl` to install it.
+🔗 https://github.com/joschi/asdf-kcctl.git

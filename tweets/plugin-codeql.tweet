@@ -1,0 +1,4 @@
+💥 codeql is now supported by asdf!
+
+💡 Run `asdf plugin-add codeql` to install it.
+🔗 https://github.com/bored-engineer/asdf-codeql.git
