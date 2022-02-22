@@ -204,6 +204,7 @@ java
 jb
 jbang
 jib
+jless
 jmespath
 jmeter
 jq
