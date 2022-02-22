@@ -3,9 +3,11 @@
 R
 act
 action-validator
+actionlint
 adr-tools
 ag
 age
+agebox
 aks-engine
 alias
 allure
@@ -47,6 +49,7 @@ cf
 cfssl
 chamber
 cheat
+checkov
 chezmoi
 chezscheme
 chicken
@@ -58,6 +61,7 @@ cmake
 cmctl
 cockroach
 codefresh
+codeql
 conan
 concourse
 conduit
@@ -125,6 +129,7 @@ flutter
 flux2
 fluxctl
 fly
+furyctl
 fzf
 gauche
 gcloud
@@ -204,12 +209,14 @@ julia
 just
 jx
 k14s
+k2tf
 k3d
 k3sup
 k6
 k9s
 kapp
 kbld
+kcctl
 kconf
 ki
 kind
@@ -227,8 +234,10 @@ kube-capacity
 kube-code-generator
 kube-controller-tools
 kubebuilder
+kubeconform
 kubectl
 kubectl-bindrole
+kubectl-kots
 kubectx
 kubefedctl
 kubemqctl
@@ -257,6 +266,7 @@ lucy
 mage
 make
 mark
+mask
 maven
 mc
 mdbook
@@ -296,6 +306,7 @@ opam
 openresty
 operator-sdk
 osm
+osqueryi
 pachctl
 packer
 peco
@@ -332,6 +343,7 @@ riff
 ripgrep
 rke
 rlwrap
+rstash
 ruby
 rust
 saml2aws
@@ -340,6 +352,7 @@ sbt
 scala
 scaleway-cli
 scenery
+schemacrawler
 semgrep
 semver
 sentinel
@@ -416,6 +429,7 @@ xcodegen
 xh
 yadm
 yarn
+yay
 yj
 yq
 ytt
