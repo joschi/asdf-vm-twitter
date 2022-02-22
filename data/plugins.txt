@@ -26,6 +26,7 @@ aws-sam-cli
 aws-vault
 awscli
 awsebcli
+azure-cli
 babashka
 bashbot
 bat
@@ -130,6 +131,7 @@ flux2
 fluxctl
 fly
 furyctl
+fx
 fzf
 gauche
 gcloud
@@ -183,11 +185,13 @@ helm-docs
 helmfile
 helmsman
 heptio-authenticator-aws
+heroku-cli
 hey
 httpie-go
 hub
 hugo
 hygen
+iam-policy-json-to-terraform
 idris
 idris2
 imagemagick
@@ -354,6 +358,7 @@ scaleway-cli
 scenery
 schemacrawler
 semgrep
+semtag
 semver
 sentinel
 serf
@@ -380,6 +385,7 @@ starboard
 starport
 starship
 stern
+stylua
 swift
 swiftformat
 swiftgen
@@ -391,6 +397,7 @@ talos
 tanka
 task
 tekton-cli
+telepresence
 terraform
 terraform-docs
 terraform-ls
@@ -403,6 +410,7 @@ tfsec
 tfupdate
 thrift
 tilt
+titan
 tmux
 tokei
 trdsql
@@ -431,9 +439,11 @@ yadm
 yarn
 yay
 yj
+yor
 yq
 ytt
 zephyr
 zig
 zola
 zoxide
+zprint
