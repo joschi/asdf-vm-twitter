@@ -1,0 +1,4 @@
+💥 azure-cli is now supported by asdf!
+
+💡 Run `asdf plugin-add azure-cli` to install it.
+🔗 https://github.com/itspngu/asdf-azure-cli.git

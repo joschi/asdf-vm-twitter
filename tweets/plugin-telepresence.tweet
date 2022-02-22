@@ -1,0 +1,4 @@
+💥 telepresence is now supported by asdf!
+
+💡 Run `asdf plugin-add telepresence` to install it.
+🔗 https://github.com/pirackr/asdf-telepresence.git
