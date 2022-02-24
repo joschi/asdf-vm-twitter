@@ -28,6 +28,7 @@ awscli
 awsebcli
 azure-cli
 babashka
+balena-cli
 bashbot
 bat
 batect
