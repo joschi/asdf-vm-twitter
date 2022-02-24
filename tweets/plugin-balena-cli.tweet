@@ -1,0 +1,4 @@
+💥 balena-cli is now supported by asdf!
+
+💡 Run `asdf plugin-add balena-cli` to install it.
+🔗 https://github.com/boatkit-io/asdf-balena-cli
