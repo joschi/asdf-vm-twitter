@@ -102,6 +102,7 @@
 0.9.8
 0.9.9
 1.0.0
+1.0.1
 cross-test
 package-test
 publish-changelog-tag
