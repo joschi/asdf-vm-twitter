@@ -236,6 +236,7 @@
 2.5.3-rc.0
 2.5.3-rc.1
 2.5.4-test.0
+2.5.4-test.1
 chart-v0.1.0
 rpc/v2.0.0
 rpc/v2.0.0-rc.0
@@ -366,3 +367,4 @@ rpc/v2.5.3
 rpc/v2.5.3-rc.0
 rpc/v2.5.3-rc.1
 rpc/v2.5.4-test.0
+rpc/v2.5.4-test.1
