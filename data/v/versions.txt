@@ -77,3 +77,4 @@ weekly.2022.06
 weekly.2022.07
 weekly.2022.09
 weekly.2022.10
+weekly.2022.11
