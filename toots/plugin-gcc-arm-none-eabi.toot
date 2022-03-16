@@ -1,0 +1,4 @@
+💥 gcc-arm-none-eabi is now supported by asdf!
+
+💡 Run `asdf plugin-add gcc-arm-none-eabi` to install it.
+🔗 https://github.com/dlech/asdf-gcc-arm-none-eabi.git
