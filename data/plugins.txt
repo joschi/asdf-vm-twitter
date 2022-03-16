@@ -19,6 +19,7 @@ argo-rollouts
 argocd
 aria2
 asciidoctorj
+assh
 aws-copilot
 aws-iam-authenticator
 aws-nuke
@@ -75,6 +76,7 @@ cookiecutter
 copper
 coq
 cosign
+coursier
 crc
 credhub
 crossplane-cli
@@ -135,6 +137,7 @@ furyctl
 fx
 fzf
 gauche
+gcc-arm-none-eabi
 gcloud
 getenvoy
 ghidra
@@ -388,6 +391,7 @@ starport
 starship
 stern
 stylua
+swag
 swift
 swiftformat
 swiftgen
@@ -399,6 +403,7 @@ talos
 tanka
 task
 tekton-cli
+teleport-ent
 telepresence
 terraform
 terraform-docs
@@ -415,6 +420,7 @@ tilt
 titan
 tmux
 tokei
+tonnage
 trdsql
 tridentctl
 trivy
@@ -435,6 +441,7 @@ waypoint
 websocat
 wren-cli
 wtfutil
+xchtmlreport
 xcodegen
 xh
 yadm
