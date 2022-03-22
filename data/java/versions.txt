@@ -960,6 +960,7 @@ sapmachine-16.0.2
 sapmachine-17
 sapmachine-17.0.1
 sapmachine-17.0.2
+sapmachine-18
 sapmachine-jre-11.0.10
 sapmachine-jre-11.0.11
 sapmachine-jre-11.0.12
@@ -985,6 +986,7 @@ sapmachine-jre-16.0.2
 sapmachine-jre-17
 sapmachine-jre-17.0.1
 sapmachine-jre-17.0.2
+sapmachine-jre-18
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
