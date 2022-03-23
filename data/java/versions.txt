@@ -396,7 +396,6 @@ corretto-17.0.0.35.1
 corretto-17.0.1.12.1
 corretto-17.0.2.8.1
 corretto-18.0.0.35.1
-corretto-18.0.0.37.1
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -935,7 +934,6 @@ openjdk-16.0.2
 openjdk-17
 openjdk-17.0.1
 openjdk-17.0.2
-openjdk-18
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
@@ -967,7 +965,6 @@ sapmachine-16.0.2
 sapmachine-17
 sapmachine-17.0.1
 sapmachine-17.0.2
-sapmachine-18
 sapmachine-jre-11.0.10
 sapmachine-jre-11.0.11
 sapmachine-jre-11.0.12
