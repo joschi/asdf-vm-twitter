@@ -42,11 +42,15 @@ function update_plugin_versions {
 
 	asdf list-all "${plugin}" | sort | uniq > "${TEMP_DIR}/${plugin}-new.txt" || return 1
 
-	if [[ ! -r "${plugin_dir}/versions.txt" ]]
+	if [[ ! -e "${plugin_dir}/versions.txt" ]]
 	then
+		# New plugin with new versions: Restrict output to the latest version to avoid Tweet storms
 		touch "${plugin_dir}/versions.txt"
+		comm -13 "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt" | sort -V | tail -n1 > "${TEMP_DIR}/${plugin}-added.txt"
+	else
+		# Existing plugin with new versions: Output all versions
+		comm -13 "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt" | sort -V > "${TEMP_DIR}/${plugin}-added.txt"
 	fi
-	comm -13 "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt" | sort -V | tail -n1 > "${TEMP_DIR}/${plugin}-added.txt"
 
 	while IFS= read -r version
 	do
