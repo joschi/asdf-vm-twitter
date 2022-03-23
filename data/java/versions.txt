@@ -395,6 +395,8 @@ corretto-16.0.2.7.1
 corretto-17.0.0.35.1
 corretto-17.0.1.12.1
 corretto-17.0.2.8.1
+corretto-18.0.0.35.1
+corretto-18.0.0.37.1
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -432,6 +434,8 @@ corretto-musl-16.0.2.7.1
 corretto-musl-17.0.0.35.1
 corretto-musl-17.0.1.12.1
 corretto-musl-17.0.2.8.1
+corretto-musl-18.0.0.35.1
+corretto-musl-18.0.0.37.1
 corretto-musl-8.252.09.1
 corretto-musl-8.262.10.2
 corretto-musl-8.265.01.2
@@ -453,6 +457,8 @@ dragonwell-11.0.14.10
 dragonwell-11.0.7.2+9
 dragonwell-11.0.8.3
 dragonwell-11.0.9.4
+dragonwell-17.0.1.0.1+12
+dragonwell-17.0.2.0.2+8
 dragonwell-8.0.0
 dragonwell-8.1.1
 dragonwell-8.10.11
@@ -929,6 +935,7 @@ openjdk-16.0.2
 openjdk-17
 openjdk-17.0.1
 openjdk-17.0.2
+openjdk-18
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
@@ -1111,6 +1118,7 @@ zulu-16.32.15
 zulu-17.28.13
 zulu-17.30.15
 zulu-17.32.13
+zulu-18.28.13
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -1260,6 +1268,7 @@ zulu-javafx-16.32.15
 zulu-javafx-17.28.13
 zulu-javafx-17.30.15
 zulu-javafx-17.32.13
+zulu-javafx-18.28.13
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -1318,6 +1327,7 @@ zulu-jre-16.32.15
 zulu-jre-17.28.13
 zulu-jre-17.30.15
 zulu-jre-17.32.13
+zulu-jre-18.28.13
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -1374,6 +1384,7 @@ zulu-jre-javafx-15.38.17
 zulu-jre-javafx-17.28.13
 zulu-jre-javafx-17.30.15
 zulu-jre-javafx-17.32.13
+zulu-jre-javafx-18.28.13
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -1430,6 +1441,7 @@ zulu-jre-musl-16.32.15
 zulu-jre-musl-17.28.13
 zulu-jre-musl-17.30.15
 zulu-jre-musl-17.32.13
+zulu-jre-musl-18.28.13
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -1496,6 +1508,7 @@ zulu-musl-16.32.15
 zulu-musl-17.28.13
 zulu-musl-17.30.15
 zulu-musl-17.32.13
+zulu-musl-18.28.13
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
