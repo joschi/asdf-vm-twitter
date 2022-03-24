@@ -328,6 +328,7 @@ jruby-9.3.0.0
 jruby-9.3.1.0
 jruby-9.3.2.0
 jruby-9.3.3.0
+jruby-9.3.4.0
 jruby-dev
 maglev-1.0.0
 maglev-1.1.0-dev
