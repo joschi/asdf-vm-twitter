@@ -1030,6 +1030,7 @@ temurin-16.0.2+7
 temurin-17.0.0+35
 temurin-17.0.1+12
 temurin-17.0.2+8
+temurin-18.0.0+36
 temurin-8.0.302+8
 temurin-8.0.312+7
 temurin-8.0.322+6
