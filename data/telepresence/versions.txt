@@ -240,6 +240,7 @@
 2.5.4-rc.2
 2.5.4-rc.3
 2.5.4-rc.4
+2.5.4-rc.5
 2.5.4-test.0
 2.5.4-test.1
 2.5.4-test.2
@@ -378,6 +379,7 @@ rpc/v2.5.4-rc.1
 rpc/v2.5.4-rc.2
 rpc/v2.5.4-rc.3
 rpc/v2.5.4-rc.4
+rpc/v2.5.4-rc.5
 rpc/v2.5.4-test.0
 rpc/v2.5.4-test.1
 rpc/v2.5.4-test.2
