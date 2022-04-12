@@ -308,6 +308,7 @@
 6.0.0-alpha.0
 6.0.0-alpha.1
 6.0.0-alpha.10
+6.0.0-alpha.11
 6.0.0-alpha.2
 6.0.0-alpha.3
 6.0.0-alpha.4
