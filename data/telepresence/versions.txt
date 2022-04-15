@@ -250,6 +250,7 @@
 2.5.5
 2.5.5-rc.0
 2.5.6-podd.0
+2.5.6-rc.0
 chart-v0.1.0
 rpc/v2.0.0
 rpc/v2.0.0-rc.0
@@ -393,3 +394,4 @@ rpc/v2.5.4-test.3
 rpc/v2.5.5
 rpc/v2.5.5-rc.0
 rpc/v2.5.6-podd.0
+rpc/v2.5.6-rc.0
