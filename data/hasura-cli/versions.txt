@@ -136,5 +136,6 @@ cli/v2.1.0
 cli/v2.1.1
 cli/v2.2.0
 cli/v2.5.1
+cli/v2.6.0
 draft-release-test
 shadow-tag-test
