@@ -433,6 +433,7 @@
 2.13.0-0.1.pre-beta
 2.13.0-0.1.pre-dev
 2.13.0-0.2.pre-beta
+2.13.0-0.3.pre-beta
 2.2.0-10.1.pre-beta
 2.2.0-10.1.pre-dev
 2.2.0-10.2.pre-beta
