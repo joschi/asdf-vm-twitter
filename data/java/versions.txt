@@ -555,6 +555,7 @@ java-se-ri-8u41-b04
 java-se-ri-9+181
 kona-17.0.0.b1
 kona-17.0.2.b1
+kona-17.0.3.b1
 kona-8.0.0-232
 kona-8.0.1-242
 kona-8.0.2.b1
@@ -1021,6 +1022,7 @@ sapmachine-11.0.13
 sapmachine-11.0.14
 sapmachine-11.0.14.1
 sapmachine-11.0.15
+sapmachine-11.0.15.0.1
 sapmachine-11.0.6
 sapmachine-11.0.6.0.1
 sapmachine-11.0.7
@@ -1041,6 +1043,7 @@ sapmachine-17
 sapmachine-17.0.1
 sapmachine-17.0.2
 sapmachine-17.0.3
+sapmachine-17.0.3.0.1
 sapmachine-18
 sapmachine-18.0.1
 sapmachine-jre-11.0.10
@@ -1050,6 +1053,7 @@ sapmachine-jre-11.0.13
 sapmachine-jre-11.0.14
 sapmachine-jre-11.0.14.1
 sapmachine-jre-11.0.15
+sapmachine-jre-11.0.15.0.1
 sapmachine-jre-11.0.6
 sapmachine-jre-11.0.6.0.1
 sapmachine-jre-11.0.7
@@ -1070,6 +1074,7 @@ sapmachine-jre-17
 sapmachine-jre-17.0.1
 sapmachine-jre-17.0.2
 sapmachine-jre-17.0.3
+sapmachine-jre-17.0.3.0.1
 sapmachine-jre-18
 sapmachine-jre-18.0.1
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
