@@ -11,6 +11,7 @@ adoptopenjdk-11.0.12+7
 adoptopenjdk-11.0.13+8
 adoptopenjdk-11.0.14+101
 adoptopenjdk-11.0.14+9
+adoptopenjdk-11.0.15+10
 adoptopenjdk-11.0.2+7
 adoptopenjdk-11.0.2+9
 adoptopenjdk-11.0.2+9.openj9-0.12.0
@@ -63,6 +64,9 @@ adoptopenjdk-16.0.2+7
 adoptopenjdk-17.0.0+35
 adoptopenjdk-17.0.1+12
 adoptopenjdk-17.0.2+8
+adoptopenjdk-17.0.3+7
+adoptopenjdk-18.0.0+36
+adoptopenjdk-18.0.1+10
 adoptopenjdk-8.0.162+12.openj9-0.8.0
 adoptopenjdk-8.0.181+13
 adoptopenjdk-8.0.181+13.openj9-0.9.0
@@ -98,6 +102,7 @@ adoptopenjdk-8.0.292+10
 adoptopenjdk-8.0.302+8
 adoptopenjdk-8.0.312+7
 adoptopenjdk-8.0.322+6
+adoptopenjdk-8.0.332+9
 adoptopenjdk-9.0.0+181
 adoptopenjdk-9.0.4+11
 adoptopenjdk-9.0.4+12.openj9-0.9.0
@@ -109,6 +114,7 @@ adoptopenjdk-jre-11.0.12+7
 adoptopenjdk-jre-11.0.13+8
 adoptopenjdk-jre-11.0.14+101
 adoptopenjdk-jre-11.0.14+9
+adoptopenjdk-jre-11.0.15+10
 adoptopenjdk-jre-11.0.2+7
 adoptopenjdk-jre-11.0.2+9
 adoptopenjdk-jre-11.0.3+7
@@ -135,6 +141,8 @@ adoptopenjdk-jre-16.0.0+36
 adoptopenjdk-jre-16.0.1+9
 adoptopenjdk-jre-17.0.1+12
 adoptopenjdk-jre-17.0.2+8
+adoptopenjdk-jre-17.0.3+7
+adoptopenjdk-jre-18.0.1+10
 adoptopenjdk-jre-8.0.181+13
 adoptopenjdk-jre-8.0.192+12
 adoptopenjdk-jre-8.0.202+8
@@ -153,6 +161,7 @@ adoptopenjdk-jre-8.0.292+10
 adoptopenjdk-jre-8.0.302+8
 adoptopenjdk-jre-8.0.312+7
 adoptopenjdk-jre-8.0.322+6
+adoptopenjdk-jre-8.0.332+9
 adoptopenjdk-jre-9.0.0+181
 adoptopenjdk-jre-9.0.4+11
 adoptopenjdk-jre-openj9-11.0.0+28.OpenJDK11-jre_x64_linux_openj9_11_28.tar.gz
@@ -1048,6 +1057,7 @@ sapmachine-17.0.3
 sapmachine-17.0.3.0.1
 sapmachine-18
 sapmachine-18.0.1
+sapmachine-18.0.1.1
 sapmachine-jre-11.0.10
 sapmachine-jre-11.0.11
 sapmachine-jre-11.0.12
@@ -1079,6 +1089,7 @@ sapmachine-jre-17.0.3
 sapmachine-jre-17.0.3.0.1
 sapmachine-jre-18
 sapmachine-jre-18.0.1
+sapmachine-jre-18.0.1.1
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
