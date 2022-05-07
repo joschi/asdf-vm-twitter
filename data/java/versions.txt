@@ -479,6 +479,7 @@ dragonwell-17.0.2.0.2+8
 dragonwell-8.0.0
 dragonwell-8.1.1
 dragonwell-8.10.11
+dragonwell-8.11.12
 dragonwell-8.2.2
 dragonwell-8.3.3
 dragonwell-8.4.4
