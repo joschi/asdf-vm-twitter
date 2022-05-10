@@ -520,6 +520,7 @@ truffleruby+graalvm-21.1.0
 truffleruby+graalvm-21.2.0
 truffleruby+graalvm-21.3.0
 truffleruby+graalvm-22.0.0.2
+truffleruby+graalvm-22.1.0
 truffleruby+graalvm-dev
 truffleruby-1.0.0-rc10
 truffleruby-1.0.0-rc11
@@ -552,5 +553,6 @@ truffleruby-21.2.0
 truffleruby-21.2.0.1
 truffleruby-21.3.0
 truffleruby-22.0.0.2
+truffleruby-22.1.0
 truffleruby-dev
 yjit-dev
