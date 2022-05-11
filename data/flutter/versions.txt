@@ -479,6 +479,7 @@
 2.8.1-stable
 2.9.0-0.1.pre-beta
 2.9.0-0.1.pre-dev
+3.0.0-stable
 in
 is
 jq
