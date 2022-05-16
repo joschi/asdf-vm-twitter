@@ -226,6 +226,7 @@ k6
 k9s
 kapp
 kbld
+kcat
 kcctl
 kconf
 ki
@@ -309,6 +310,7 @@ nova
 nuclei
 oc
 ocaml
+odo
 okteto
 om
 opa
