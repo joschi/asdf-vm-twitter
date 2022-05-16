@@ -1,0 +1,4 @@
+💥 cilium-cli is now supported by asdf!
+
+💡 Run `asdf plugin-add cilium-cli` to install it.
+🔗 https://github.com/carnei-ro/asdf-cilium-cli.git
