@@ -40,6 +40,7 @@ bitwarden
 bombardier
 bosh
 boundary
+bpkg
 brig
 btrace
 buf
@@ -56,6 +57,7 @@ checkov
 chezmoi
 chezscheme
 chicken
+cilium-cli
 clojure
 cloudflared
 cloudsql-proxy
@@ -84,6 +86,7 @@ crystal
 ctlptl
 ctop
 cue
+dagger
 dart
 dasel
 dbmate
@@ -107,10 +110,12 @@ doctoolchain
 docuum
 dome
 dotenv-linter
+dotnet
 dotnet-core
 dotty
 draft
 driftctl
+drone
 duf
 dust
 dyff
@@ -130,6 +135,7 @@ exa
 fd
 figma-export
 firebase
+fission
 flutter
 flux2
 fluxctl
@@ -244,6 +250,7 @@ ktlint
 kube-capacity
 kube-code-generator
 kube-controller-tools
+kube-score
 kubebuilder
 kubeconform
 kubectl
@@ -252,6 +259,7 @@ kubectl-kots
 kubectx
 kubefedctl
 kubemqctl
+kubent
 kubergrunt
 kubeseal
 kubesec
@@ -296,6 +304,7 @@ mockery
 mongo-tools
 mongodb
 mongosh
+mutanus
 mvnd
 mysql
 nano
@@ -358,6 +367,7 @@ rlwrap
 rstash
 ruby
 rust
+rust-analyzer
 saml2aws
 sbcl
 sbt
@@ -417,6 +427,7 @@ terragrunt
 tfenv
 tflint
 tfsec
+tfstate-lookup
 tfupdate
 thrift
 tilt
@@ -424,9 +435,11 @@ titan
 tmux
 tokei
 tonnage
+tool-versions-to-env
 trdsql
 tridentctl
 trivy
+tsuru
 upx
 usql
 v
