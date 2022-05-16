@@ -122,6 +122,7 @@ elixir
 elm
 embulk
 emsdk
+envcli
 erlang
 esy
 etcd
