@@ -110,6 +110,7 @@
 1.13.0-otp-22
 1.13.0-otp-23
 1.13.0-otp-24
+1.13.0-otp-25
 1.13.0-rc.0
 1.13.0-rc.0-otp-22
 1.13.0-rc.0-otp-23
@@ -130,10 +131,12 @@
 1.13.3-otp-22
 1.13.3-otp-23
 1.13.3-otp-24
+1.13.3-otp-25
 1.13.4
 1.13.4-otp-22
 1.13.4-otp-23
 1.13.4-otp-24
+1.13.4-otp-25
 1.14.0-dev
 1.14.0-dev-otp-22
 1.14.0-dev-otp-23
@@ -345,6 +348,7 @@ main
 main-otp-22
 main-otp-23
 main-otp-24
+main-otp-25
 master
 master-otp-21
 master-otp-22
