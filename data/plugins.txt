@@ -49,6 +49,7 @@ bundler
 caddy
 carthage
 ccache
+certstrap
 cf
 cfssl
 chamber
@@ -140,6 +141,7 @@ flutter
 flux2
 fluxctl
 fly
+func-e
 furyctl
 fx
 fzf
