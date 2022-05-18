@@ -1,0 +1,4 @@
+💥 certstrap is now supported by asdf!
+
+💡 Run `asdf plugin-add certstrap` to install it.
+🔗 https://github.com/carnei-ro/asdf-certstrap.git
