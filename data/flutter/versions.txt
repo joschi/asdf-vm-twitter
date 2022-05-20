@@ -480,6 +480,7 @@
 2.9.0-0.1.pre-beta
 2.9.0-0.1.pre-dev
 3.0.0-stable
+3.0.1-stable
 in
 is
 jq
