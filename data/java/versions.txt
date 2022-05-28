@@ -1096,6 +1096,8 @@ sapmachine-jre-17.0.3.0.1
 sapmachine-jre-18
 sapmachine-jre-18.0.1
 sapmachine-jre-18.0.1.1
+sapmachine-jre-musl-18.0.1.1-beta
+sapmachine-musl-18.0.1.1-beta
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
