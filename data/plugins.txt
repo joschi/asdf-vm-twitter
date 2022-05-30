@@ -75,6 +75,7 @@ conform
 conftest
 consul
 container-diff
+container-structure-test
 cookiecutter
 copper
 coq
@@ -145,6 +146,7 @@ func-e
 furyctl
 fx
 fzf
+gam
 gauche
 gcc-arm-none-eabi
 gcloud
@@ -164,6 +166,7 @@ go-getter
 go-jira
 go-jsonnet
 go-sdk
+go-swagger
 gohugo
 gojq
 golang
@@ -292,6 +295,7 @@ maven
 mc
 mdbook
 mdbook-linkcheck
+memcached
 meson
 micronaut
 mill
@@ -327,6 +331,7 @@ om
 opa
 opam
 openresty
+openshift-install
 operator-sdk
 osm
 osqueryi
@@ -404,6 +409,7 @@ stack
 starboard
 starport
 starship
+steampipe
 stern
 stylua
 swag
