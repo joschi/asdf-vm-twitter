@@ -59,6 +59,7 @@ chezmoi
 chezscheme
 chicken
 cilium-cli
+cilium-hubble
 clojure
 cloudflared
 cloudsql-proxy
@@ -161,6 +162,7 @@ github-markdown-toc
 gitui
 glab
 gleam
+glooctl
 go-containerregistry
 go-getter
 go-jira
