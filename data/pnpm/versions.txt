@@ -877,6 +877,7 @@
 7.1.5
 7.1.6
 7.1.7
+7.1.8
 @pnpm/headless@0.6.2
 @pnpm/outdated/0.0.1
 @pnpm/outdated/0.0.2
