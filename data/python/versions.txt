@@ -207,6 +207,7 @@ anaconda2-2.5.0
 anaconda2-2018.12
 anaconda2-2019.03
 anaconda2-2019.07
+anaconda2-2019.10
 anaconda2-4.0.0
 anaconda2-4.1.0
 anaconda2-4.1.1
@@ -235,8 +236,10 @@ anaconda3-2019.10
 anaconda3-2020.02
 anaconda3-2020.07
 anaconda3-2020.11
+anaconda3-2021.04
 anaconda3-2021.05
 anaconda3-2021.11
+anaconda3-2022.05
 anaconda3-4.0.0
 anaconda3-4.1.0
 anaconda3-4.1.1
