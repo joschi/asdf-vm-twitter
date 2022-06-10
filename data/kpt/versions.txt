@@ -35,6 +35,7 @@ v1.0.0-beta.13
 v1.0.0-beta.14
 v1.0.0-beta.15
 v1.0.0-beta.16
+v1.0.0-beta.17
 v1.0.0-beta.2
 v1.0.0-beta.3
 v1.0.0-beta.4
