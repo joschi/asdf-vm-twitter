@@ -257,6 +257,7 @@ ktlint
 kube-capacity
 kube-code-generator
 kube-controller-tools
+kube-linter
 kube-score
 kubebuilder
 kubeconform
@@ -356,6 +357,7 @@ pulumi
 purescript
 purty
 python
+quarkus
 rabbitmq
 racket
 rancher
