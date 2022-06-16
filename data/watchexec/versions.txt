@@ -68,3 +68,4 @@ lib-v1.16.1
 lib-v1.17.0
 lib-v1.17.1
 lib-v2.0.0-pre.0
+project-origins-1.0.0
