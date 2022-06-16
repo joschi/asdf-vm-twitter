@@ -63,6 +63,7 @@ cli-v1.16.1
 cli-v1.16.2
 cli-v1.17.0
 cli-v1.17.1
+ignore-files-v1.0.0
 lib-v1.16.0
 lib-v1.16.1
 lib-v1.17.0
