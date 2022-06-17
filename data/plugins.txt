@@ -436,6 +436,7 @@ terraform-ls
 terraform-lsp
 terraform-validator
 terragrunt
+tfc-agent
 tfenv
 tflint
 tfsec
