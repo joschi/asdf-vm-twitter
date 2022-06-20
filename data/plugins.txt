@@ -316,6 +316,7 @@ mongosh
 mutanus
 mvnd
 mysql
+nancy
 nano
 neko
 neovim
@@ -385,6 +386,7 @@ sbcl
 sbt
 scala
 scaleway-cli
+sccache
 scenery
 schemacrawler
 semgrep
