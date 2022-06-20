@@ -340,6 +340,7 @@ osm
 osqueryi
 pachctl
 packer
+pdm
 peco
 perl
 php
@@ -415,6 +416,7 @@ starport
 starship
 steampipe
 stern
+stripe-cli
 stylua
 swag
 swift
