@@ -140,6 +140,7 @@
 2.7.0-beta.1
 2.8.0
 2.8.0-beta.1
+2.8.1
 cli/v2.1.0
 cli/v2.1.1
 cli/v2.2.0
@@ -149,5 +150,6 @@ cli/v2.7.0
 cli/v2.7.0-beta.1
 cli/v2.8.0
 cli/v2.8.0-beta.1
+cli/v2.8.1
 draft-release-test
 shadow-tag-test
