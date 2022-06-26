@@ -28,6 +28,7 @@
 0.6.0
 0.6.1
 0.7.0
+0.7.1
 eval-clear-rebase-1-compiles-and-passes-u-tests-3-next
 eval-clear-rebase-1-compiles-and-passes-u-tests-4-next
 eval-clear-rebase-1-compiles-and-passes-u-tests-5-next
