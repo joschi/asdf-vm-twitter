@@ -322,6 +322,7 @@ nano
 neko
 neovim
 newrelic-cli
+nfpm
 nim
 ninja
 nodejs
@@ -452,6 +453,7 @@ tilt
 titan
 tmux
 tokei
+tomcat
 tonnage
 tool-versions-to-env
 trdsql
