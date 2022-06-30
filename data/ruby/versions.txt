@@ -321,6 +321,7 @@ jruby-9.2.18.0
 jruby-9.2.19.0
 jruby-9.2.20.0
 jruby-9.2.20.1
+jruby-9.2.21.0
 jruby-9.2.3.0
 jruby-9.2.4.0
 jruby-9.2.4.1
@@ -334,6 +335,7 @@ jruby-9.3.1.0
 jruby-9.3.2.0
 jruby-9.3.3.0
 jruby-9.3.4.0
+jruby-9.3.6.0
 jruby-dev
 maglev-1.0.0
 maglev-1.1.0-dev
@@ -350,7 +352,9 @@ mruby-2.1.0
 mruby-2.1.1
 mruby-2.1.2
 mruby-3.0.0
+mruby-3.1.0
 mruby-dev
+picoruby-3.0.0
 rbx-2.10
 rbx-2.11
 rbx-2.2.10
