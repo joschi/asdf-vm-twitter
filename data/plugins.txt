@@ -12,6 +12,7 @@ aks-engine
 alias
 allure
 alp
+amazon-ecr-credential-helper
 ansible-base
 ant
 apollo-router
