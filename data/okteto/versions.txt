@@ -207,5 +207,6 @@
 2.4.1-beta.4
 2.4.1-beta.5
 2.4.2-beta.1
+2.4.2-beta.2
 V2.4.0-beta.1
 ersion
