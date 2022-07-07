@@ -47,6 +47,7 @@ brig
 btrace
 buf
 buildpack
+bun
 bundler
 caddy
 carthage
