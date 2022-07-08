@@ -165,6 +165,7 @@ github-markdown-toc
 gitui
 glab
 gleam
+glen
 glooctl
 go-containerregistry
 go-getter
@@ -424,6 +425,7 @@ steampipe
 stern
 stripe-cli
 stylua
+svu
 swag
 swift
 swiftformat
