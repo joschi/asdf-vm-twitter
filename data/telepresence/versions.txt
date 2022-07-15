@@ -287,6 +287,8 @@
 2.6.7-rc.0
 2.6.8
 2.6.8-rc.0
+2.6.9-test.0
+2.6.9-test.1
 chart-v0.1.0
 rpc/v2.0.0
 rpc/v2.0.0-rc.0
@@ -466,3 +468,5 @@ rpc/v2.6.7
 rpc/v2.6.7-rc.0
 rpc/v2.6.8
 rpc/v2.6.8-rc.0
+rpc/v2.6.9-test.0
+rpc/v2.6.9-test.1
