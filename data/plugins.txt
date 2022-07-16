@@ -350,6 +350,7 @@ pdm
 peco
 perl
 php
+pint
 pivnet
 please
 pluto
