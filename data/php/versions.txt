@@ -1040,3 +1040,4 @@
 8.2.0alpha1
 8.2.0alpha2
 8.2.0alpha3
+8.2.0beta1
