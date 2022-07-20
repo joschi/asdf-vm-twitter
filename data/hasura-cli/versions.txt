@@ -146,6 +146,7 @@
 2.8.4
 2.9.0-beta.1
 2.9.0-beta.2
+2.9.0-beta.3
 cli/v2.1.0
 cli/v2.1.1
 cli/v2.2.0
@@ -161,5 +162,6 @@ cli/v2.8.3
 cli/v2.8.4
 cli/v2.9.0-beta.1
 cli/v2.9.0-beta.2
+cli/v2.9.0-beta.3
 draft-release-test
 shadow-tag-test
