@@ -441,6 +441,7 @@ corretto-8.322.06.2
 corretto-8.332.08.1
 corretto-8.342.07.1
 corretto-8.342.07.3
+corretto-8.342.07.4
 corretto-musl-11.0.10.9.1
 corretto-musl-11.0.11.9.1
 corretto-musl-11.0.12.7.1
@@ -483,6 +484,7 @@ corretto-musl-8.322.06.2
 corretto-musl-8.332.08.1
 corretto-musl-8.342.07.1
 corretto-musl-8.342.07.3
+corretto-musl-8.342.07.4
 dragonwell-11.0.10.5
 dragonwell-11.0.11.6
 dragonwell-11.0.11.7
@@ -1500,6 +1502,7 @@ zulu-javafx-11.52.13
 zulu-javafx-11.54.23
 zulu-javafx-11.54.25
 zulu-javafx-11.56.19
+zulu-javafx-11.58.15
 zulu-javafx-13.29.11
 zulu-javafx-13.31.11
 zulu-javafx-13.33.25
@@ -1511,6 +1514,7 @@ zulu-javafx-13.42.17
 zulu-javafx-13.44.13
 zulu-javafx-13.46.15
 zulu-javafx-13.48.19
+zulu-javafx-13.50.15
 zulu-javafx-14.29.23
 zulu-javafx-15.27.17
 zulu-javafx-15.28.13
@@ -1521,6 +1525,7 @@ zulu-javafx-15.34.17
 zulu-javafx-15.36.13
 zulu-javafx-15.38.17
 zulu-javafx-15.40.19
+zulu-javafx-15.42.15
 zulu-javafx-16.28.11
 zulu-javafx-16.30.15
 zulu-javafx-16.32.15
@@ -1528,8 +1533,10 @@ zulu-javafx-17.28.13
 zulu-javafx-17.30.15
 zulu-javafx-17.32.13
 zulu-javafx-17.34.19
+zulu-javafx-17.36.13
 zulu-javafx-18.28.13
 zulu-javafx-18.30.11
+zulu-javafx-18.32.11
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -1547,6 +1554,7 @@ zulu-javafx-8.56.0.21
 zulu-javafx-8.58.0.13
 zulu-javafx-8.60.0.21
 zulu-javafx-8.62.0.19
+zulu-javafx-8.64.0.15
 zulu-jre-11.31.11
 zulu-jre-11.33.15
 zulu-jre-11.35.13
@@ -1637,6 +1645,7 @@ zulu-jre-javafx-11.52.13
 zulu-jre-javafx-11.54.23
 zulu-jre-javafx-11.54.25
 zulu-jre-javafx-11.56.19
+zulu-jre-javafx-11.58.15
 zulu-jre-javafx-13.29.11
 zulu-jre-javafx-13.31.11
 zulu-jre-javafx-13.33.25
@@ -1648,6 +1657,7 @@ zulu-jre-javafx-13.42.17
 zulu-jre-javafx-13.44.13
 zulu-jre-javafx-13.46.15
 zulu-jre-javafx-13.48.19
+zulu-jre-javafx-13.50.15
 zulu-jre-javafx-14.29.23
 zulu-jre-javafx-15.27.17
 zulu-jre-javafx-15.28.13
@@ -1658,12 +1668,15 @@ zulu-jre-javafx-15.34.17
 zulu-jre-javafx-15.36.13
 zulu-jre-javafx-15.38.17
 zulu-jre-javafx-15.40.19
+zulu-jre-javafx-15.42.15
 zulu-jre-javafx-17.28.13
 zulu-jre-javafx-17.30.15
 zulu-jre-javafx-17.32.13
 zulu-jre-javafx-17.34.19
+zulu-jre-javafx-17.36.13
 zulu-jre-javafx-18.28.13
 zulu-jre-javafx-18.30.11
+zulu-jre-javafx-18.32.11
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -1679,6 +1692,7 @@ zulu-jre-javafx-8.56.0.21
 zulu-jre-javafx-8.58.0.13
 zulu-jre-javafx-8.60.0.21
 zulu-jre-javafx-8.62.0.19
+zulu-jre-javafx-8.64.0.15
 zulu-jre-musl-11.31.11
 zulu-jre-musl-11.33.15
 zulu-jre-musl-11.35.13
