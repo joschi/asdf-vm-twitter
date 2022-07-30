@@ -479,6 +479,7 @@ vendir
 viddy
 vim
 wasi-sdk
+wasm4
 watchexec
 waypoint
 websocat
