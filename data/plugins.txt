@@ -423,6 +423,7 @@ starboard
 starport
 starship
 steampipe
+step
 stern
 stripe-cli
 stylua
