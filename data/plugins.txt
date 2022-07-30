@@ -334,6 +334,7 @@ nova
 nuclei
 oc
 ocaml
+odin
 odo
 okteto
 om
