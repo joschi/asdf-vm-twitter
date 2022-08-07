@@ -30,6 +30,7 @@ aws-vault
 awscli
 awsebcli
 azure-cli
+azure-functions-core-tools
 babashka
 balena-cli
 bashbot
@@ -362,6 +363,7 @@ poetry
 polaris
 popeye
 postgres
+powershell-core
 pre-commit
 protoc
 pulumi
@@ -451,6 +453,7 @@ terraform-ls
 terraform-lsp
 terraform-validator
 terragrunt
+terramate
 tfc-agent
 tfenv
 tflint
