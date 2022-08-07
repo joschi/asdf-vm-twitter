@@ -122,6 +122,7 @@ dotty
 draft
 driftctl
 drone
+dtm
 duf
 dust
 dyff
@@ -218,6 +219,7 @@ idris
 idris2
 imagemagick
 imgpkg
+infracost
 inlets
 io
 istioctl
