@@ -41,6 +41,7 @@ bazel
 binnacle
 bitwarden
 bombardier
+borg
 bosh
 boundary
 bpkg
@@ -457,6 +458,7 @@ terramate
 tfc-agent
 tfenv
 tflint
+tfmigrate
 tfsec
 tfstate-lookup
 tfupdate
