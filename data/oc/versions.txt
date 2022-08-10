@@ -1259,6 +1259,7 @@ latest-4.8
 latest-4.9
 stable-4.1
 stable-4.10
+stable-4.11
 stable-4.2
 stable-4.3
 stable-4.4
