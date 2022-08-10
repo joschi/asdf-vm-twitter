@@ -1237,6 +1237,7 @@ candidate-4.7
 candidate-4.8
 candidate-4.9
 fast-4.10
+fast-4.11
 fast-4.2
 fast-4.3
 fast-4.4
@@ -1247,6 +1248,7 @@ fast-4.8
 fast-4.9
 latest-4.1
 latest-4.10
+latest-4.11
 latest-4.2
 latest-4.3
 latest-4.4
