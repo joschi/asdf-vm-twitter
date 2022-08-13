@@ -16,6 +16,7 @@ amazon-ecr-credential-helper
 ansible-base
 ant
 apollo-router
+arc
 argo
 argo-rollouts
 argocd
@@ -145,6 +146,7 @@ fd
 figma-export
 firebase
 fission
+flarectl
 flutter
 flux2
 fluxctl
@@ -195,6 +197,7 @@ grpc-health-probe
 grpcurl
 grype
 guile
+gum
 gwvault
 hadolint
 hamler
@@ -291,6 +294,7 @@ lean
 leiningen
 levant
 lfe
+link
 linkerd
 litestream
 logtalk
@@ -347,6 +351,7 @@ opam
 openresty
 openshift-install
 operator-sdk
+opsgenie-lamp
 osm
 osqueryi
 pachctl
@@ -383,6 +388,7 @@ redis
 redis-cli
 redskyctl
 reg
+regctl
 riak
 richgo
 riff
@@ -420,6 +426,7 @@ sopstool
 sourcery
 spago
 spark
+spectral
 spin
 spring-boot
 spruce
