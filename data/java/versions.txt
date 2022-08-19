@@ -1153,6 +1153,7 @@ openjdk-18
 openjdk-18.0.1
 openjdk-18.0.1.1
 openjdk-18.0.2
+openjdk-18.0.2.1
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
@@ -1162,6 +1163,7 @@ oracle-17.0.2
 oracle-17.0.3
 oracle-17.0.3.1
 oracle-17.0.4
+oracle-17.0.4.1
 sapmachine-11.0.10
 sapmachine-11.0.11
 sapmachine-11.0.12
