@@ -138,6 +138,7 @@
 @stoplight/spectral-core-v1.12.3
 @stoplight/spectral-core-v1.12.4
 @stoplight/spectral-core-v1.13.0
+@stoplight/spectral-core-v1.13.1
 @stoplight/spectral-core-v1.2.0
 @stoplight/spectral-core-v1.2.1
 @stoplight/spectral-core-v1.3.0
@@ -173,6 +174,7 @@
 @stoplight/spectral-functions-v1.7.1
 @stoplight/spectral-parsers-v1.0.0
 @stoplight/spectral-parsers-v1.0.1
+@stoplight/spectral-parsers-v1.0.2
 @stoplight/spectral-ref-resolver-v1.0.0
 @stoplight/spectral-ref-resolver-v1.0.1
 @stoplight/spectral-ruleset-bundler-v1.0.0
@@ -209,6 +211,7 @@
 @stoplight/spectral-rulesets-v1.11.0
 @stoplight/spectral-rulesets-v1.11.1
 @stoplight/spectral-rulesets-v1.11.2
+@stoplight/spectral-rulesets-v1.11.3
 @stoplight/spectral-rulesets-v1.2.0
 @stoplight/spectral-rulesets-v1.2.1
 @stoplight/spectral-rulesets-v1.2.2
