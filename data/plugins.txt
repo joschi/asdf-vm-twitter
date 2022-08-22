@@ -484,6 +484,7 @@ trdsql
 tridentctl
 trivy
 tsuru
+upt
 upx
 usql
 v
