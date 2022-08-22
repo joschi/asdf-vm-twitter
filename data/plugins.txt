@@ -64,6 +64,8 @@ checkov
 chezmoi
 chezscheme
 chicken
+chromedriver
+cidr-merger
 cilium-cli
 cilium-hubble
 clojure
