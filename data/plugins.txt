@@ -23,6 +23,7 @@ argocd
 aria2
 asciidoctorj
 assh
+aws-amplify-cli
 aws-copilot
 aws-iam-authenticator
 aws-nuke
@@ -167,6 +168,7 @@ ghq
 ginkgo
 git
 git-chglog
+gitconfig
 github-cli
 github-markdown-toc
 gitui
@@ -375,6 +377,9 @@ postgres
 powershell-core
 pre-commit
 protoc
+protoc-gen-go
+protoc-gen-go-grpc
+protoc-gen-grpc-web
 pulumi
 purescript
 purty
