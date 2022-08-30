@@ -493,6 +493,7 @@
 3.3.0-0.3.pre-beta
 3.3.0-0.4.pre-beta
 3.3.0-0.5.pre-beta
+3.3.0-stable
 in
 is
 jq
