@@ -164,6 +164,7 @@ gcc-arm-none-eabi
 gcloud
 getenvoy
 ghidra
+ghorg
 ghq
 ginkgo
 git
