@@ -1460,6 +1460,7 @@ zulu-17.36.17
 zulu-18.28.13
 zulu-18.30.11
 zulu-18.32.11
+zulu-18.32.13
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -1629,6 +1630,7 @@ zulu-javafx-17.36.17
 zulu-javafx-18.28.13
 zulu-javafx-18.30.11
 zulu-javafx-18.32.11
+zulu-javafx-18.32.13
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -1703,6 +1705,7 @@ zulu-jre-17.36.17
 zulu-jre-18.28.13
 zulu-jre-18.30.11
 zulu-jre-18.32.11
+zulu-jre-18.32.13
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -1775,6 +1778,7 @@ zulu-jre-javafx-17.36.17
 zulu-jre-javafx-18.28.13
 zulu-jre-javafx-18.30.11
 zulu-jre-javafx-18.32.11
+zulu-jre-javafx-18.32.13
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -1847,6 +1851,7 @@ zulu-jre-musl-17.36.17
 zulu-jre-musl-18.28.13
 zulu-jre-musl-18.30.11
 zulu-jre-musl-18.32.11
+zulu-jre-musl-18.32.13
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -1932,6 +1937,7 @@ zulu-musl-17.36.17
 zulu-musl-18.28.13
 zulu-musl-18.30.11
 zulu-musl-18.32.11
+zulu-musl-18.32.13
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
