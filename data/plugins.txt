@@ -280,6 +280,7 @@ kubebuilder
 kubeconform
 kubectl
 kubectl-bindrole
+kubectl-buildkit
 kubectl-kots
 kubectx
 kubefedctl
