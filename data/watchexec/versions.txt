@@ -73,6 +73,7 @@ filterer-globset-v1.0.0
 filterer-ignore-v1.0.0
 filterer-tagged-v0.1.0
 ignore-files-v1.0.0
+ignore-files-v1.0.1
 lib-v1.16.0
 lib-v1.16.1
 lib-v1.17.0
@@ -81,5 +82,8 @@ lib-v2.0.0-pre.0
 project-origins-1.0.0
 project-origins-v1.0.0
 project-origins-v1.1.0
+project-origins-v1.1.1
 steps.version.outputs.cli_version
+watchexec-filterer-globset-v1.0.1
+watchexec-filterer-tagged-v0.1.1
 watchexec-v2.0.1
