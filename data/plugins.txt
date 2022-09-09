@@ -109,6 +109,7 @@ dep
 desk
 devspace
 dhall
+difftastic
 digdag
 direnv
 dive
