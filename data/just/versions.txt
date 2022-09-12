@@ -110,6 +110,7 @@
 1.2.0
 1.3.0
 1.4.0
+1.5.0
 arm
 cross-test
 fix-windows-shell-setting-precedence-tag
