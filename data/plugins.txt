@@ -225,6 +225,7 @@ httpie-go
 hub
 hugo
 hygen
+hyperfine
 iam-policy-json-to-terraform
 idris
 idris2
@@ -474,6 +475,7 @@ terraform-validator
 terragrunt
 terramate
 tfc-agent
+tfctl
 tfenv
 tflint
 tfmigrate
