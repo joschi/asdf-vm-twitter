@@ -45,6 +45,7 @@ bitwarden
 bombardier
 borg
 bosh
+bottom
 boundary
 bpkg
 brig
