@@ -315,6 +315,7 @@
 2.7.4-rc.4
 2.7.4-rc.5
 2.7.4-test.0
+2.7.5-rc.0
 chart-v0.1.0
 rpc/v2.0.0
 rpc/v2.0.0-rc.0
@@ -522,3 +523,4 @@ rpc/v2.7.4-rc.3
 rpc/v2.7.4-rc.4
 rpc/v2.7.4-rc.5
 rpc/v2.7.4-test.0
+rpc/v2.7.5-rc.0
