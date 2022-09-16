@@ -32,4 +32,5 @@ helm-loki-3.0.3
 helm-loki-3.0.4
 helm-loki-3.0.5
 helm-loki-3.0.6
+helm-loki-3.0.7
 loki-3.0.0
