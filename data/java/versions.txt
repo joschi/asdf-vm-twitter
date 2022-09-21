@@ -432,6 +432,7 @@ corretto-18.0.0.35.1
 corretto-18.0.0.37.1
 corretto-18.0.1.10.1
 corretto-18.0.2.9.1
+corretto-19.0.0.36.1
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -483,6 +484,7 @@ corretto-musl-18.0.0.35.1
 corretto-musl-18.0.0.37.1
 corretto-musl-18.0.1.10.1
 corretto-musl-18.0.2.9.1
+corretto-musl-19.0.0.36.1
 corretto-musl-8.252.09.1
 corretto-musl-8.262.10.2
 corretto-musl-8.265.01.2
@@ -1172,6 +1174,7 @@ openjdk-18.0.1
 openjdk-18.0.1.1
 openjdk-18.0.2
 openjdk-18.0.2.1
+openjdk-19
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
@@ -1182,6 +1185,12 @@ oracle-17.0.3
 oracle-17.0.3.1
 oracle-17.0.4
 oracle-17.0.4.1
+oracle-18
+oracle-18.0.1
+oracle-18.0.1.1
+oracle-18.0.2
+oracle-18.0.2.1
+oracle-19
 sapmachine-11.0.10
 sapmachine-11.0.11
 sapmachine-11.0.12
@@ -1465,6 +1474,7 @@ zulu-18.28.13
 zulu-18.30.11
 zulu-18.32.11
 zulu-18.32.13
+zulu-19.28.81
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -1635,6 +1645,7 @@ zulu-javafx-18.28.13
 zulu-javafx-18.30.11
 zulu-javafx-18.32.11
 zulu-javafx-18.32.13
+zulu-javafx-19.28.81
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -1710,6 +1721,7 @@ zulu-jre-18.28.13
 zulu-jre-18.30.11
 zulu-jre-18.32.11
 zulu-jre-18.32.13
+zulu-jre-19.28.81
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -1783,6 +1795,7 @@ zulu-jre-javafx-18.28.13
 zulu-jre-javafx-18.30.11
 zulu-jre-javafx-18.32.11
 zulu-jre-javafx-18.32.13
+zulu-jre-javafx-19.28.81
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -1856,6 +1869,7 @@ zulu-jre-musl-18.28.13
 zulu-jre-musl-18.30.11
 zulu-jre-musl-18.32.11
 zulu-jre-musl-18.32.13
+zulu-jre-musl-19.28.81
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -1942,6 +1956,7 @@ zulu-musl-18.28.13
 zulu-musl-18.30.11
 zulu-musl-18.32.11
 zulu-musl-18.32.13
+zulu-musl-19.28.81
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
