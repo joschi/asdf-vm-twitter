@@ -66,6 +66,7 @@ checkov
 chezmoi
 chezscheme
 chicken
+choose
 chromedriver
 cidr-merger
 cilium-cli
@@ -245,6 +246,7 @@ jless
 jmespath
 jmeter
 jq
+jqp
 jreleaser
 jsonnet
 julia
@@ -509,6 +511,8 @@ viddy
 vim
 wasi-sdk
 wasm4
+wasmer
+wasmtime
 watchexec
 waypoint
 websocat
