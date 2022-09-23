@@ -1,0 +1,4 @@
+💥 wasmer is now supported by asdf!
+
+💡 Run `asdf plugin-add wasmer` to install it.
+🔗 https://github.com/tachyonicbytes/asdf-wasmer
