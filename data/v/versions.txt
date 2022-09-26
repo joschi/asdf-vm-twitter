@@ -102,3 +102,4 @@ weekly.2022.35
 weekly.2022.36
 weekly.2022.37
 weekly.2022.38
+weekly.2022.39
