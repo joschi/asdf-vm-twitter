@@ -595,6 +595,8 @@ graalvm-21.3.2+java17
 graalvm-21.3.3+java11
 graalvm-21.3.3+java17
 graalvm-21.3.3+java8
+graalvm-21.3.3.1+java11
+graalvm-21.3.3.1+java17
 graalvm-22.0.0.2+java11
 graalvm-22.0.0.2+java17
 graalvm-22.1.0+java11
