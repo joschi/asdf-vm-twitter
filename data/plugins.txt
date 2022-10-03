@@ -150,6 +150,7 @@ etcd
 exa
 fd
 figma-export
+fillin
 firebase
 fission
 flarectl
