@@ -516,6 +516,7 @@ wasmer
 wasmtime
 watchexec
 waypoint
+weave-gitops
 websocat
 wren-cli
 wtfutil
