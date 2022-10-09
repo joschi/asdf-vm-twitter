@@ -342,3 +342,4 @@
 7.5.1
 7.6-milestone-1
 8.0-milestone-1
+8.0-milestone-2
