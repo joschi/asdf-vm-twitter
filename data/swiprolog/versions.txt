@@ -175,6 +175,7 @@
 8.5.16-devel
 8.5.17-devel
 8.5.18-devel
+8.5.19-devel
 8.5.2-devel
 8.5.3-devel
 8.5.4-devel
