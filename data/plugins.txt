@@ -55,6 +55,8 @@ buildpack
 bun
 bundler
 caddy
+camunda-modeler
+cargo-make
 carthage
 ccache
 certstrap
@@ -128,6 +130,7 @@ dotenv-linter
 dotnet
 dotnet-core
 dotty
+dprint
 draft
 driftctl
 drone
@@ -176,6 +179,7 @@ git-chglog
 gitconfig
 github-cli
 github-markdown-toc
+gitleaks
 gitui
 glab
 gleam
@@ -369,6 +373,7 @@ osm
 osqueryi
 pachctl
 packer
+patat
 pdm
 peco
 perl
@@ -511,6 +516,7 @@ vendir
 viddy
 vim
 wasi-sdk
+wasm3
 wasm4
 wasmer
 wasmtime
