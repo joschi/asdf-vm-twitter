@@ -69,5 +69,6 @@
 3.8.7-SNAPSHOT
 3.9.0-SNAPSHOT
 4.0.0-alpha-1-SNAPSHOT
+4.0.0-alpha-2
 4.0.0-alpha-2-SNAPSHOT
 4.0.0-alpha-3-SNAPSHOT
