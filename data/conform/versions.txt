@@ -18,6 +18,7 @@ v0.1.0-alpha.23
 v0.1.0-alpha.24
 v0.1.0-alpha.25
 v0.1.0-alpha.26
+v0.1.0-alpha.27
 v0.1.0-alpha.3
 v0.1.0-alpha.4
 v0.1.0-alpha.5
