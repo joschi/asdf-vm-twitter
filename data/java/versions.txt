@@ -1398,6 +1398,7 @@ temurin-11.0.14+9
 temurin-11.0.15+10
 temurin-11.0.16+101
 temurin-11.0.16+8
+temurin-11.0.17+8
 temurin-16.0.2+7
 temurin-17.0.0+35
 temurin-17.0.1+12
@@ -1405,6 +1406,7 @@ temurin-17.0.2+8
 temurin-17.0.3+7
 temurin-17.0.4+101
 temurin-17.0.4+8
+temurin-17.0.5+8
 temurin-18.0.0+36
 temurin-18.0.1+10
 temurin-18.0.2+101
@@ -1417,6 +1419,7 @@ temurin-8.0.322+6
 temurin-8.0.332+9
 temurin-8.0.342+7
 temurin-8.0.345+1
+temurin-8.0.352+8
 temurin-jre-11.0.12+7
 temurin-jre-11.0.13+8
 temurin-jre-11.0.14+101
@@ -1424,11 +1427,13 @@ temurin-jre-11.0.14+9
 temurin-jre-11.0.15+10
 temurin-jre-11.0.16+101
 temurin-jre-11.0.16+8
+temurin-jre-11.0.17+8
 temurin-jre-17.0.1+12
 temurin-jre-17.0.2+8
 temurin-jre-17.0.3+7
 temurin-jre-17.0.4+101
 temurin-jre-17.0.4+8
+temurin-jre-17.0.5+8
 temurin-jre-18.0.1+10
 temurin-jre-18.0.2+101
 temurin-jre-18.0.2+9
@@ -1440,6 +1445,7 @@ temurin-jre-8.0.322+6
 temurin-jre-8.0.332+9
 temurin-jre-8.0.342+7
 temurin-jre-8.0.345+1
+temurin-jre-8.0.352+8
 trava-11.0.1+1
 trava-11.0.1+2
 trava-11.0.1+3
