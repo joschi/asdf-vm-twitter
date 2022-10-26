@@ -611,6 +611,9 @@ graalvm-22.1.0+java11
 graalvm-22.1.0+java17
 graalvm-22.2.0+java11
 graalvm-22.2.0+java17
+graalvm-22.3.0+java11
+graalvm-22.3.0+java17
+graalvm-22.3.0+java19
 java-se-ri-10+44
 java-se-ri-11+28
 java-se-ri-12+32
