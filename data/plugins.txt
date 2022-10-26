@@ -205,6 +205,7 @@ gradle
 gradle-profiler
 grails
 grain
+granted
 groovy
 grpc-health-probe
 grpcurl
