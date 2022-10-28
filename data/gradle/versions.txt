@@ -345,3 +345,4 @@
 7.6-rc-1
 8.0-milestone-1
 8.0-milestone-2
+8.0-milestone-3
