@@ -339,6 +339,7 @@
 2.8.3-rc.2
 2.8.3-rc.3
 2.8.3-test.0
+2.8.4-rc.0
 chart-v0.1.0
 rpc/v2.0.0
 rpc/v2.0.0-rc.0
@@ -570,3 +571,4 @@ rpc/v2.8.3-rc.1
 rpc/v2.8.3-rc.2
 rpc/v2.8.3-rc.3
 rpc/v2.8.3-test.0
+rpc/v2.8.4-rc.0
