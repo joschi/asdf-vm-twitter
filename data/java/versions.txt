@@ -1187,6 +1187,7 @@ mandrel-22.1.0.0-Final+java11
 mandrel-22.1.0.0-Final+java17
 mandrel-22.2.0.0-Final+java11
 mandrel-22.2.0.0-Final+java17
+mandrel-22.3.0.1-Final+java17
 microsoft-11.0.11.9.1
 microsoft-11.0.12.7.1
 microsoft-11.0.13.8.1
