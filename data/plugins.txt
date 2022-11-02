@@ -105,6 +105,7 @@ cue
 dagger
 dart
 dasel
+datree
 dbmate
 deck
 delta
@@ -539,6 +540,7 @@ yq
 ytt
 zephyr
 zig
+zigmod
 zola
 zoxide
 zprint
