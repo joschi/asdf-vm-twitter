@@ -1,0 +1,3 @@
+🚀 rabbitmq rabbitmq_v3_4_4_1_for_pcf is now available in asdf!
+
+💡 Run `asdf install rabbitmq rabbitmq_v3_4_4_1_for_pcf` to install it.
