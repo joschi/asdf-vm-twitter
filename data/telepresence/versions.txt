@@ -348,6 +348,10 @@
 2.9.0-test.2
 2.9.0-test.3
 2.9.0-test.4
+2.9.0-test.5
+2.9.0-test.6
+2.9.0-test.7
+2.9.0-test.8
 chart-v0.1.0
 rpc/v2.0.0
 rpc/v2.0.0-rc.0
