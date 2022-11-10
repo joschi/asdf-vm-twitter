@@ -1181,6 +1181,8 @@ mandrel-21.3.2.0-Final+java11
 mandrel-21.3.2.0-Final+java17
 mandrel-21.3.3.0-Final+java11
 mandrel-21.3.3.0-Final+java17
+mandrel-21.3.4.0-Final+java11
+mandrel-21.3.4.0-Final+java17
 mandrel-22.0.0.2-Final+java11
 mandrel-22.0.0.2-Final+java17
 mandrel-22.1.0.0-Final+java11
