@@ -59,3 +59,4 @@
 0.2.9
 0.3.0-alpha.1
 sdk/go/v0.4.0
+sdk/python/v0.1.1
