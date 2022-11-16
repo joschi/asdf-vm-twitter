@@ -1,0 +1,4 @@
+💥 kafka is now supported by asdf!
+
+💡 Run `asdf plugin-add kafka` to install it.
+🔗 https://github.com/ueisele/asdf-kafka.git
