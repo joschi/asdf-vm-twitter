@@ -232,6 +232,7 @@
 3.2.0-dev
 3.2.0-preview1
 3.2.0-preview2
+3.2.0-preview3
 artichoke-dev
 jruby-1.5.6
 jruby-1.6.3
