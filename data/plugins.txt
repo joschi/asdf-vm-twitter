@@ -111,6 +111,7 @@ deck
 delta
 deno
 dep
+depot
 desk
 devspace
 dhall
@@ -190,6 +191,7 @@ go-containerregistry
 go-getter
 go-jira
 go-jsonnet
+go-junit-report
 go-sdk
 go-swagger
 gohugo
@@ -265,6 +267,7 @@ k3d
 k3sup
 k6
 k9s
+kafka
 kapp
 kbld
 kcat
@@ -395,6 +398,7 @@ protoc
 protoc-gen-go
 protoc-gen-go-grpc
 protoc-gen-grpc-web
+protolint
 pulumi
 purescript
 purty
@@ -517,6 +521,7 @@ velero
 vendir
 viddy
 vim
+vultr-cli
 wasi-sdk
 wasm3
 wasm4
