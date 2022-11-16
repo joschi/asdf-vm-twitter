@@ -1,0 +1,4 @@
+💥 protolint is now supported by asdf!
+
+💡 Run `asdf plugin-add protolint` to install it.
+🔗 https://github.com/spencergilbert/asdf-protolint.git
