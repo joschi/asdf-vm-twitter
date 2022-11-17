@@ -318,6 +318,7 @@ levant
 lfe
 link
 linkerd
+liqoctl
 litestream
 logtalk
 loki-logcli
