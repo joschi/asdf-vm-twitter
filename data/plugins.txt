@@ -182,6 +182,7 @@ gitconfig
 github-cli
 github-markdown-toc
 gitleaks
+gitsign
 gitui
 glab
 gleam
