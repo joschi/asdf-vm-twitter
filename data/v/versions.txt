@@ -111,3 +111,4 @@ weekly.2022.43
 weekly.2022.44
 weekly.2022.45
 weekly.2022.46
+weekly.2022.47
