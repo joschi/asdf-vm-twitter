@@ -519,6 +519,8 @@ vagrant
 vals
 vault
 vcluster
+vela
+velad
 velero
 vendir
 viddy
