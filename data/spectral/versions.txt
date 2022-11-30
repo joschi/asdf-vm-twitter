@@ -204,6 +204,7 @@
 @stoplight/spectral-ruleset-bundler-v1.3.2
 @stoplight/spectral-ruleset-bundler-v1.3.3
 @stoplight/spectral-ruleset-bundler-v1.4.0
+@stoplight/spectral-ruleset-bundler-v1.5.0
 @stoplight/spectral-ruleset-migrator-v1.0.0
 @stoplight/spectral-ruleset-migrator-v1.1.0
 @stoplight/spectral-ruleset-migrator-v1.1.1
