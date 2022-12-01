@@ -12,6 +12,7 @@ aks-engine
 alias
 allure
 alp
+amass
 amazon-ecr-credential-helper
 ansible-base
 ant
@@ -236,6 +237,7 @@ hey
 httpie-go
 hub
 hugo
+hurl
 hygen
 hyperfine
 iam-policy-json-to-terraform
@@ -300,6 +302,7 @@ kubectl-buildkit
 kubectl-kots
 kubectx
 kubefedctl
+kubelogin
 kubemqctl
 kubent
 kubergrunt
