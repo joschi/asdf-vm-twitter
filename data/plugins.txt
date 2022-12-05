@@ -377,6 +377,7 @@ okteto
 om
 opa
 opam
+openfaas-faas-cli
 openresty
 openshift-install
 operator-sdk
