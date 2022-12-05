@@ -1,0 +1,4 @@
+💥 kafkactl is now supported by asdf!
+
+💡 Run `asdf plugin-add kafkactl` to install it.
+🔗 https://github.com/anweber/asdf-kafkactl.git
