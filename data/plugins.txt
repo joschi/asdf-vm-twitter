@@ -332,6 +332,7 @@ luaJIT
 lucy
 mage
 make
+mani
 mark
 mask
 maven
