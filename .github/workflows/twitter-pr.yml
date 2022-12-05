@@ -8,6 +8,6 @@ jobs:
     name: Preview
     runs-on: ubuntu-latest
     steps:
-      - uses: gr2m/twitter-together@v1.x
+      - uses: twitter-together/action@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
