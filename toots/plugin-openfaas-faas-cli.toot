@@ -1,0 +1,4 @@
+💥 openfaas-faas-cli is now supported by asdf!
+
+💡 Run `asdf plugin-add openfaas-faas-cli` to install it.
+🔗 https://github.com/zekker6/asdf-faas-cli.git
