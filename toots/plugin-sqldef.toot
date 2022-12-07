@@ -1,0 +1,4 @@
+💥 sqldef is now supported by asdf!
+
+💡 Run `asdf plugin-add sqldef` to install it.
+🔗 https://github.com/cometkim/asdf-sqldef.git
