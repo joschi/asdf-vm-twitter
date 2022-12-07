@@ -465,6 +465,7 @@ spectral
 spin
 spring-boot
 spruce
+sqldef
 sqlite
 stack
 starboard
