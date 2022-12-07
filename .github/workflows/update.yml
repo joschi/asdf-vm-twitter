@@ -17,9 +17,6 @@ jobs:
         path: asdf-plugins
         token: ${{ secrets.PULL_TOKEN }}
     - name: Run update script
-      env:
-        GITHUB_API_TOKEN: ${{ secrets.PULL_TOKEN }}
-        OAUTH_TOKEN: ${{ secrets.PULL_TOKEN }}
       run: ./bin/update.bash
     - name: Commit metadata changes
       uses: EndBug/add-and-commit@v9
