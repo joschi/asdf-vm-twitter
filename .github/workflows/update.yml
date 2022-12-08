@@ -2,7 +2,7 @@ name: Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */2 * * *'
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -37,6 +37,10 @@ jobs:
         add: "tweets/"
       env:
         GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
+    - name: Trigger Twitter workflow
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: gh workflow run twitter-main.yml
     - name: Commit new toots
       uses: EndBug/add-and-commit@v9
       with:
@@ -44,3 +48,7 @@ jobs:
         add: "toots/"
       env:
         GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
+    - name: Trigger Mastodon workflow
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: gh workflow run mastodon-main.yml
