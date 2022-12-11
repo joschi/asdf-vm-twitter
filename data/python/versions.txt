@@ -529,6 +529,8 @@ pypy2.7-7.3.0
 pypy2.7-7.3.0-src
 pypy2.7-7.3.1
 pypy2.7-7.3.1-src
+pypy2.7-7.3.10
+pypy2.7-7.3.10-src
 pypy2.7-7.3.2
 pypy2.7-7.3.2-src
 pypy2.7-7.3.3
@@ -601,6 +603,8 @@ pypy3.7-7.3.8-src
 pypy3.7-7.3.9
 pypy3.7-7.3.9-src
 pypy3.7-c-jit-latest
+pypy3.8-7.3.10
+pypy3.8-7.3.10-src
 pypy3.8-7.3.6
 pypy3.8-7.3.6-src
 pypy3.8-7.3.7
@@ -609,6 +613,8 @@ pypy3.8-7.3.8
 pypy3.8-7.3.8-src
 pypy3.8-7.3.9
 pypy3.8-7.3.9-src
+pypy3.9-7.3.10
+pypy3.9-7.3.10-src
 pypy3.9-7.3.8
 pypy3.9-7.3.8-src
 pypy3.9-7.3.9
