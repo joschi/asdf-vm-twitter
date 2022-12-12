@@ -32,6 +32,9 @@ aws-sam-cli
 aws-vault
 awscli
 awsebcli
+awsls
+awsrm
+awsweeper
 azure-cli
 azure-functions-core-tools
 babashka
@@ -164,6 +167,7 @@ flutter
 flux2
 fluxctl
 fly
+flyctl
 func-e
 furyctl
 fx
@@ -189,6 +193,7 @@ glab
 gleam
 glen
 glooctl
+glow
 go-containerregistry
 go-getter
 go-jira
@@ -224,6 +229,7 @@ has
 haskell
 hasura-cli
 haxe
+hcloud
 helm
 helm-cr
 helm-ct
@@ -238,9 +244,11 @@ httpie-go
 hub
 hugo
 hurl
+hwatch
 hygen
 hyperfine
 iam-policy-json-to-terraform
+iamlive
 idris
 idris2
 imagemagick
@@ -254,6 +262,7 @@ java
 jb
 jbang
 jib
+jiq
 jless
 jmespath
 jmeter
@@ -339,6 +348,7 @@ maven
 mc
 mdbook
 mdbook-linkcheck
+melt
 memcached
 meson
 micronaut
@@ -408,6 +418,7 @@ protoc-gen-go-grpc
 protoc-gen-grpc-web
 protolint
 pulumi
+purerl
 purescript
 purty
 python
@@ -421,6 +432,7 @@ rebar
 reckoner
 redis
 redis-cli
+redo
 redskyctl
 reg
 regctl
@@ -452,9 +464,11 @@ shellspec
 shfmt
 sinker
 skaffold
+skate
 sloth
 smlnj
 snyk
+soft-serve
 solidity
 sops
 sopstool
@@ -491,6 +505,7 @@ task
 tekton-cli
 teleport-ent
 telepresence
+terradozer
 terraform
 terraform-docs
 terraform-ls
@@ -530,6 +545,7 @@ vela
 velad
 velero
 vendir
+vhs
 viddy
 vim
 vultr-cli
@@ -554,6 +570,7 @@ yj
 yor
 yq
 ytt
+zellij
 zephyr
 zig
 zigmod
