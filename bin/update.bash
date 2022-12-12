@@ -20,7 +20,7 @@ ensure_dir "${DATA_DIR}"
 ensure_dir "${TWEETS_DIR}"
 ensure_dir "${TOOTS_DIR}"
 
-find asdf-plugins/plugins -type f -exec basename "{}" \; | sort > "${TEMP_DIR}/plugins-new.txt"
+asdf plugin list all 2> /dev/null | awk '{ print $1 }' | sort > "${TEMP_DIR}/plugins-new.txt"
 if [[ ! -r "${DATA_DIR}/plugins.txt" ]]
 then
 	touch "${DATA_DIR}/plugins.txt"
@@ -31,7 +31,7 @@ while IFS= read -r plugin
 do
 	echo "Added plugin ${plugin}"
 
-	PLUGIN_REPO="$(sed -e 's/repository = //' "asdf-plugins/plugins/${plugin}")"
+	PLUGIN_REPO="$(sed -e 's/repository = //' "~/.asdf/repository/plugins/${plugin}")"
 
 	# Tweet new plugins
 	cat<<EOF > "${TWEETS_DIR}/plugin-${plugin}.tweet"
