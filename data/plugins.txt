@@ -1,4 +1,3 @@
-1password
 1password-cli
 R
 act
@@ -237,7 +236,6 @@ helm-diff
 helm-docs
 helmfile
 helmsman
-heptio-authenticator-aws
 heroku-cli
 hey
 httpie-go
@@ -273,7 +271,6 @@ jsonnet
 julia
 just
 jx
-k14s
 k2tf
 k3d
 k3sup
@@ -378,7 +375,6 @@ ninja
 nodejs
 nomad
 nova
-nuclei
 oc
 ocaml
 odin
@@ -429,7 +425,6 @@ rancher
 rbac-lookup
 rclone
 rebar
-reckoner
 redis
 redis-cli
 redo
@@ -537,7 +532,6 @@ upt
 upx
 usql
 v
-vagrant
 vals
 vault
 vcluster
