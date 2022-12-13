@@ -630,6 +630,15 @@ java-se-ri-14+36
 java-se-ri-7u75-b13
 java-se-ri-8u41-b04
 java-se-ri-9+181
+kona-11.0.10.b1
+kona-11.0.11.b1
+kona-11.0.12.b1
+kona-11.0.13.b1
+kona-11.0.14.b1
+kona-11.0.15.b1
+kona-11.0.16.b1
+kona-11.0.16.b2
+kona-11.0.17.b1
 kona-17.0.0.b1
 kona-17.0.2.b1
 kona-17.0.3.b1
