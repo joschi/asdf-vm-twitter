@@ -17,7 +17,7 @@ jobs:
     - uses: actions/cache@v3
       id: cache
       with:
-        path: $HOME/.asdf/repository
+        path: ~/.asdf/repository
         key: ${{ runner.os }}-plugins
     - name: Run update script
       env:
