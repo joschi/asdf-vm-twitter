@@ -158,6 +158,7 @@ confluent-community-6.2.4
 confluent-community-6.2.5
 confluent-community-6.2.6
 confluent-community-6.2.7
+confluent-community-6.2.8
 confluent-community-7.0.0
 confluent-community-7.0.1
 confluent-community-7.0.2
@@ -279,6 +280,7 @@ confluent-enterprise-6.2.4
 confluent-enterprise-6.2.5
 confluent-enterprise-6.2.6
 confluent-enterprise-6.2.7
+confluent-enterprise-6.2.8
 confluent-enterprise-7.0.0
 confluent-enterprise-7.0.1
 confluent-enterprise-7.0.2
