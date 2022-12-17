@@ -1,5 +1,14 @@
 name: Test
-on: [push, pull_request]
+on:
+  push:
+    paths:
+    - .github/**
+    - bin/**
+  pull_request:
+    paths:
+    - .github/**
+    - bin/**
+
 jobs:
   test:
     runs-on: 'ubuntu-latest'

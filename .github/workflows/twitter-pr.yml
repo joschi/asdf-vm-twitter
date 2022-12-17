@@ -3,6 +3,8 @@ on:
   pull_request:
     branches:
     - main
+    paths:
+    - tweets/**
 jobs:
   preview:
     name: Preview

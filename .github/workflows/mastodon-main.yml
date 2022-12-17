@@ -3,6 +3,8 @@ on:
   push:
     branches:
     - main
+    paths:
+    - toots/**
   workflow_dispatch:
 jobs:
   toot:
