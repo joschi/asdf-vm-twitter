@@ -352,3 +352,4 @@
 8.0-milestone-3
 8.0-milestone-4
 8.0-milestone-5
+8.0-milestone-6
