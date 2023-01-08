@@ -84,6 +84,7 @@ project-origins-1.0.0
 project-origins-v1.0.0
 project-origins-v1.1.0
 project-origins-v1.1.1
+project-origins-v1.2.0
 steps.version.outputs.cli_version
 watchexec-filterer-globset-v1.0.0
 watchexec-filterer-globset-v1.0.1
