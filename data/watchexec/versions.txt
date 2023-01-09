@@ -89,9 +89,12 @@ project-origins-v1.2.0
 steps.version.outputs.cli_version
 watchexec-filterer-globset-v1.0.0
 watchexec-filterer-globset-v1.0.1
+watchexec-filterer-globset-v1.1.0
 watchexec-filterer-ignore-v1.0.0
+watchexec-filterer-ignore-v1.1.0
 watchexec-filterer-tagged-v0.1.0
 watchexec-filterer-tagged-v0.1.1
+watchexec-filterer-tagged-v0.2.0
 watchexec-v1.16.0
 watchexec-v1.16.1
 watchexec-v1.17.0
@@ -114,3 +117,4 @@ watchexec-v2.0.0-pre.8
 watchexec-v2.0.0-pre.9
 watchexec-v2.0.1
 watchexec-v2.0.2
+watchexec-v2.1.0
