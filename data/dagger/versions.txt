@@ -71,6 +71,7 @@ sdk/nodejs/v0.1.1
 sdk/nodejs/v0.2.0
 sdk/nodejs/v0.2.1
 sdk/nodejs/v0.3.0
+sdk/nodejs/v0.3.1
 sdk/python/v0.1.1
 sdk/python/v0.2.0
 sdk/python/v0.2.1
