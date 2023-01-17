@@ -57,6 +57,7 @@ apache-3.2.2
 apache-3.2.3
 apache-3.3.0
 apache-3.3.1
+apache-3.3.2
 confluent-community-3.0.0
 confluent-community-3.0.1
 confluent-community-3.1.1
