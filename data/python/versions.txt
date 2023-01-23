@@ -495,6 +495,7 @@ miniforge3-4.14.0-2
 miniforge3-4.9.2
 miniforge3-latest
 nogil-3.9.10
+nogil-3.9.10-1
 pypy-1.5
 pypy-1.5-src
 pypy-1.6
