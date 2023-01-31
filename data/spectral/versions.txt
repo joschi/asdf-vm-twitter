@@ -152,6 +152,7 @@
 @stoplight/spectral-core-v1.15.1
 @stoplight/spectral-core-v1.15.2
 @stoplight/spectral-core-v1.16.0
+@stoplight/spectral-core-v1.16.1
 @stoplight/spectral-core-v1.2.0
 @stoplight/spectral-core-v1.2.1
 @stoplight/spectral-core-v1.3.0
