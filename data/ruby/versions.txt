@@ -340,6 +340,7 @@ jruby-9.2.8.0
 jruby-9.2.9.0
 jruby-9.3.0.0
 jruby-9.3.1.0
+jruby-9.3.10.0
 jruby-9.3.2.0
 jruby-9.3.3.0
 jruby-9.3.4.0
