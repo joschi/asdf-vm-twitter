@@ -172,6 +172,7 @@
 @stoplight/spectral-formats-v1.2.0
 @stoplight/spectral-formats-v1.3.0
 @stoplight/spectral-formats-v1.4.0
+@stoplight/spectral-formats-v1.5.0
 @stoplight/spectral-functions-v1.0.0
 @stoplight/spectral-functions-v1.1.0
 @stoplight/spectral-functions-v1.1.1
