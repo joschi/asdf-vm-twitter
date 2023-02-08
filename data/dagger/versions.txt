@@ -59,6 +59,7 @@
 0.2.9
 0.3.0-alpha.1
 0.3.10
+0.3.12
 0.3.6
 0.3.7
 0.3.8
@@ -68,6 +69,7 @@ sdk/go/v0.4.1
 sdk/go/v0.4.2
 sdk/go/v0.4.3
 sdk/go/v0.4.4
+sdk/go/v0.4.5
 sdk/nodejs/v0.1.0
 sdk/nodejs/v0.1.1
 sdk/nodejs/v0.2.0
