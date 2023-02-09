@@ -516,6 +516,7 @@
 3.7.0-stable
 3.7.1-stable
 3.7.2-stable
+3.7.3-stable
 in
 is
 jq
