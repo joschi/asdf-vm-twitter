@@ -47,3 +47,4 @@
 2.9.1.Final
 2.9.2.Final
 3.0.0.Alpha3
+3.0.0.Alpha4
