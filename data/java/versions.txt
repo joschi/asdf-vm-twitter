@@ -1347,6 +1347,7 @@ sapmachine-11.0.16
 sapmachine-11.0.16.1
 sapmachine-11.0.17
 sapmachine-11.0.18
+sapmachine-11.0.19-snapshot.1
 sapmachine-11.0.6
 sapmachine-11.0.6.0.1
 sapmachine-11.0.7
@@ -1394,6 +1395,7 @@ sapmachine-jre-11.0.16
 sapmachine-jre-11.0.16.1
 sapmachine-jre-11.0.17
 sapmachine-jre-11.0.18
+sapmachine-jre-11.0.19-snapshot.1
 sapmachine-jre-11.0.6
 sapmachine-jre-11.0.6.0.1
 sapmachine-jre-11.0.7
