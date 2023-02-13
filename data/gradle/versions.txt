@@ -347,6 +347,7 @@
 7.6-rc-2
 7.6-rc-3
 7.6-rc-4
+8.0
 8.0-milestone-1
 8.0-milestone-2
 8.0-milestone-3
