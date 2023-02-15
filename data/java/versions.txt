@@ -1315,6 +1315,7 @@ openjdk-18.0.2.1
 openjdk-19
 openjdk-19.0.1
 openjdk-19.0.2
+openjdk-20
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
@@ -1476,11 +1477,13 @@ semeru-jre-openj9-17.0.3+7_openj9-0.32.0
 semeru-jre-openj9-17.0.4+8_openj9-0.33.0
 semeru-jre-openj9-17.0.4.1+1_openj9-0.33.1
 semeru-jre-openj9-17.0.5+8_openj9-0.35.0
+semeru-jre-openj9-17.0.6+10_openj9-0.36.0
 semeru-jre-openj9-8u302-b08_openj9-0.27.0
 semeru-jre-openj9-8u312-b07_openj9-0.29.0
 semeru-jre-openj9-8u322-b06_openj9-0.30.0
 semeru-jre-openj9-8u332-b09_openj9-0.32.0
 semeru-jre-openj9-8u345-b01_openj9-0.33.1
+semeru-jre-openj9-8u362-b09_openj9-0.36.0
 semeru-jre-openj9-_openj9-
 semeru-openj9-11.0.12+7_openj9-0.27.0
 semeru-openj9-11.0.13+8_openj9-0.29.0
@@ -1497,11 +1500,13 @@ semeru-openj9-17.0.3+7_openj9-0.32.0
 semeru-openj9-17.0.4+8_openj9-0.33.0
 semeru-openj9-17.0.4.1+1_openj9-0.33.1
 semeru-openj9-17.0.5+8_openj9-0.35.0
+semeru-openj9-17.0.6+10_openj9-0.36.0
 semeru-openj9-8u302-b08_openj9-0.27.0
 semeru-openj9-8u312-b07_openj9-0.29.0
 semeru-openj9-8u322-b06_openj9-0.30.0
 semeru-openj9-8u332-b09_openj9-0.32.0
 semeru-openj9-8u345-b01_openj9-0.33.1
+semeru-openj9-8u362-b09_openj9-0.36.0
 semeru-openj9-_openj9-
 temurin-11.0.12+7
 temurin-11.0.13+8
