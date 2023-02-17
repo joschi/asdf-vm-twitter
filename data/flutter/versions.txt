@@ -517,6 +517,7 @@
 3.7.1-stable
 3.7.2-stable
 3.7.3-stable
+3.8.0-10.1.pre-beta
 in
 is
 jq
