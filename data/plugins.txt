@@ -23,11 +23,11 @@ argocd
 aria2
 asciidoctorj
 assh
-aws-amplify-cli
 aws-copilot
 aws-iam-authenticator
 aws-nuke
 aws-sam-cli
+aws-sso-cli
 aws-vault
 awscli
 awsebcli
@@ -43,6 +43,9 @@ bat
 batect
 bats
 bazel
+bbr
+bbr-s3-config-validator
+benthos
 binnacle
 bitwarden
 bombardier
@@ -79,12 +82,14 @@ cilium-hubble
 clojure
 cloudflared
 cloudsql-proxy
+clusterawsadm
 clusterctl
 cmake
 cmctl
 cockroach
 codefresh
 codeql
+colima
 conan
 concourse
 conduit
@@ -98,6 +103,7 @@ copper
 coq
 cosign
 coursier
+crane
 crc
 credhub
 crossplane-cli
@@ -157,6 +163,7 @@ esy
 etcd
 exa
 fd
+ffmpeg
 figma-export
 fillin
 firebase
@@ -172,6 +179,7 @@ furyctl
 fx
 fzf
 gam
+gator
 gauche
 gcc-arm-none-eabi
 gcloud
@@ -229,6 +237,7 @@ has
 haskell
 hasura-cli
 haxe
+hcl2json
 hcloud
 helm
 helm-cr
@@ -291,7 +300,9 @@ ko
 kompose
 kops
 kotlin
+kpack-cli
 kpt
+krab
 krew
 kscript
 ksonnet
@@ -303,6 +314,7 @@ kube-credential-cache
 kube-linter
 kube-score
 kubebuilder
+kubecm
 kubeconform
 kubectl
 kubectl-bindrole
@@ -325,6 +337,7 @@ kwt
 lab
 lazygit
 lean
+lefthook
 leiningen
 levant
 lfe
@@ -369,6 +382,7 @@ nancy
 nano
 neko
 neovim
+nerdctl
 newrelic-cli
 nfpm
 nim
@@ -376,6 +390,7 @@ ninja
 nodejs
 nomad
 nova
+nsc
 oc
 ocaml
 odin
@@ -386,6 +401,7 @@ opa
 opam
 openfaas-faas-cli
 openresty
+opensearch
 openshift-install
 operator-sdk
 opsgenie-lamp
@@ -399,6 +415,7 @@ peco
 perl
 php
 pint
+pipectl
 pivnet
 please
 pluto
@@ -413,6 +430,7 @@ protoc
 protoc-gen-go
 protoc-gen-go-grpc
 protoc-gen-grpc-web
+protoc-gen-js
 protolint
 pulumi
 purerl
@@ -422,17 +440,18 @@ python
 quarkus
 rabbitmq
 racket
+raku
 rancher
 rbac-lookup
 rclone
 rebar
+reckoner
 redis
 redis-cli
 redo
 redskyctl
 reg
 regctl
-riak
 richgo
 riff
 ripgrep
@@ -455,6 +474,7 @@ semtag
 semver
 sentinel
 serf
+serverless
 shellcheck
 shellspec
 shfmt
@@ -498,9 +518,12 @@ syncher
 talos
 tanka
 task
+tctl
 tekton-cli
+teleport-community
 teleport-ent
 telepresence
+temporalite
 terradozer
 terraform
 terraform-docs
@@ -509,6 +532,7 @@ terraform-lsp
 terraform-validator
 terragrunt
 terramate
+tf-summarize
 tfc-agent
 tfctl
 tfenv
@@ -529,6 +553,7 @@ trdsql
 tridentctl
 trivy
 tsuru
+uaa-cli
 upt
 upx
 usql
@@ -540,6 +565,7 @@ vela
 velad
 velero
 vendir
+venom
 vhs
 viddy
 vim
@@ -559,12 +585,14 @@ xchtmlreport
 xcodegen
 xh
 yadm
+yamllint
 yarn
 yay
 yj
 yor
 yq
 ytt
+zbctl
 zellij
 zephyr
 zig
