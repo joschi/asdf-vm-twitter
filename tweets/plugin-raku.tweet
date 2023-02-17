@@ -1,0 +1,4 @@
+💥 raku is now supported by asdf!
+
+💡 Run `asdf plugin-add raku` to install it.
+🔗 https://github.com/m-dango/asdf-raku.git

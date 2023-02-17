@@ -1,0 +1,4 @@
+💥 yamllint is now supported by asdf!
+
+💡 Run `asdf plugin-add yamllint` to install it.
+🔗 https://github.com/ericcornelissen/asdf-yamllint.git

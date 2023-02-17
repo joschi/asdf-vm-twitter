@@ -1,0 +1,4 @@
+💥 hcl2json is now supported by asdf!
+
+💡 Run `asdf plugin-add hcl2json` to install it.
+🔗 https://github.com/dex4er/asdf-hcl2json.git

@@ -1,0 +1,4 @@
+💥 aws-sso-cli is now supported by asdf!
+
+💡 Run `asdf plugin-add aws-sso-cli` to install it.
+🔗 https://github.com/adamcrews/asdf-aws-sso-cli.git

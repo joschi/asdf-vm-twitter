@@ -1,0 +1,4 @@
+💥 colima is now supported by asdf!
+
+💡 Run `asdf plugin-add colima` to install it.
+🔗 https://github.com/CrouchingMuppet/asdf-colima.git

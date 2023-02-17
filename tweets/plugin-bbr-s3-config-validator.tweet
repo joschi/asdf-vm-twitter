@@ -1,0 +1,4 @@
+💥 bbr-s3-config-validator is now supported by asdf!
+
+💡 Run `asdf plugin-add bbr-s3-config-validator` to install it.
+🔗 https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf.git

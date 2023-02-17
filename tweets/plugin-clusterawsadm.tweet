@@ -1,0 +1,4 @@
+💥 clusterawsadm is now supported by asdf!
+
+💡 Run `asdf plugin-add clusterawsadm` to install it.
+🔗 https://github.com/kahun/asdf-clusterawsadm.git

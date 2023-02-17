@@ -1,0 +1,4 @@
+💥 zbctl is now supported by asdf!
+
+💡 Run `asdf plugin-add zbctl` to install it.
+🔗 https://github.com/camunda-community-hub/asdf-zbctl.git
