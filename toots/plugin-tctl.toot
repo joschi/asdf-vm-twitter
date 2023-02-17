@@ -1,0 +1,4 @@
+💥 tctl is now supported by asdf!
+
+💡 Run `asdf plugin-add tctl` to install it.
+🔗 https://github.com/eko/asdf-tctl.git

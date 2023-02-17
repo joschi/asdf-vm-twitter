@@ -1,0 +1,4 @@
+💥 ffmpeg is now supported by asdf!
+
+💡 Run `asdf plugin-add ffmpeg` to install it.
+🔗 https://github.com/acj/asdf-ffmpeg

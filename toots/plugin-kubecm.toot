@@ -1,0 +1,4 @@
+💥 kubecm is now supported by asdf!
+
+💡 Run `asdf plugin-add kubecm` to install it.
+🔗 https://github.com/samhvw8/asdf-kubecm

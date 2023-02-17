@@ -1,0 +1,4 @@
+💥 kpack-cli is now supported by asdf!
+
+💡 Run `asdf plugin-add kpack-cli` to install it.
+🔗 https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf.git
