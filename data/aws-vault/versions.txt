@@ -98,4 +98,5 @@
 7.0.0-alpha2
 7.0.0-alpha3
 7.0.0-beta1
+7.0.0-beta2
 experimental
