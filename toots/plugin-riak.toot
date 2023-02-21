@@ -1,0 +1,4 @@
+💥 riak is now supported by asdf!
+
+💡 Run `asdf plugin-add riak` to install it.
+🔗 https://github.com/smashedtoatoms/asdf-riak.git
