@@ -126,6 +126,7 @@ confluent-community-5.5.10
 confluent-community-5.5.11
 confluent-community-5.5.12
 confluent-community-5.5.13
+confluent-community-5.5.14
 confluent-community-5.5.2
 confluent-community-5.5.3
 confluent-community-5.5.4
@@ -256,6 +257,7 @@ confluent-enterprise-5.5.10
 confluent-enterprise-5.5.11
 confluent-enterprise-5.5.12
 confluent-enterprise-5.5.13
+confluent-enterprise-5.5.14
 confluent-enterprise-5.5.2
 confluent-enterprise-5.5.3
 confluent-enterprise-5.5.4
