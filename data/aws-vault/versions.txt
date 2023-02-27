@@ -101,4 +101,5 @@
 7.0.0-beta2
 7.0.0-rc1
 7.0.0-rc2
+7.0.0-rc3
 experimental
