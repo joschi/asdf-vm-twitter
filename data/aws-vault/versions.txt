@@ -105,4 +105,5 @@
 7.0.0-rc4
 7.0.0-rc5
 7.0.0-rc6
+7.0.0-rc7
 experimental
