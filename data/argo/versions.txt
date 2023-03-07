@@ -47,6 +47,7 @@
 0.0.0-dev-mc-7
 0.0.0-dev-mc-8
 0.0.0-dev-mc-9
+0.0.0-dev-no-git-3
 0.0.0-dev-not-git-1
 2.10.0
 2.10.0-rc1
