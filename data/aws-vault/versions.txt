@@ -108,4 +108,5 @@
 7.0.0-rc6
 7.0.0-rc7
 7.0.1
+7.0.2-beta1
 experimental
