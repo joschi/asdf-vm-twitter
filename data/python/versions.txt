@@ -466,6 +466,7 @@ miniconda3-4.7.12
 miniconda3-latest
 miniforge-pypy3
 miniforge3
+miniforge3-22.11.1-4
 miniforge3-22.9.0-0
 miniforge3-22.9.0-1
 miniforge3-22.9.0-2
