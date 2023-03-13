@@ -156,4 +156,5 @@
 1.7.5
 1.8.0-alpha.1
 1.8.0-alpha.2
+1.8.0-alpha.3
 ela-v0.0.2-alpha

@@ -111,4 +111,5 @@
 7.0.2
 7.0.2-beta1
 7.0.2-beta2
+7.1.0
 experimental
