@@ -50,3 +50,4 @@
 2.9.2.Final
 3.0.0.Alpha3
 3.0.0.Alpha4
+3.0.0.Alpha6
