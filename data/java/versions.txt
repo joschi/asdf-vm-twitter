@@ -1385,6 +1385,7 @@ sapmachine-19
 sapmachine-19-snapshot
 sapmachine-19.0.1
 sapmachine-19.0.2
+sapmachine-20
 sapmachine-20-snapshot.35
 sapmachine-jre-11.0.10
 sapmachine-jre-11.0.11
@@ -1435,6 +1436,7 @@ sapmachine-jre-19
 sapmachine-jre-19-snapshot
 sapmachine-jre-19.0.1
 sapmachine-jre-19.0.2
+sapmachine-jre-20
 sapmachine-jre-20-snapshot.35
 sapmachine-jre-musl-17.0.4-beta
 sapmachine-jre-musl-17.0.4.1-beta
