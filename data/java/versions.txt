@@ -1450,6 +1450,7 @@ sapmachine-jre-musl-19-beta
 sapmachine-jre-musl-19-snapshotbeta
 sapmachine-jre-musl-19.0.1-beta
 sapmachine-jre-musl-19.0.2-beta
+sapmachine-jre-musl-20
 sapmachine-jre-musl-20-snapshotbeta.35
 sapmachine-musl-17.0.4-beta
 sapmachine-musl-17.0.4.1-beta
@@ -1463,6 +1464,7 @@ sapmachine-musl-19-beta
 sapmachine-musl-19-snapshotbeta
 sapmachine-musl-19.0.1-beta
 sapmachine-musl-19.0.2-beta
+sapmachine-musl-20
 sapmachine-musl-20-snapshotbeta.35
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
