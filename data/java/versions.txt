@@ -457,6 +457,8 @@ corretto-18.0.2.9.1
 corretto-19.0.0.36.1
 corretto-19.0.1.10.1
 corretto-19.0.2.7.1
+corretto-20.0.0.33.1
+corretto-20.0.0.36.1
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -517,6 +519,8 @@ corretto-musl-18.0.2.9.1
 corretto-musl-19.0.0.36.1
 corretto-musl-19.0.1.10.1
 corretto-musl-19.0.2.7.1
+corretto-musl-20.0.0.33.1
+corretto-musl-20.0.0.36.1
 corretto-musl-8.252.09.1
 corretto-musl-8.262.10.2
 corretto-musl-8.265.01.2
@@ -1692,6 +1696,7 @@ zulu-18.32.13
 zulu-19.28.81
 zulu-19.30.11
 zulu-19.32.13
+zulu-20.28.85
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -1876,6 +1881,7 @@ zulu-javafx-18.32.13
 zulu-javafx-19.28.81
 zulu-javafx-19.30.11
 zulu-javafx-19.32.15
+zulu-javafx-20.28.85
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -1964,6 +1970,7 @@ zulu-jre-18.32.13
 zulu-jre-19.28.81
 zulu-jre-19.30.11
 zulu-jre-19.32.13
+zulu-jre-20.28.85
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -2051,6 +2058,7 @@ zulu-jre-javafx-18.32.13
 zulu-jre-javafx-19.28.81
 zulu-jre-javafx-19.30.11
 zulu-jre-javafx-19.32.15
+zulu-jre-javafx-20.28.85
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -2137,6 +2145,7 @@ zulu-jre-musl-18.32.13
 zulu-jre-musl-19.28.81
 zulu-jre-musl-19.30.11
 zulu-jre-musl-19.32.13
+zulu-jre-musl-20.28.85
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -2237,6 +2246,7 @@ zulu-musl-18.32.13
 zulu-musl-19.28.81
 zulu-musl-19.30.11
 zulu-musl-19.32.13
+zulu-musl-20.28.85
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1

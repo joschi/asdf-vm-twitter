@@ -130,3 +130,4 @@ watchexec-v2.0.2
 watchexec-v2.1.0
 watchexec-v2.1.1
 watchexec-v2.2.0
+watchexec-v2.3.0
