@@ -197,3 +197,4 @@
 9.1.5-devel
 9.1.6-devel
 9.1.7-devel
+9.1.8-devel
