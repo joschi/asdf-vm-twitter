@@ -1348,6 +1348,7 @@ oracle-18.0.2.1
 oracle-19
 oracle-19.0.1
 oracle-19.0.2
+oracle-20
 sapmachine-11.0.10
 sapmachine-11.0.11
 sapmachine-11.0.12
@@ -1552,6 +1553,7 @@ temurin-19.0.0+36
 temurin-19.0.0-beta+36.0.202208190932
 temurin-19.0.1+10
 temurin-19.0.2+7
+temurin-20.0.0+36
 temurin-8.0.302+8
 temurin-8.0.312+7
 temurin-8.0.322+6
@@ -1583,6 +1585,7 @@ temurin-jre-19.0.0+36
 temurin-jre-19.0.0-beta+36.0.202208190932
 temurin-jre-19.0.1+10
 temurin-jre-19.0.2+7
+temurin-jre-20.0.0+36
 temurin-jre-8.0.302+8
 temurin-jre-8.0.312+7
 temurin-jre-8.0.322+6
