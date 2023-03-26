@@ -982,6 +982,7 @@
 8.0.0-beta.0
 8.0.0-beta.1
 8.0.0-rc.0
+8.0.0-rc.1
 @pnpm/headless@0.6.2
 @pnpm/outdated/0.0.1
 @pnpm/outdated/0.0.2
