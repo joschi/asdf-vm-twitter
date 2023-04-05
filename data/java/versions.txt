@@ -650,6 +650,12 @@ java-se-ri-11+28
 java-se-ri-12+32
 java-se-ri-13+33
 java-se-ri-14+36
+java-se-ri-15+36
+java-se-ri-16+36
+java-se-ri-17+35
+java-se-ri-18+36
+java-se-ri-19+36
+java-se-ri-20+36
 java-se-ri-7u75-b13
 java-se-ri-8u41-b04
 java-se-ri-9+181
