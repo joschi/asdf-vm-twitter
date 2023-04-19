@@ -425,6 +425,7 @@ corretto-11.0.16.8.1
 corretto-11.0.16.9.1
 corretto-11.0.17.8.1
 corretto-11.0.18.10.1
+corretto-11.0.19.7.1
 corretto-11.0.2.9.1
 corretto-11.0.2.9.2
 corretto-11.0.2.9.3
@@ -450,6 +451,7 @@ corretto-17.0.4.8.1
 corretto-17.0.4.9.1
 corretto-17.0.5.8.1
 corretto-17.0.6.10.1
+corretto-17.0.7.7.1
 corretto-18.0.0.35.1
 corretto-18.0.0.37.1
 corretto-18.0.1.10.1
@@ -459,6 +461,7 @@ corretto-19.0.1.10.1
 corretto-19.0.2.7.1
 corretto-20.0.0.33.1
 corretto-20.0.0.36.1
+corretto-20.0.1.9.1
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -483,6 +486,7 @@ corretto-8.342.07.3
 corretto-8.342.07.4
 corretto-8.352.08.1
 corretto-8.362.08.1
+corretto-8.372.07.1
 corretto-musl-11.0.10.9.1
 corretto-musl-11.0.11.9.1
 corretto-musl-11.0.12.7.1
@@ -494,6 +498,7 @@ corretto-musl-11.0.16.8.1
 corretto-musl-11.0.16.9.1
 corretto-musl-11.0.17.8.1
 corretto-musl-11.0.18.10.1
+corretto-musl-11.0.19.7.1
 corretto-musl-11.0.7.10.1
 corretto-musl-11.0.8.10.1
 corretto-musl-11.0.9.11.1
@@ -512,6 +517,7 @@ corretto-musl-17.0.4.8.1
 corretto-musl-17.0.4.9.1
 corretto-musl-17.0.5.8.1
 corretto-musl-17.0.6.10.1
+corretto-musl-17.0.7.7.1
 corretto-musl-18.0.0.35.1
 corretto-musl-18.0.0.37.1
 corretto-musl-18.0.1.10.1
@@ -521,6 +527,7 @@ corretto-musl-19.0.1.10.1
 corretto-musl-19.0.2.7.1
 corretto-musl-20.0.0.33.1
 corretto-musl-20.0.0.36.1
+corretto-musl-20.0.1.9.1
 corretto-musl-8.252.09.1
 corretto-musl-8.262.10.2
 corretto-musl-8.265.01.2
@@ -539,6 +546,7 @@ corretto-musl-8.342.07.3
 corretto-musl-8.342.07.4
 corretto-musl-8.352.08.1
 corretto-musl-8.362.08.1
+corretto-musl-8.372.07.1
 dragonwell-11.0.10.5
 dragonwell-11.0.11.6
 dragonwell-11.0.11.7
@@ -1334,6 +1342,7 @@ openjdk-19
 openjdk-19.0.1
 openjdk-19.0.2
 openjdk-20
+openjdk-20.0.1
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
@@ -1346,6 +1355,7 @@ oracle-17.0.4
 oracle-17.0.4.1
 oracle-17.0.5
 oracle-17.0.6
+oracle-17.0.7
 oracle-18
 oracle-18.0.1
 oracle-18.0.1.1
@@ -1355,6 +1365,7 @@ oracle-19
 oracle-19.0.1
 oracle-19.0.2
 oracle-20
+oracle-20.0.1
 sapmachine-11.0.10
 sapmachine-11.0.11
 sapmachine-11.0.12
@@ -1367,6 +1378,7 @@ sapmachine-11.0.16
 sapmachine-11.0.16.1
 sapmachine-11.0.17
 sapmachine-11.0.18
+sapmachine-11.0.19
 sapmachine-11.0.19-snapshot.1
 sapmachine-11.0.6
 sapmachine-11.0.6.0.1
@@ -1394,6 +1406,7 @@ sapmachine-17.0.4-snapshot.0
 sapmachine-17.0.4.1
 sapmachine-17.0.5
 sapmachine-17.0.6
+sapmachine-17.0.7
 sapmachine-17.0.7-snapshot.1
 sapmachine-18
 sapmachine-18.0.1
@@ -1406,6 +1419,7 @@ sapmachine-19.0.1
 sapmachine-19.0.2
 sapmachine-20
 sapmachine-20-snapshot.35
+sapmachine-20.0.1
 sapmachine-jre-11.0.10
 sapmachine-jre-11.0.11
 sapmachine-jre-11.0.12
@@ -1418,6 +1432,7 @@ sapmachine-jre-11.0.16
 sapmachine-jre-11.0.16.1
 sapmachine-jre-11.0.17
 sapmachine-jre-11.0.18
+sapmachine-jre-11.0.19
 sapmachine-jre-11.0.19-snapshot.1
 sapmachine-jre-11.0.6
 sapmachine-jre-11.0.6.0.1
@@ -1445,6 +1460,7 @@ sapmachine-jre-17.0.4-snapshot.0
 sapmachine-jre-17.0.4.1
 sapmachine-jre-17.0.5
 sapmachine-jre-17.0.6
+sapmachine-jre-17.0.7
 sapmachine-jre-17.0.7-snapshot.1
 sapmachine-jre-18
 sapmachine-jre-18.0.1
@@ -1457,10 +1473,12 @@ sapmachine-jre-19.0.1
 sapmachine-jre-19.0.2
 sapmachine-jre-20
 sapmachine-jre-20-snapshot.35
+sapmachine-jre-20.0.1
 sapmachine-jre-musl-17.0.4-beta
 sapmachine-jre-musl-17.0.4.1-beta
 sapmachine-jre-musl-17.0.5-beta
 sapmachine-jre-musl-17.0.6-beta
+sapmachine-jre-musl-17.0.7
 sapmachine-jre-musl-17.0.7-snapshotbeta.1
 sapmachine-jre-musl-18.0.1.1-beta
 sapmachine-jre-musl-18.0.2-beta
@@ -1471,10 +1489,12 @@ sapmachine-jre-musl-19.0.1-beta
 sapmachine-jre-musl-19.0.2-beta
 sapmachine-jre-musl-20
 sapmachine-jre-musl-20-snapshotbeta.35
+sapmachine-jre-musl-20.0.1
 sapmachine-musl-17.0.4-beta
 sapmachine-musl-17.0.4.1-beta
 sapmachine-musl-17.0.5-beta
 sapmachine-musl-17.0.6-beta
+sapmachine-musl-17.0.7
 sapmachine-musl-17.0.7-snapshotbeta.1
 sapmachine-musl-18.0.1.1-beta
 sapmachine-musl-18.0.2-beta
@@ -1485,6 +1505,7 @@ sapmachine-musl-19.0.1-beta
 sapmachine-musl-19.0.2-beta
 sapmachine-musl-20
 sapmachine-musl-20-snapshotbeta.35
+sapmachine-musl-20.0.1
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
@@ -1658,6 +1679,7 @@ zulu-11.58.15
 zulu-11.58.23
 zulu-11.60.19
 zulu-11.62.17
+zulu-11.64.19
 zulu-12.1.3
 zulu-12.2.3
 zulu-12.3.11
@@ -1706,6 +1728,7 @@ zulu-17.36.13
 zulu-17.36.17
 zulu-17.38.21
 zulu-17.40.19
+zulu-17.42.19
 zulu-18.28.13
 zulu-18.30.11
 zulu-18.32.11
@@ -1714,6 +1737,7 @@ zulu-19.28.81
 zulu-19.30.11
 zulu-19.32.13
 zulu-20.28.85
+zulu-20.30.11
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -1899,6 +1923,7 @@ zulu-javafx-19.28.81
 zulu-javafx-19.30.11
 zulu-javafx-19.32.15
 zulu-javafx-20.28.85
+zulu-javafx-20.30.11
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -1988,6 +2013,7 @@ zulu-jre-19.28.81
 zulu-jre-19.30.11
 zulu-jre-19.32.13
 zulu-jre-20.28.85
+zulu-jre-20.30.11
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -2076,6 +2102,7 @@ zulu-jre-javafx-19.28.81
 zulu-jre-javafx-19.30.11
 zulu-jre-javafx-19.32.15
 zulu-jre-javafx-20.28.85
+zulu-jre-javafx-20.30.11
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -2163,6 +2190,7 @@ zulu-jre-musl-19.28.81
 zulu-jre-musl-19.30.11
 zulu-jre-musl-19.32.13
 zulu-jre-musl-20.28.85
+zulu-jre-musl-20.30.11
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -2208,6 +2236,7 @@ zulu-musl-11.58.15
 zulu-musl-11.58.23
 zulu-musl-11.60.19
 zulu-musl-11.62.17
+zulu-musl-11.64.19
 zulu-musl-12.1.3
 zulu-musl-12.2.3
 zulu-musl-12.3.11
@@ -2256,6 +2285,7 @@ zulu-musl-17.36.13
 zulu-musl-17.36.17
 zulu-musl-17.38.21
 zulu-musl-17.40.19
+zulu-musl-17.42.19
 zulu-musl-18.28.13
 zulu-musl-18.30.11
 zulu-musl-18.32.11
@@ -2264,6 +2294,7 @@ zulu-musl-19.28.81
 zulu-musl-19.30.11
 zulu-musl-19.32.13
 zulu-musl-20.28.85
+zulu-musl-20.30.11
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
