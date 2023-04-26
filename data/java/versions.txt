@@ -659,6 +659,8 @@ graalvm-22.3.0+java19
 graalvm-22.3.1+java11
 graalvm-22.3.1+java17
 graalvm-22.3.1+java19
+graalvm-22.3.2+java11
+graalvm-22.3.2+java17
 java-se-ri-10+44
 java-se-ri-11+28
 java-se-ri-12+32
@@ -1999,6 +2001,7 @@ zulu-javafx-8.64.0.15
 zulu-javafx-8.64.0.19
 zulu-javafx-8.66.0.15
 zulu-javafx-8.68.0.21
+zulu-javafx-8.70.0.23
 zulu-jre-11.31.11
 zulu-jre-11.33.15
 zulu-jre-11.35.13
@@ -2181,6 +2184,7 @@ zulu-jre-javafx-8.64.0.15
 zulu-jre-javafx-8.64.0.19
 zulu-jre-javafx-8.66.0.15
 zulu-jre-javafx-8.68.0.21
+zulu-jre-javafx-8.70.0.23
 zulu-jre-musl-11.31.11
 zulu-jre-musl-11.33.15
 zulu-jre-musl-11.35.13
