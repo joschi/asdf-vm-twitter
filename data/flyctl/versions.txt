@@ -818,6 +818,8 @@
 0.0.98
 0.0.99
 0.1.0
+0.1.1
+0.1.2
 d0.0.269-branch-releases-166921f
 d0.0.269-branch-releases-a166168
 d0.0.269-branch-releases-b3f7267
