@@ -83,6 +83,7 @@ ignore-files-v1.0.0
 ignore-files-v1.0.1
 ignore-files-v1.1.0
 ignore-files-v1.2.0
+ignore-files-v1.3.0
 lib-v1.16.0
 lib-v1.16.1
 lib-v1.17.0
@@ -102,6 +103,7 @@ watchexec-filterer-globset-v1.2.0
 watchexec-filterer-ignore-v1.0.0
 watchexec-filterer-ignore-v1.1.0
 watchexec-filterer-ignore-v1.2.0
+watchexec-filterer-ignore-v1.2.1
 watchexec-filterer-tagged-v0.1.0
 watchexec-filterer-tagged-v0.1.1
 watchexec-filterer-tagged-v0.2.0
