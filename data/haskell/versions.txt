@@ -192,5 +192,6 @@
 9.6.1-alpha2
 9.6.1-alpha3
 9.6.1-rc1
+9.6.2
 Strict.z
 encoding="utf.8"?>.z
