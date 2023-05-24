@@ -493,6 +493,7 @@
 3.10.0-1.5.pre-beta
 3.10.0-stable
 3.10.1-stable
+3.10.2-stable
 3.11.0-0.0.pre-beta
 3.3.0-0.0.pre-beta
 3.3.0-0.1.pre-beta
