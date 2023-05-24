@@ -114,6 +114,8 @@
 6.5.0
 6.5.1
 6.6.0
+6.7.0
+6.8.0
 @stoplight/spectral-cli-v1.0.0
 @stoplight/spectral-cli-v1.1.0
 @stoplight/spectral-cli-v1.2.0
@@ -131,6 +133,7 @@
 @stoplight/spectral-cli-v6.5.0
 @stoplight/spectral-cli-v6.5.1
 @stoplight/spectral-cli-v6.6.0
+@stoplight/spectral-cli-v6.7.0
 @stoplight/spectral-core-v1.0.0
 @stoplight/spectral-core-v1.1.0
 @stoplight/spectral-core-v1.10.0
