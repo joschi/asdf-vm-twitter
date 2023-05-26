@@ -174,4 +174,5 @@
 1.9.0-alpha.3
 1.9.0-alpha.4
 1.9.0-alpha.5
+1.9.0-beta.1
 ela-v0.0.2-alpha
