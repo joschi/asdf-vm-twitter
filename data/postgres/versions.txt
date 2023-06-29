@@ -97,6 +97,7 @@
 15beta3
 15beta4
 16beta1
+16beta2
 6.0
 6.1
 6.2
