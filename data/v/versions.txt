@@ -178,3 +178,4 @@ weekly.2023.23
 weekly.2023.24
 weekly.2023.25
 weekly.2023.26
+weekly.2023.27
