@@ -35,6 +35,7 @@
 2.16.5.Final
 2.16.6.Final
 2.16.7.Final
+2.16.8.Final
 2.6.2.Final
 2.6.3.Final
 2.7.0.Final
