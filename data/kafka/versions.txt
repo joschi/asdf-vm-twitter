@@ -203,7 +203,9 @@ confluent-community-7.3.0
 confluent-community-7.3.1
 confluent-community-7.3.2
 confluent-community-7.3.3
+confluent-community-7.3.4
 confluent-community-7.4.0
+confluent-community-7.4.1
 confluent-enterprise-1.0
 confluent-enterprise-1.0.1
 confluent-enterprise-2.0.0
@@ -350,4 +352,6 @@ confluent-enterprise-7.3.0
 confluent-enterprise-7.3.1
 confluent-enterprise-7.3.2
 confluent-enterprise-7.3.3
+confluent-enterprise-7.3.4
 confluent-enterprise-7.4.0
+confluent-enterprise-7.4.1
