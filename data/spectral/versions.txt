@@ -206,6 +206,7 @@
 @stoplight/spectral-parsers-v1.0.0
 @stoplight/spectral-parsers-v1.0.1
 @stoplight/spectral-parsers-v1.0.2
+@stoplight/spectral-ref-resolver-1.0.4
 @stoplight/spectral-ref-resolver-v1.0.0
 @stoplight/spectral-ref-resolver-v1.0.1
 @stoplight/spectral-ref-resolver-v1.0.2
