@@ -681,8 +681,12 @@ graalvm-22.3.1+java17
 graalvm-22.3.1+java19
 graalvm-22.3.2+java11
 graalvm-22.3.2+java17
+graalvm-22.3.3+java11
+graalvm-22.3.3+java17
 graalvm-community-17.0.7
+graalvm-community-17.0.8
 graalvm-community-20.0.1
+graalvm-community-20.0.2
 java-se-ri-10+44
 java-se-ri-11+28
 java-se-ri-12+32
