@@ -97,6 +97,7 @@ sdk/go/v0.7.1
 sdk/go/v0.7.2
 sdk/go/v0.7.3
 sdk/go/v0.7.4
+sdk/go/v0.8.0
 sdk/nodejs/v0.1.0
 sdk/nodejs/v0.1.1
 sdk/nodejs/v0.2.0
@@ -119,6 +120,7 @@ sdk/nodejs/v0.6.1
 sdk/nodejs/v0.6.2
 sdk/nodejs/v0.6.3
 sdk/nodejs/v0.6.4
+sdk/nodejs/v0.8.0
 sdk/python/v0.1.1
 sdk/python/v0.2.0
 sdk/python/v0.2.1
@@ -139,3 +141,4 @@ sdk/python/v0.6.1
 sdk/python/v0.6.2
 sdk/python/v0.6.3
 sdk/python/v0.6.4
+sdk/python/v0.8.0
