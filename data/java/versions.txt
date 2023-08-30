@@ -21,6 +21,7 @@ adoptopenjdk-11.0.2+7
 adoptopenjdk-11.0.2+9
 adoptopenjdk-11.0.2+9.openj9-0.12.0
 adoptopenjdk-11.0.2+9.openj9-0.12.1
+adoptopenjdk-11.0.20+101
 adoptopenjdk-11.0.20+8
 adoptopenjdk-11.0.3+7
 adoptopenjdk-11.0.3+7.openj9-0.14.0
@@ -76,6 +77,7 @@ adoptopenjdk-17.0.4+8
 adoptopenjdk-17.0.5+8
 adoptopenjdk-17.0.6+10
 adoptopenjdk-17.0.7+7
+adoptopenjdk-17.0.8+101
 adoptopenjdk-17.0.8+7
 adoptopenjdk-18.0.0+36
 adoptopenjdk-18.0.1+10
@@ -149,6 +151,7 @@ adoptopenjdk-jre-11.0.18+10
 adoptopenjdk-jre-11.0.19+7
 adoptopenjdk-jre-11.0.2+7
 adoptopenjdk-jre-11.0.2+9
+adoptopenjdk-jre-11.0.20+101
 adoptopenjdk-jre-11.0.20+8
 adoptopenjdk-jre-11.0.3+7
 adoptopenjdk-jre-11.0.4+11.1
@@ -180,6 +183,7 @@ adoptopenjdk-jre-17.0.4+8
 adoptopenjdk-jre-17.0.5+8
 adoptopenjdk-jre-17.0.6+10
 adoptopenjdk-jre-17.0.7+7
+adoptopenjdk-jre-17.0.8+101
 adoptopenjdk-jre-17.0.8+7
 adoptopenjdk-jre-18.0.1+10
 adoptopenjdk-jre-18.0.2+101
@@ -1434,6 +1438,7 @@ microsoft-11.0.17
 microsoft-11.0.18
 microsoft-11.0.19
 microsoft-11.0.20
+microsoft-11.0.20.1
 microsoft-16.0.1.9.1
 microsoft-16.0.2.7.1
 microsoft-17.0.1.12.1
@@ -1445,6 +1450,7 @@ microsoft-17.0.5
 microsoft-17.0.6
 microsoft-17.0.7
 microsoft-17.0.8
+microsoft-17.0.8.1
 microsoft-17.35.1
 openjdk-10
 openjdk-10.0.1
@@ -1731,6 +1737,7 @@ temurin-11.0.16+8
 temurin-11.0.17+8
 temurin-11.0.18+10
 temurin-11.0.19+7
+temurin-11.0.20+101
 temurin-11.0.20+8
 temurin-16.0.2+7
 temurin-17.0.0+35
@@ -1742,6 +1749,7 @@ temurin-17.0.4+8
 temurin-17.0.5+8
 temurin-17.0.6+10
 temurin-17.0.7+7
+temurin-17.0.8+101
 temurin-17.0.8+7
 temurin-18.0.0+36
 temurin-18.0.1+10
@@ -1774,6 +1782,7 @@ temurin-jre-11.0.16+8
 temurin-jre-11.0.17+8
 temurin-jre-11.0.18+10
 temurin-jre-11.0.19+7
+temurin-jre-11.0.20+101
 temurin-jre-11.0.20+8
 temurin-jre-17.0.1+12
 temurin-jre-17.0.2+8
@@ -1783,6 +1792,7 @@ temurin-jre-17.0.4+8
 temurin-jre-17.0.5+8
 temurin-jre-17.0.6+10
 temurin-jre-17.0.7+7
+temurin-jre-17.0.8+101
 temurin-jre-17.0.8+7
 temurin-jre-18.0.1+10
 temurin-jre-18.0.2+101
