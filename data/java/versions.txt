@@ -1561,6 +1561,7 @@ sapmachine-17.0.6
 sapmachine-17.0.7
 sapmachine-17.0.7-snapshot.1
 sapmachine-17.0.8
+sapmachine-17.0.8.1
 sapmachine-18
 sapmachine-18.0.1
 sapmachine-18.0.1.1
@@ -1618,6 +1619,7 @@ sapmachine-jre-17.0.6
 sapmachine-jre-17.0.7
 sapmachine-jre-17.0.7-snapshot.1
 sapmachine-jre-17.0.8
+sapmachine-jre-17.0.8.1
 sapmachine-jre-18
 sapmachine-jre-18.0.1
 sapmachine-jre-18.0.1.1
@@ -1638,6 +1640,7 @@ sapmachine-jre-musl-17.0.6-beta
 sapmachine-jre-musl-17.0.7
 sapmachine-jre-musl-17.0.7-snapshotbeta.1
 sapmachine-jre-musl-17.0.8
+sapmachine-jre-musl-17.0.8.1
 sapmachine-jre-musl-18.0.1.1-beta
 sapmachine-jre-musl-18.0.2-beta
 sapmachine-jre-musl-18.0.2.1-beta
@@ -1656,6 +1659,7 @@ sapmachine-musl-17.0.6-beta
 sapmachine-musl-17.0.7
 sapmachine-musl-17.0.7-snapshotbeta.1
 sapmachine-musl-17.0.8
+sapmachine-musl-17.0.8.1
 sapmachine-musl-18.0.1.1-beta
 sapmachine-musl-18.0.2-beta
 sapmachine-musl-18.0.2.1-beta
