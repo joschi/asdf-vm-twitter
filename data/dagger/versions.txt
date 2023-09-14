@@ -108,6 +108,7 @@ sdk/go/v0.8.0
 sdk/go/v0.8.1
 sdk/go/v0.8.2
 sdk/go/v0.8.4
+sdk/go/v0.8.5
 sdk/nodejs/v0.1.0
 sdk/nodejs/v0.1.1
 sdk/nodejs/v0.2.0
