@@ -265,6 +265,7 @@
 @stoplight/spectral-ruleset-migrator-v1.9.2
 @stoplight/spectral-ruleset-migrator-v1.9.3
 @stoplight/spectral-rulesets-1.17.0
+@stoplight/spectral-rulesets-1.17.1
 @stoplight/spectral-rulesets-v1.0.0
 @stoplight/spectral-rulesets-v1.1.0
 @stoplight/spectral-rulesets-v1.10.0
