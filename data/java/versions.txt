@@ -1576,6 +1576,7 @@ sapmachine-20
 sapmachine-20-snapshot.35
 sapmachine-20.0.1
 sapmachine-20.0.2
+sapmachine-21
 sapmachine-jre-11.0.10
 sapmachine-jre-11.0.11
 sapmachine-jre-11.0.12
@@ -1635,6 +1636,7 @@ sapmachine-jre-20
 sapmachine-jre-20-snapshot.35
 sapmachine-jre-20.0.1
 sapmachine-jre-20.0.2
+sapmachine-jre-21
 sapmachine-jre-musl-17.0.4-beta
 sapmachine-jre-musl-17.0.4.1-beta
 sapmachine-jre-musl-17.0.5-beta
@@ -1654,6 +1656,7 @@ sapmachine-jre-musl-20
 sapmachine-jre-musl-20-snapshotbeta.35
 sapmachine-jre-musl-20.0.1
 sapmachine-jre-musl-20.0.2
+sapmachine-jre-musl-21
 sapmachine-musl-17.0.4-beta
 sapmachine-musl-17.0.4.1-beta
 sapmachine-musl-17.0.5-beta
@@ -1673,6 +1676,7 @@ sapmachine-musl-20
 sapmachine-musl-20-snapshotbeta.35
 sapmachine-musl-20.0.1
 sapmachine-musl-20.0.2
+sapmachine-musl-21
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
