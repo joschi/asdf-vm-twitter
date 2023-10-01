@@ -1527,10 +1527,12 @@ oracle-19.0.2
 oracle-20
 oracle-20.0.1
 oracle-20.0.2
+oracle-21
 oracle-graalvm-17.0.7
 oracle-graalvm-17.0.8
 oracle-graalvm-20.0.1
 oracle-graalvm-20.0.2
+oracle-graalvm-21
 sapmachine-11.0.10
 sapmachine-11.0.11
 sapmachine-11.0.12
