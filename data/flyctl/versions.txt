@@ -941,6 +941,8 @@
 0.1.98-pre-1
 0.1.99
 0.1.99-pre-1
+2023.10.2-flypkgs-builds.1
+2023.10.2-flypkgs-builds.2
 2023.9.19-flypkgs.1
 2023.9.19-flypkgs.2
 2023.9.21-flypkgs.1
