@@ -1970,6 +1970,7 @@ zulu-20.28.85
 zulu-20.30.11
 zulu-20.32.11
 zulu-21.28.85
+zulu-21.28.89
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -2267,6 +2268,7 @@ zulu-jre-20.28.85
 zulu-jre-20.30.11
 zulu-jre-20.32.11
 zulu-jre-21.28.85
+zulu-jre-21.28.89
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
