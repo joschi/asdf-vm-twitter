@@ -315,6 +315,7 @@ v1.15.7
 v1.16.0-beta1
 v1.16.0-beta10
 v1.16.0-beta11
+v1.16.0-beta12
 v1.16.0-beta2
 v1.16.0-beta3
 v1.16.0-beta4
