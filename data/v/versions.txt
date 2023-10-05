@@ -190,3 +190,4 @@ weekly.2023.35
 weekly.2023.37
 weekly.2023.38
 weekly.2023.39
+weekly.2023.40
