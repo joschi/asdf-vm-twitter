@@ -333,6 +333,7 @@ cinder-3.10-dev
 cinder-3.8-dev
 graalpy-22.3.0
 graalpy-23.0.0
+graalpy-23.1.0
 graalpy-community-23.1.0
 graalpython-20.1.0
 graalpython-20.2.0
