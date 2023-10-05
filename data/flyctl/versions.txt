@@ -945,6 +945,12 @@
 2023.10.2-flypkgs-builds.2
 2023.10.4-flypkgs-builds.1
 2023.10.4-flypkgs-builds.2
+2023.10.4-flypkgs-builds.3
+2023.10.4-flypkgs-builds.4
+2023.10.4-flypkgs-builds.5
+2023.10.4-flypkgs-builds.6
+2023.10.4-flypkgs-builds.7
+2023.10.4-flypkgs-builds.8
 2023.9.19-flypkgs.1
 2023.9.19-flypkgs.2
 2023.9.21-flypkgs.1
