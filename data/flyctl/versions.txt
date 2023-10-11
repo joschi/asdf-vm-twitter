@@ -946,6 +946,7 @@
 2023.10.10-flypkgs-builds.2
 2023.10.10-pr2893.1
 2023.10.11-flypkgs-builds.1
+2023.10.11-pr2893.1
 2023.10.2-flypkgs-builds.1
 2023.10.2-flypkgs-builds.2
 2023.10.4-flypkgs-builds.1
