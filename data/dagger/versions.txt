@@ -95,6 +95,7 @@ sdk/elixir/v0.8.6
 sdk/elixir/v0.8.7
 sdk/elixir/v0.8.8
 sdk/elixir/v0.9.0
+sdk/elixir/v0.9.1
 sdk/go/v0.4.0
 sdk/go/v0.4.1
 sdk/go/v0.4.2
@@ -123,6 +124,7 @@ sdk/go/v0.8.6
 sdk/go/v0.8.7
 sdk/go/v0.8.8
 sdk/go/v0.9.0
+sdk/go/v0.9.1
 sdk/nodejs/v0.1.0
 sdk/nodejs/v0.1.1
 sdk/nodejs/v0.2.0
@@ -154,6 +156,7 @@ sdk/nodejs/v0.8.6
 sdk/nodejs/v0.8.7
 sdk/nodejs/v0.8.8
 sdk/nodejs/v0.9.0
+sdk/nodejs/v0.9.1
 sdk/python/v0.1.1
 sdk/python/v0.2.0
 sdk/python/v0.2.1
@@ -183,3 +186,4 @@ sdk/python/v0.8.6
 sdk/python/v0.8.7
 sdk/python/v0.8.8
 sdk/python/v0.9.0
+sdk/python/v0.9.1
