@@ -1508,6 +1508,7 @@ latest-4.10
 latest-4.11
 latest-4.12
 latest-4.13
+latest-4.14
 latest-4.2
 latest-4.3
 latest-4.4
@@ -1521,6 +1522,7 @@ stable-4.10
 stable-4.11
 stable-4.12
 stable-4.13
+stable-4.14
 stable-4.2
 stable-4.3
 stable-4.4
