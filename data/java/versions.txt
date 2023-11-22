@@ -2064,6 +2064,7 @@ zulu-21.28.89
 zulu-21.30.15
 zulu-21.30.19
 zulu-21.30.19_1
+zulu-21.30.23
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -2374,6 +2375,7 @@ zulu-jre-21.28.89
 zulu-jre-21.30.15
 zulu-jre-21.30.19
 zulu-jre-21.30.19_1
+zulu-jre-21.30.23
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -2579,6 +2581,7 @@ zulu-jre-musl-20.30.11
 zulu-jre-musl-20.32.11
 zulu-jre-musl-21.28.85
 zulu-jre-musl-21.30.15
+zulu-jre-musl-21.30.23
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -2695,6 +2698,7 @@ zulu-musl-20.30.11
 zulu-musl-20.32.11
 zulu-musl-21.28.85
 zulu-musl-21.30.15
+zulu-musl-21.30.23
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
