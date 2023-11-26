@@ -74,6 +74,7 @@
 1.9.2
 bosion-v1.0.0
 bosion-v1.0.1
+bosion-v1.0.2
 cli-v1.16.0
 cli-v1.16.1
 cli-v1.16.2
@@ -98,8 +99,10 @@ project-origins-v1.0.0
 project-origins-v1.1.0
 project-origins-v1.1.1
 project-origins-v1.2.0
+project-origins-v1.2.1
 steps.version.outputs.cli_version
 watchexec-events-v1.0.0
+watchexec-events-v1.1.0
 watchexec-filterer-globset-v1.0.0
 watchexec-filterer-globset-v1.0.1
 watchexec-filterer-globset-v1.1.0
@@ -113,6 +116,7 @@ watchexec-filterer-tagged-v0.1.1
 watchexec-filterer-tagged-v0.2.0
 watchexec-filterer-tagged-v0.3.0
 watchexec-signals-v1.0.0
+watchexec-signals-v1.0.1
 watchexec-v1.16.0
 watchexec-v1.16.1
 watchexec-v1.17.0
