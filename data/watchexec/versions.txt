@@ -108,10 +108,12 @@ watchexec-filterer-globset-v1.0.0
 watchexec-filterer-globset-v1.0.1
 watchexec-filterer-globset-v1.1.0
 watchexec-filterer-globset-v1.2.0
+watchexec-filterer-globset-v2.0.0
 watchexec-filterer-ignore-v1.0.0
 watchexec-filterer-ignore-v1.1.0
 watchexec-filterer-ignore-v1.2.0
 watchexec-filterer-ignore-v1.2.1
+watchexec-filterer-ignore-v2.0.0
 watchexec-filterer-tagged-v0.1.0
 watchexec-filterer-tagged-v0.1.1
 watchexec-filterer-tagged-v0.2.0
