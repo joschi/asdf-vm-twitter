@@ -147,4 +147,5 @@ watchexec-v2.1.0
 watchexec-v2.1.1
 watchexec-v2.2.0
 watchexec-v2.3.0
+watchexec-v2.3.1
 watchexec-v3.0.0
