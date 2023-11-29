@@ -104,6 +104,8 @@ project-origins-v1.2.1
 steps.version.outputs.cli_version
 watchexec-events-v1.0.0
 watchexec-events-v1.1.0
+watchexec-events-v2.0.0
+watchexec-events-v2.0.1
 watchexec-filterer-globset-v1.0.0
 watchexec-filterer-globset-v1.0.1
 watchexec-filterer-globset-v1.1.0
@@ -120,7 +122,9 @@ watchexec-filterer-tagged-v0.2.0
 watchexec-filterer-tagged-v0.3.0
 watchexec-signals-v1.0.0
 watchexec-signals-v1.0.1
+watchexec-signals-v2.0.0
 watchexec-supervisor-v1.0.0
+watchexec-supervisor-v1.0.1
 watchexec-v1.16.0
 watchexec-v1.16.1
 watchexec-v1.17.0
@@ -148,4 +152,6 @@ watchexec-v2.1.1
 watchexec-v2.2.0
 watchexec-v2.3.0
 watchexec-v2.3.1
+watchexec-v2.3.2
 watchexec-v3.0.0
+watchexec-v3.0.1
