@@ -20,6 +20,7 @@ porch/v0.0.29
 porch/v0.0.3
 porch/v0.0.30
 porch/v0.0.31
+porch/v0.0.32
 porch/v0.0.5
 porch/v0.0.6
 porch/v0.0.7
