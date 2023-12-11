@@ -247,6 +247,7 @@
 3.3.0-preview1
 3.3.0-preview2
 3.3.0-preview3
+3.3.0-rc1
 artichoke-dev
 jruby-1.5.6
 jruby-1.6.3
@@ -545,6 +546,7 @@ ree-1.8.7-2011.03
 ree-1.8.7-2011.12
 ree-1.8.7-2012.01
 ree-1.8.7-2012.02
+ruby-dev
 truffleruby+graalvm-20.1.0
 truffleruby+graalvm-20.2.0
 truffleruby+graalvm-20.3.0
