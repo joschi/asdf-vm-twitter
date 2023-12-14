@@ -92,6 +92,7 @@ v1.0.0-beta.45
 v1.0.0-beta.46
 v1.0.0-beta.47
 v1.0.0-beta.48
+v1.0.0-beta.49
 v1.0.0-beta.5
 v1.0.0-beta.6
 v1.0.0-beta.7
