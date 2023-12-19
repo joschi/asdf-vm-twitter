@@ -130,6 +130,7 @@ watchexec-signals-v2.1.0
 watchexec-supervisor-v1.0.0
 watchexec-supervisor-v1.0.1
 watchexec-supervisor-v1.0.2
+watchexec-supervisor-v1.0.3
 watchexec-v1.16.0
 watchexec-v1.16.1
 watchexec-v1.17.0
