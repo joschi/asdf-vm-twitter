@@ -173,6 +173,7 @@ sdk/nodejs/v0.9.2
 sdk/nodejs/v0.9.3
 sdk/nodejs/v0.9.4
 sdk/nodejs/v0.9.5
+sdk/php/v0.9.5
 sdk/python/v0.1.1
 sdk/python/v0.2.0
 sdk/python/v0.2.1
