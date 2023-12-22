@@ -88,6 +88,7 @@
 3.9.7-SNAPSHOT
 4.0.0-alpha-1-SNAPSHOT
 4.0.0-alpha-10-SNAPSHOT
+4.0.0-alpha-10</b>
 4.0.0-alpha-11-SNAPSHOT
 4.0.0-alpha-2
 4.0.0-alpha-2-SNAPSHOT
@@ -105,5 +106,6 @@
 4.0.0-alpha-8
 4.0.0-alpha-8-SNAPSHOT
 4.0.0-alpha-8</b>
+4.0.0-alpha-9
 4.0.0-alpha-9-SNAPSHOT
 4.0.0-alpha-9</b>
