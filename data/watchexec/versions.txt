@@ -104,6 +104,7 @@ project-origins-v1.1.0
 project-origins-v1.1.1
 project-origins-v1.2.0
 project-origins-v1.2.1
+project-origins-v1.3.0
 steps.version.outputs.cli_version
 watchexec-events-v1.0.0
 watchexec-events-v1.1.0
