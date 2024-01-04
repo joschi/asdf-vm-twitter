@@ -95,6 +95,7 @@ ignore-files-v1.3.0
 ignore-files-v1.3.1
 ignore-files-v1.3.2
 ignore-files-v2.0.0
+ignore-files-v2.1.0
 lib-v1.16.0
 lib-v1.16.1
 lib-v1.17.0
