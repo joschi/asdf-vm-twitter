@@ -249,6 +249,7 @@
 3.3.0-preview2
 3.3.0-preview3
 3.3.0-rc1
+3.4-dev
 artichoke-dev
 jruby-1.5.6
 jruby-1.6.3
@@ -564,6 +565,7 @@ truffleruby+graalvm-23.0.0
 truffleruby+graalvm-23.0.0-preview1
 truffleruby+graalvm-23.1.0
 truffleruby+graalvm-23.1.1
+truffleruby+graalvm-23.1.2
 truffleruby+graalvm-dev
 truffleruby-1.0.0-rc10
 truffleruby-1.0.0-rc11
@@ -604,5 +606,6 @@ truffleruby-23.0.0
 truffleruby-23.0.0-preview1
 truffleruby-23.1.0
 truffleruby-23.1.1
+truffleruby-23.1.2
 truffleruby-dev
 yjit-dev
