@@ -24,6 +24,7 @@ adoptopenjdk-11.0.2+9.openj9-0.12.1
 adoptopenjdk-11.0.20+101
 adoptopenjdk-11.0.20+8
 adoptopenjdk-11.0.21+9
+adoptopenjdk-11.0.22+7
 adoptopenjdk-11.0.3+7
 adoptopenjdk-11.0.3+7.openj9-0.14.0
 adoptopenjdk-11.0.3+7.openj9-0.14.3
@@ -71,6 +72,7 @@ adoptopenjdk-16.0.1+9
 adoptopenjdk-16.0.2+7
 adoptopenjdk-17.0.0+35
 adoptopenjdk-17.0.1+12
+adoptopenjdk-17.0.10+7
 adoptopenjdk-17.0.2+8
 adoptopenjdk-17.0.3+7
 adoptopenjdk-17.0.4+101
@@ -94,6 +96,7 @@ adoptopenjdk-20.0.1+9
 adoptopenjdk-20.0.2+9
 adoptopenjdk-21.0.0+35.0.LTS
 adoptopenjdk-21.0.1+12.0.LTS
+adoptopenjdk-21.0.2+13.0.LTS
 adoptopenjdk-8.0.162+12.openj9-0.8.0
 adoptopenjdk-8.0.181+13
 adoptopenjdk-8.0.181+13.openj9-0.9.0
@@ -159,6 +162,7 @@ adoptopenjdk-jre-11.0.2+9
 adoptopenjdk-jre-11.0.20+101
 adoptopenjdk-jre-11.0.20+8
 adoptopenjdk-jre-11.0.21+9
+adoptopenjdk-jre-11.0.22+7
 adoptopenjdk-jre-11.0.3+7
 adoptopenjdk-jre-11.0.4+11.1
 adoptopenjdk-jre-11.0.5+10.1
@@ -182,6 +186,7 @@ adoptopenjdk-jre-15.0.2+7
 adoptopenjdk-jre-16.0.0+36
 adoptopenjdk-jre-16.0.1+9
 adoptopenjdk-jre-17.0.1+12
+adoptopenjdk-jre-17.0.10+7
 adoptopenjdk-jre-17.0.2+8
 adoptopenjdk-jre-17.0.3+7
 adoptopenjdk-jre-17.0.4+101
@@ -204,6 +209,7 @@ adoptopenjdk-jre-20.0.1+9
 adoptopenjdk-jre-20.0.2+9
 adoptopenjdk-jre-21.0.0+35.0.LTS
 adoptopenjdk-jre-21.0.1+12.0.LTS
+adoptopenjdk-jre-21.0.2+13.0.LTS
 adoptopenjdk-jre-8.0.181+13
 adoptopenjdk-jre-8.0.192+12
 adoptopenjdk-jre-8.0.202+8
@@ -1908,9 +1914,11 @@ temurin-11.0.19+7
 temurin-11.0.20+101
 temurin-11.0.20+8
 temurin-11.0.21+9
+temurin-11.0.22+7
 temurin-16.0.2+7
 temurin-17.0.0+35
 temurin-17.0.1+12
+temurin-17.0.10+7
 temurin-17.0.2+8
 temurin-17.0.3+7
 temurin-17.0.4+101
@@ -1934,6 +1942,7 @@ temurin-20.0.1+9
 temurin-20.0.2+9
 temurin-21.0.0+35.0.LTS
 temurin-21.0.1+12.0.LTS
+temurin-21.0.2+13.0.LTS
 temurin-8.0.302+8
 temurin-8.0.312+7
 temurin-8.0.322+6
@@ -1958,7 +1967,9 @@ temurin-jre-11.0.19+7
 temurin-jre-11.0.20+101
 temurin-jre-11.0.20+8
 temurin-jre-11.0.21+9
+temurin-jre-11.0.22+7
 temurin-jre-17.0.1+12
+temurin-jre-17.0.10+7
 temurin-jre-17.0.2+8
 temurin-jre-17.0.3+7
 temurin-jre-17.0.4+101
@@ -1981,6 +1992,7 @@ temurin-jre-20.0.1+9
 temurin-jre-20.0.2+9
 temurin-jre-21.0.0+35.0.LTS
 temurin-jre-21.0.1+12.0.LTS
+temurin-jre-21.0.2+13.0.LTS
 temurin-jre-8.0.302+8
 temurin-jre-8.0.312+7
 temurin-jre-8.0.322+6
