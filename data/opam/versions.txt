@@ -47,3 +47,4 @@
 2.2.0-alpha
 2.2.0-alpha2
 2.2.0-alpha3
+2.2.0-beta1
