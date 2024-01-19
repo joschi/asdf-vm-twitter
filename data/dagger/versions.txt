@@ -93,6 +93,7 @@
 0.9.4
 0.9.5
 0.9.6
+0.9.7
 sdk/elixir/v0.8.2
 sdk/elixir/v0.8.4
 sdk/elixir/v0.8.5
