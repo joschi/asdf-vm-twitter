@@ -869,6 +869,7 @@ liberica-16.0.2+7
 liberica-17+35
 liberica-17.0.1+12
 liberica-17.0.10+13
+liberica-17.0.10+14
 liberica-17.0.2+9
 liberica-17.0.3+7
 liberica-17.0.3.1+2
@@ -896,6 +897,7 @@ liberica-21+37
 liberica-21.0.1+12
 liberica-21.0.1+15
 liberica-21.0.2+14
+liberica-21.0.2+15
 liberica-8u202
 liberica-8u212
 liberica-8u222
