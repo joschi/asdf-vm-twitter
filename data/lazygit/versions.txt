@@ -199,6 +199,7 @@
 0.9
 blah
 latest
+pre-0.41
 pre-release-0.39
 pre-release-0.39-2
 testtag
