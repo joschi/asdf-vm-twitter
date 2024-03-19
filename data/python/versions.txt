@@ -229,6 +229,7 @@
 3.8.16
 3.8.17
 3.8.18
+3.8.19
 3.8.2
 3.8.3
 3.8.4
@@ -250,6 +251,7 @@
 3.9.16
 3.9.17
 3.9.18
+3.9.19
 3.9.2
 3.9.3
 3.9.4
@@ -344,8 +346,10 @@ graalpy-22.3.0
 graalpy-23.0.0
 graalpy-23.1.0
 graalpy-23.1.2
+graalpy-24.0.0
 graalpy-community-23.1.0
 graalpy-community-23.1.2
+graalpy-community-24.0.0
 graalpython-20.1.0
 graalpython-20.2.0
 graalpython-20.3.0
