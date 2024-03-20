@@ -518,6 +518,9 @@ corretto-21.0.0.35.1
 corretto-21.0.1.12.1
 corretto-21.0.2.13.1
 corretto-21.0.2.14.1
+corretto-22.0.0.34.1
+corretto-22.0.0.36.1
+corretto-22.0.0.36.2
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -604,6 +607,9 @@ corretto-musl-21.0.0.35.1
 corretto-musl-21.0.1.12.1
 corretto-musl-21.0.2.13.1
 corretto-musl-21.0.2.14.1
+corretto-musl-22.0.0.34.1
+corretto-musl-22.0.0.36.1
+corretto-musl-22.0.0.36.2
 corretto-musl-8.252.09.1
 corretto-musl-8.262.10.2
 corretto-musl-8.265.01.2
@@ -780,6 +786,7 @@ graalvm-community-20.0.2
 graalvm-community-21.0.0
 graalvm-community-21.0.1
 graalvm-community-21.0.2
+graalvm-community-22.0.0
 java-se-ri-10+44
 java-se-ri-11+28
 java-se-ri-12+32
@@ -1776,6 +1783,7 @@ sapmachine-20.0.2
 sapmachine-21
 sapmachine-21.0.1
 sapmachine-21.0.2
+sapmachine-22
 sapmachine-jre-11.0.10
 sapmachine-jre-11.0.11
 sapmachine-jre-11.0.12
@@ -1842,6 +1850,7 @@ sapmachine-jre-20.0.2
 sapmachine-jre-21
 sapmachine-jre-21.0.1
 sapmachine-jre-21.0.2
+sapmachine-jre-22
 sapmachine-jre-musl-17.0.10
 sapmachine-jre-musl-17.0.4-beta
 sapmachine-jre-musl-17.0.4.1-beta
@@ -1866,6 +1875,7 @@ sapmachine-jre-musl-20.0.2
 sapmachine-jre-musl-21
 sapmachine-jre-musl-21.0.1
 sapmachine-jre-musl-21.0.2
+sapmachine-jre-musl-22
 sapmachine-musl-17.0.10
 sapmachine-musl-17.0.4-beta
 sapmachine-musl-17.0.4.1-beta
@@ -1890,6 +1900,7 @@ sapmachine-musl-20.0.2
 sapmachine-musl-21
 sapmachine-musl-21.0.1
 sapmachine-musl-21.0.2
+sapmachine-musl-22
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
@@ -2228,6 +2239,8 @@ zulu-21.30.19
 zulu-21.30.19_1
 zulu-21.30.23
 zulu-21.32.17
+zulu-22.28.91
+zulu-22.28.93
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -2433,6 +2446,7 @@ zulu-javafx-20.32.11
 zulu-javafx-21.28.85
 zulu-javafx-21.30.15
 zulu-javafx-21.32.17
+zulu-javafx-22.28.91
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -2549,6 +2563,8 @@ zulu-jre-21.30.19
 zulu-jre-21.30.19_1
 zulu-jre-21.30.23
 zulu-jre-21.32.17
+zulu-jre-22.28.91
+zulu-jre-22.28.93
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -2657,6 +2673,7 @@ zulu-jre-javafx-20.32.11
 zulu-jre-javafx-21.28.85
 zulu-jre-javafx-21.30.15
 zulu-jre-javafx-21.32.17
+zulu-jre-javafx-22.28.91
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -2765,6 +2782,7 @@ zulu-jre-musl-21.28.85
 zulu-jre-musl-21.30.15
 zulu-jre-musl-21.30.23
 zulu-jre-musl-21.32.17
+zulu-jre-musl-22.28.91
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -2888,6 +2906,8 @@ zulu-musl-21.28.85
 zulu-musl-21.30.15
 zulu-musl-21.30.23
 zulu-musl-21.32.17
+zulu-musl-22.28.91
+zulu-musl-22.28.93
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
