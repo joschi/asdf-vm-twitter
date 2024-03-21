@@ -2045,6 +2045,7 @@ temurin-20.0.2+9
 temurin-21.0.0+35.0.LTS
 temurin-21.0.1+12.0.LTS
 temurin-21.0.2+13.0.LTS
+temurin-22.0.0+36
 temurin-8.0.302+8
 temurin-8.0.312+7
 temurin-8.0.322+6
@@ -2096,6 +2097,7 @@ temurin-jre-20.0.2+9
 temurin-jre-21.0.0+35.0.LTS
 temurin-jre-21.0.1+12.0.LTS
 temurin-jre-21.0.2+13.0.LTS
+temurin-jre-22.0.0+36
 temurin-jre-8.0.302+8
 temurin-jre-8.0.312+7
 temurin-jre-8.0.322+6
