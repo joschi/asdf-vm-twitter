@@ -521,6 +521,7 @@ corretto-21.0.2.14.1
 corretto-22.0.0.34.1
 corretto-22.0.0.36.1
 corretto-22.0.0.36.2
+corretto-22.0.0.37.1
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -610,6 +611,7 @@ corretto-musl-21.0.2.14.1
 corretto-musl-22.0.0.34.1
 corretto-musl-22.0.0.36.1
 corretto-musl-22.0.0.36.2
+corretto-musl-22.0.0.37.1
 corretto-musl-8.252.09.1
 corretto-musl-8.262.10.2
 corretto-musl-8.265.01.2
