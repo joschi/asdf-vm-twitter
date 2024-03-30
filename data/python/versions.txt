@@ -375,6 +375,7 @@ jython-2.5.4-rc1
 jython-2.7.0
 jython-2.7.1
 jython-2.7.2
+jython-2.7.3
 jython-dev
 mambaforge
 mambaforge-22.11.1-3
