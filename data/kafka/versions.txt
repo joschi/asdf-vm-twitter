@@ -183,6 +183,7 @@ confluent-community-6.2.11
 confluent-community-6.2.12
 confluent-community-6.2.13
 confluent-community-6.2.14
+confluent-community-6.2.15
 confluent-community-6.2.2
 confluent-community-6.2.3
 confluent-community-6.2.4
@@ -197,6 +198,7 @@ confluent-community-7.0.10
 confluent-community-7.0.11
 confluent-community-7.0.12
 confluent-community-7.0.13
+confluent-community-7.0.14
 confluent-community-7.0.2
 confluent-community-7.0.3
 confluent-community-7.0.4
@@ -365,6 +367,7 @@ confluent-enterprise-6.2.11
 confluent-enterprise-6.2.12
 confluent-enterprise-6.2.13
 confluent-enterprise-6.2.14
+confluent-enterprise-6.2.15
 confluent-enterprise-6.2.2
 confluent-enterprise-6.2.3
 confluent-enterprise-6.2.4
@@ -379,6 +382,7 @@ confluent-enterprise-7.0.10
 confluent-enterprise-7.0.11
 confluent-enterprise-7.0.12
 confluent-enterprise-7.0.13
+confluent-enterprise-7.0.14
 confluent-enterprise-7.0.2
 confluent-enterprise-7.0.3
 confluent-enterprise-7.0.4
