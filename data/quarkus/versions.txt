@@ -76,6 +76,7 @@
 3.2.1.Final
 3.2.10.Final
 3.2.11.Final
+3.2.12.Final
 3.2.2.Final
 3.2.3.Final
 3.2.4.Final
