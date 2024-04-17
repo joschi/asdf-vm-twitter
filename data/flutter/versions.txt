@@ -548,6 +548,7 @@
 3.19.3-stable
 3.19.4-stable
 3.19.5-stable
+3.19.6-stable
 3.20.0-1.1.pre-beta
 3.20.0-1.2.pre-beta
 3.21.0-0.0.pre-beta
