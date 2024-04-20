@@ -77,6 +77,7 @@
 1.9.0
 1.9.1
 1.9.2
+2.0.0
 bosion-v1.0.0
 bosion-v1.0.1
 bosion-v1.0.2
@@ -86,6 +87,7 @@ cli-v1.16.1
 cli-v1.16.2
 cli-v1.17.0
 cli-v1.17.1
+events-v3.0.0
 filterer-globset-v1.0.0
 filterer-ignore-v1.0.0
 filterer-tagged-v0.1.0
@@ -98,6 +100,7 @@ ignore-files-v1.3.1
 ignore-files-v1.3.2
 ignore-files-v2.0.0
 ignore-files-v2.1.0
+ignore-files-v3.0.0
 lib-v1.16.0
 lib-v1.16.1
 lib-v1.17.0
@@ -122,6 +125,7 @@ watchexec-filterer-globset-v1.1.0
 watchexec-filterer-globset-v1.2.0
 watchexec-filterer-globset-v2.0.0
 watchexec-filterer-globset-v3.0.0
+watchexec-filterer-globset-v4.0.0
 watchexec-filterer-ignore-v1.0.0
 watchexec-filterer-ignore-v1.1.0
 watchexec-filterer-ignore-v1.2.0
@@ -129,6 +133,7 @@ watchexec-filterer-ignore-v1.2.1
 watchexec-filterer-ignore-v2.0.0
 watchexec-filterer-ignore-v3.0.0
 watchexec-filterer-ignore-v3.0.1
+watchexec-filterer-ignore-v4.0.0
 watchexec-filterer-tagged-v0.1.0
 watchexec-filterer-tagged-v0.1.1
 watchexec-filterer-tagged-v0.2.0
@@ -143,6 +148,7 @@ watchexec-supervisor-v1.0.0
 watchexec-supervisor-v1.0.1
 watchexec-supervisor-v1.0.2
 watchexec-supervisor-v1.0.3
+watchexec-supervisor-v2.0.0
 watchexec-v1.16.0
 watchexec-v1.16.1
 watchexec-v1.17.0
@@ -173,3 +179,4 @@ watchexec-v2.3.1
 watchexec-v2.3.2
 watchexec-v3.0.0
 watchexec-v3.0.1
+watchexec-v4.0.0
