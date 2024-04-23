@@ -1678,6 +1678,7 @@ mandrel-23.1.0.0-Final+java21
 mandrel-23.1.1.0-Final+java21
 mandrel-23.1.2.0-Final+java21
 mandrel-24.0.0.0-Final+java22
+mandrel-24.0.1.0-Final+java22
 microsoft-11.0.11.9.1
 microsoft-11.0.12.7.1
 microsoft-11.0.13.8.1
@@ -2497,6 +2498,7 @@ zulu-javafx-11.66.15
 zulu-javafx-11.66.19
 zulu-javafx-11.68.17
 zulu-javafx-11.70.15
+zulu-javafx-11.72.19
 zulu-javafx-13.29.11
 zulu-javafx-13.31.11
 zulu-javafx-13.33.25
@@ -2540,6 +2542,7 @@ zulu-javafx-17.44.15
 zulu-javafx-17.44.53
 zulu-javafx-17.46.19
 zulu-javafx-17.48.15
+zulu-javafx-17.50.19
 zulu-javafx-18.28.13
 zulu-javafx-18.30.11
 zulu-javafx-18.32.11
@@ -2553,7 +2556,9 @@ zulu-javafx-20.32.11
 zulu-javafx-21.28.85
 zulu-javafx-21.30.15
 zulu-javafx-21.32.17
+zulu-javafx-21.34.19
 zulu-javafx-22.28.91
+zulu-javafx-22.30.13
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -2579,6 +2584,7 @@ zulu-javafx-8.70.0.23
 zulu-javafx-8.72.0.17
 zulu-javafx-8.74.0.17
 zulu-javafx-8.76.0.17
+zulu-javafx-8.78.0.19
 zulu-jre-11.31.11
 zulu-jre-11.33.15
 zulu-jre-11.35.13
@@ -2732,6 +2738,7 @@ zulu-jre-javafx-11.66.15
 zulu-jre-javafx-11.66.19
 zulu-jre-javafx-11.68.17
 zulu-jre-javafx-11.70.15
+zulu-jre-javafx-11.72.19
 zulu-jre-javafx-13.29.11
 zulu-jre-javafx-13.31.11
 zulu-jre-javafx-13.33.25
@@ -2772,6 +2779,7 @@ zulu-jre-javafx-17.44.15
 zulu-jre-javafx-17.44.53
 zulu-jre-javafx-17.46.19
 zulu-jre-javafx-17.48.15
+zulu-jre-javafx-17.50.19
 zulu-jre-javafx-18.28.13
 zulu-jre-javafx-18.30.11
 zulu-jre-javafx-18.32.11
@@ -2785,7 +2793,9 @@ zulu-jre-javafx-20.32.11
 zulu-jre-javafx-21.28.85
 zulu-jre-javafx-21.30.15
 zulu-jre-javafx-21.32.17
+zulu-jre-javafx-21.34.19
 zulu-jre-javafx-22.28.91
+zulu-jre-javafx-22.30.13
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -2809,6 +2819,7 @@ zulu-jre-javafx-8.70.0.23
 zulu-jre-javafx-8.72.0.17
 zulu-jre-javafx-8.74.0.17
 zulu-jre-javafx-8.76.0.17
+zulu-jre-javafx-8.78.0.19
 zulu-jre-musl-11.31.11
 zulu-jre-musl-11.33.15
 zulu-jre-musl-11.35.13
