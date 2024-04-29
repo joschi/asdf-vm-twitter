@@ -1087,6 +1087,7 @@
 9.0.4
 9.0.5
 9.0.6
+9.1.0-0
 @pnpm/headless@0.6.2
 @pnpm/outdated/0.0.1
 @pnpm/outdated/0.0.2
