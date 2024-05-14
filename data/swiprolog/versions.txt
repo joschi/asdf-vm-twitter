@@ -223,3 +223,4 @@
 9.3.3-devel
 9.3.4-devel
 9.3.5-devel
+9.3.6-devel
