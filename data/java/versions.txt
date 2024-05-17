@@ -929,6 +929,8 @@ liberica-17.0.10+13
 liberica-17.0.10+14
 liberica-17.0.11+10
 liberica-17.0.11+11
+liberica-17.0.11+12
+liberica-17.0.11+13
 liberica-17.0.2+9
 liberica-17.0.3+7
 liberica-17.0.3.1+2
@@ -959,8 +961,11 @@ liberica-21.0.2+14
 liberica-21.0.2+15
 liberica-21.0.3+10
 liberica-21.0.3+11
+liberica-21.0.3+12
+liberica-21.0.3+13
 liberica-22+37
 liberica-22.0.1+10
+liberica-22.0.1+12
 liberica-8u202
 liberica-8u212
 liberica-8u222
@@ -1027,6 +1032,7 @@ liberica-javafx-17+35
 liberica-javafx-17.0.1+12
 liberica-javafx-17.0.10+13
 liberica-javafx-17.0.11+10
+liberica-javafx-17.0.11+12
 liberica-javafx-17.0.2+9
 liberica-javafx-17.0.3+7
 liberica-javafx-17.0.3.1+2
@@ -1053,8 +1059,10 @@ liberica-javafx-21+37
 liberica-javafx-21.0.1+12
 liberica-javafx-21.0.2+14
 liberica-javafx-21.0.3+10
+liberica-javafx-21.0.3+12
 liberica-javafx-22+37
 liberica-javafx-22.0.1+10
+liberica-javafx-22.0.1+12
 liberica-javafx-8u242+7
 liberica-javafx-8u252+9
 liberica-javafx-8u262+10
@@ -1122,6 +1130,7 @@ liberica-jre-17+35
 liberica-jre-17.0.1+12
 liberica-jre-17.0.10+13
 liberica-jre-17.0.11+10
+liberica-jre-17.0.11+12
 liberica-jre-17.0.2+9
 liberica-jre-17.0.3+7
 liberica-jre-17.0.3.1+2
@@ -1148,8 +1157,10 @@ liberica-jre-21+37
 liberica-jre-21.0.1+12
 liberica-jre-21.0.2+14
 liberica-jre-21.0.3+10
+liberica-jre-21.0.3+12
 liberica-jre-22+37
 liberica-jre-22.0.1+10
+liberica-jre-22.0.1+12
 liberica-jre-8u202
 liberica-jre-8u212
 liberica-jre-8u222
@@ -1216,6 +1227,7 @@ liberica-jre-javafx-17+35
 liberica-jre-javafx-17.0.1+12
 liberica-jre-javafx-17.0.10+13
 liberica-jre-javafx-17.0.11+10
+liberica-jre-javafx-17.0.11+12
 liberica-jre-javafx-17.0.2+9
 liberica-jre-javafx-17.0.3+7
 liberica-jre-javafx-17.0.3.1+2
@@ -1242,8 +1254,10 @@ liberica-jre-javafx-21+37
 liberica-jre-javafx-21.0.1+12
 liberica-jre-javafx-21.0.2+14
 liberica-jre-javafx-21.0.3+10
+liberica-jre-javafx-21.0.3+12
 liberica-jre-javafx-22+37
 liberica-jre-javafx-22.0.1+10
+liberica-jre-javafx-22.0.1+12
 liberica-jre-javafx-8u242+7
 liberica-jre-javafx-8u252+9
 liberica-jre-javafx-8u262+10
@@ -1300,6 +1314,7 @@ liberica-jre-musl-17+35
 liberica-jre-musl-17.0.1+12
 liberica-jre-musl-17.0.10+13
 liberica-jre-musl-17.0.11+10
+liberica-jre-musl-17.0.11+12
 liberica-jre-musl-17.0.2+9
 liberica-jre-musl-17.0.3+7
 liberica-jre-musl-17.0.3.1+2
@@ -1326,8 +1341,10 @@ liberica-jre-musl-21+37
 liberica-jre-musl-21.0.1+12
 liberica-jre-musl-21.0.2+14
 liberica-jre-musl-21.0.3+10
+liberica-jre-musl-21.0.3+12
 liberica-jre-musl-22+37
 liberica-jre-musl-22.0.1+10
+liberica-jre-musl-22.0.1+12
 liberica-jre-musl-8u262+10
 liberica-jre-musl-8u265+1
 liberica-jre-musl-8u272+10
@@ -1400,6 +1417,7 @@ liberica-lite-17+35
 liberica-lite-17.0.1+12
 liberica-lite-17.0.10+13
 liberica-lite-17.0.11+10
+liberica-lite-17.0.11+12
 liberica-lite-17.0.2+9
 liberica-lite-17.0.3+7
 liberica-lite-17.0.3.1+2
@@ -1426,8 +1444,10 @@ liberica-lite-21+37
 liberica-lite-21.0.1+12
 liberica-lite-21.0.2+14
 liberica-lite-21.0.3+10
+liberica-lite-21.0.3+12
 liberica-lite-22+37
 liberica-lite-22.0.1+10
+liberica-lite-22.0.1+12
 liberica-lite-8u302+8
 liberica-lite-8u312+7
 liberica-lite-8u322+6
@@ -1492,6 +1512,7 @@ liberica-lite-musl-17+35
 liberica-lite-musl-17.0.1+12
 liberica-lite-musl-17.0.10+13
 liberica-lite-musl-17.0.11+10
+liberica-lite-musl-17.0.11+12
 liberica-lite-musl-17.0.2+9
 liberica-lite-musl-17.0.3+7
 liberica-lite-musl-17.0.3.1+2
@@ -1518,8 +1539,10 @@ liberica-lite-musl-21+37
 liberica-lite-musl-21.0.1+12
 liberica-lite-musl-21.0.2+14
 liberica-lite-musl-21.0.3+10
+liberica-lite-musl-21.0.3+12
 liberica-lite-musl-22+37
 liberica-lite-musl-22.0.1+10
+liberica-lite-musl-22.0.1+12
 liberica-lite-musl-8u302+8
 liberica-lite-musl-8u312+7
 liberica-lite-musl-8u322+6
@@ -1586,6 +1609,8 @@ liberica-musl-17.0.10+13
 liberica-musl-17.0.10+14
 liberica-musl-17.0.11+10
 liberica-musl-17.0.11+11
+liberica-musl-17.0.11+12
+liberica-musl-17.0.11+13
 liberica-musl-17.0.2+9
 liberica-musl-17.0.3+7
 liberica-musl-17.0.3.1+2
@@ -1614,8 +1639,11 @@ liberica-musl-21.0.2+14
 liberica-musl-21.0.2+15
 liberica-musl-21.0.3+10
 liberica-musl-21.0.3+11
+liberica-musl-21.0.3+12
+liberica-musl-21.0.3+13
 liberica-musl-22+37
 liberica-musl-22.0.1+10
+liberica-musl-22.0.1+12
 liberica-musl-8u262+10
 liberica-musl-8u265+1
 liberica-musl-8u272+10
