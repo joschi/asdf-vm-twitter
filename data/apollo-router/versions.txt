@@ -207,7 +207,10 @@
 1.7.0
 1.8.0
 1.9.0
+12.3.456
 12.3.456-rc.1
+13.4.56
+13.4.56-rc.0
 apollo-federation@0.0.10
 apollo-federation@0.0.11
 apollo-federation@0.0.2
