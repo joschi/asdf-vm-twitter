@@ -493,6 +493,7 @@ miniconda3-3.10-23.5.1-0
 miniconda3-3.10-23.5.2-0
 miniconda3-3.10-23.9.0-0
 miniconda3-3.10-24.1.2-0
+miniconda3-3.10-24.4.0-0
 miniconda3-3.10.1
 miniconda3-3.11-23.10.0-1
 miniconda3-3.11-23.11.0-1
@@ -502,7 +503,9 @@ miniconda3-3.11-23.5.1-0
 miniconda3-3.11-23.5.2-0
 miniconda3-3.11-23.9.0-0
 miniconda3-3.11-24.1.2-0
+miniconda3-3.11-24.4.0-0
 miniconda3-3.12-24.1.2-0
+miniconda3-3.12-24.4.0-0
 miniconda3-3.16.0
 miniconda3-3.18.3
 miniconda3-3.19.0
@@ -547,6 +550,7 @@ miniconda3-3.9-23.5.1-0
 miniconda3-3.9-23.5.2-0
 miniconda3-3.9-23.9.0-0
 miniconda3-3.9-24.1.2-0
+miniconda3-3.9-24.4.0-0
 miniconda3-3.9-4.10.1
 miniconda3-3.9-4.10.3
 miniconda3-3.9-4.11.0
