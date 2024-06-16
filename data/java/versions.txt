@@ -1815,6 +1815,7 @@ openjdk-9.0.4
 oracle-17
 oracle-17.0.1
 oracle-17.0.10
+oracle-17.0.11
 oracle-17.0.2
 oracle-17.0.3
 oracle-17.0.3.1
@@ -1840,6 +1841,7 @@ oracle-21
 oracle-21.0.1
 oracle-21.0.2
 oracle-graalvm-17.0.10
+oracle-graalvm-17.0.11
 oracle-graalvm-17.0.7
 oracle-graalvm-17.0.8
 oracle-graalvm-17.0.9
@@ -1848,6 +1850,7 @@ oracle-graalvm-20.0.2
 oracle-graalvm-21
 oracle-graalvm-21.0.1
 oracle-graalvm-21.0.2
+oracle-graalvm-22
 sapmachine-11.0.10
 sapmachine-11.0.11
 sapmachine-11.0.12
@@ -2085,6 +2088,7 @@ semeru-jre-openj9-20.0.2+9_openj9-0.40.0
 semeru-jre-openj9-21.0.1+12_openj9-0.42.0
 semeru-jre-openj9-21.0.2+13_openj9-0.43.0
 semeru-jre-openj9-21.0.3+9_openj9-0.44.0
+semeru-jre-openj9-22.0.1+8_openj9-0.45.0
 semeru-jre-openj9-8u302-b08_openj9-0.27.0
 semeru-jre-openj9-8u312-b07_openj9-0.29.0
 semeru-jre-openj9-8u322-b06_openj9-0.30.0
@@ -2136,6 +2140,7 @@ semeru-openj9-20.0.2+9_openj9-0.40.0
 semeru-openj9-21.0.1+12_openj9-0.42.0
 semeru-openj9-21.0.2+13_openj9-0.43.0
 semeru-openj9-21.0.3+9_openj9-0.44.0
+semeru-openj9-22.0.1+8_openj9-0.45.0
 semeru-openj9-8u302-b08_openj9-0.27.0
 semeru-openj9-8u312-b07_openj9-0.29.0
 semeru-openj9-8u322-b06_openj9-0.30.0
