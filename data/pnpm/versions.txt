@@ -1097,6 +1097,7 @@
 9.2.0
 9.3.0
 9.4.0
+9.5.0-beta.0
 @pnpm/headless@0.6.2
 @pnpm/outdated/0.0.1
 @pnpm/outdated/0.0.2
