@@ -1,4 +1,5 @@
 alias
+flyctl
 k14s
 smlnj
 solidity
