@@ -1884,6 +1884,7 @@ sapmachine-11.0.20.1
 sapmachine-11.0.21
 sapmachine-11.0.22
 sapmachine-11.0.23
+sapmachine-11.0.24
 sapmachine-11.0.6
 sapmachine-11.0.6.0.1
 sapmachine-11.0.7
@@ -1904,6 +1905,7 @@ sapmachine-17
 sapmachine-17.0.1
 sapmachine-17.0.10
 sapmachine-17.0.11
+sapmachine-17.0.12
 sapmachine-17.0.2
 sapmachine-17.0.3
 sapmachine-17.0.3.0.1
@@ -1934,8 +1936,10 @@ sapmachine-21
 sapmachine-21.0.1
 sapmachine-21.0.2
 sapmachine-21.0.3
+sapmachine-21.0.4
 sapmachine-22
 sapmachine-22.0.1
+sapmachine-22.0.2
 sapmachine-jre-11.0.10
 sapmachine-jre-11.0.11
 sapmachine-jre-11.0.12
@@ -1955,6 +1959,7 @@ sapmachine-jre-11.0.20.1
 sapmachine-jre-11.0.21
 sapmachine-jre-11.0.22
 sapmachine-jre-11.0.23
+sapmachine-jre-11.0.24
 sapmachine-jre-11.0.6
 sapmachine-jre-11.0.6.0.1
 sapmachine-jre-11.0.7
@@ -1975,6 +1980,7 @@ sapmachine-jre-17
 sapmachine-jre-17.0.1
 sapmachine-jre-17.0.10
 sapmachine-jre-17.0.11
+sapmachine-jre-17.0.12
 sapmachine-jre-17.0.2
 sapmachine-jre-17.0.3
 sapmachine-jre-17.0.3.0.1
@@ -2005,10 +2011,13 @@ sapmachine-jre-21
 sapmachine-jre-21.0.1
 sapmachine-jre-21.0.2
 sapmachine-jre-21.0.3
+sapmachine-jre-21.0.4
 sapmachine-jre-22
 sapmachine-jre-22.0.1
+sapmachine-jre-22.0.2
 sapmachine-jre-musl-17.0.10
 sapmachine-jre-musl-17.0.11
+sapmachine-jre-musl-17.0.12
 sapmachine-jre-musl-17.0.4-beta
 sapmachine-jre-musl-17.0.4.1-beta
 sapmachine-jre-musl-17.0.5-beta
@@ -2033,10 +2042,13 @@ sapmachine-jre-musl-21
 sapmachine-jre-musl-21.0.1
 sapmachine-jre-musl-21.0.2
 sapmachine-jre-musl-21.0.3
+sapmachine-jre-musl-21.0.4
 sapmachine-jre-musl-22
 sapmachine-jre-musl-22.0.1
+sapmachine-jre-musl-22.0.2
 sapmachine-musl-17.0.10
 sapmachine-musl-17.0.11
+sapmachine-musl-17.0.12
 sapmachine-musl-17.0.4-beta
 sapmachine-musl-17.0.4.1-beta
 sapmachine-musl-17.0.5-beta
@@ -2061,8 +2073,10 @@ sapmachine-musl-21
 sapmachine-musl-21.0.1
 sapmachine-musl-21.0.2
 sapmachine-musl-21.0.3
+sapmachine-musl-21.0.4
 sapmachine-musl-22
 sapmachine-musl-22.0.1
+sapmachine-musl-22.0.2
 semeru-jre-openj9-11.0.12+7_openj9-0.27.0
 semeru-jre-openj9-11.0.13+8_openj9-0.29.0
 semeru-jre-openj9-11.0.14+9_openj9-0.30.0
