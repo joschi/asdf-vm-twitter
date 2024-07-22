@@ -2726,6 +2726,7 @@ zulu-javafx-21.28.85
 zulu-javafx-21.30.15
 zulu-javafx-21.32.17
 zulu-javafx-21.34.19
+zulu-javafx-21.36.17
 zulu-javafx-22.28.91
 zulu-javafx-22.30.13
 zulu-javafx-22.32.15
@@ -2975,6 +2976,7 @@ zulu-jre-javafx-21.28.85
 zulu-jre-javafx-21.30.15
 zulu-jre-javafx-21.32.17
 zulu-jre-javafx-21.34.19
+zulu-jre-javafx-21.36.17
 zulu-jre-javafx-22.28.91
 zulu-jre-javafx-22.30.13
 zulu-jre-javafx-22.32.15
