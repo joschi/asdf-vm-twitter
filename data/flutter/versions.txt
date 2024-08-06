@@ -562,6 +562,7 @@
 3.23.0-0.1.pre-beta
 3.24.0-0.1.pre-beta
 3.24.0-0.2.pre-beta
+3.24.0-stable
 3.3.0-0.0.pre-beta
 3.3.0-0.1.pre-beta
 3.3.0-0.2.pre-beta
