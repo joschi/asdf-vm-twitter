@@ -99,6 +99,7 @@ cmd/ctl/v1.12.1
 cmd/ctl/v1.12.10
 cmd/ctl/v1.12.11
 cmd/ctl/v1.12.12
+cmd/ctl/v1.12.13
 cmd/ctl/v1.12.2
 cmd/ctl/v1.12.4
 cmd/ctl/v1.12.5
