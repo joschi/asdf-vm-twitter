@@ -851,6 +851,8 @@ java-se-ri-17+35
 java-se-ri-18+36
 java-se-ri-19+36
 java-se-ri-20+36
+java-se-ri-21+35
+java-se-ri-22+36
 java-se-ri-7u75-b13
 java-se-ri-8u41-b04
 java-se-ri-9+181
