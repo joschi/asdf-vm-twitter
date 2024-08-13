@@ -1189,3 +1189,4 @@
 8.4.0alpha2
 8.4.0alpha3
 8.4.0alpha4
+8.4.0beta1
