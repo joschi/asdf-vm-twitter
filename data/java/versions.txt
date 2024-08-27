@@ -1893,6 +1893,7 @@ openjdk-24-loom+1-17
 openjdk-24-loom+2-24
 openjdk-24-loom+3-33
 openjdk-24-loom+4-42
+openjdk-24-loom+5-48
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
