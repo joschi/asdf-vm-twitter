@@ -696,6 +696,7 @@ dragonwell-11.0.22.18.7
 dragonwell-11.0.22.19.7
 dragonwell-11.0.23.19.9
 dragonwell-11.0.23.20.9
+dragonwell-11.0.24.20.8
 dragonwell-11.0.24.21.8
 dragonwell-11.0.7.2+9
 dragonwell-11.0.8.3
