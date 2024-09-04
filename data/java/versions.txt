@@ -1898,6 +1898,7 @@ openjdk-24-loom+2-24
 openjdk-24-loom+3-33
 openjdk-24-loom+4-42
 openjdk-24-loom+5-48
+openjdk-24-loom+7-60
 openjdk-9
 openjdk-9.0.1
 openjdk-9.0.4
@@ -2545,6 +2546,7 @@ zulu-22.28.93
 zulu-22.30.13
 zulu-22.32.15
 zulu-22.32.17
+zulu-22.32.21
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -2895,6 +2897,7 @@ zulu-jre-22.30.13
 zulu-jre-22.30.15
 zulu-jre-22.32.15
 zulu-jre-22.32.17
+zulu-jre-22.32.21
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -3139,6 +3142,7 @@ zulu-jre-musl-22.30.13
 zulu-jre-musl-22.30.15
 zulu-jre-musl-22.32.15
 zulu-jre-musl-22.32.17
+zulu-jre-musl-22.32.21
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -3277,6 +3281,7 @@ zulu-musl-22.28.93
 zulu-musl-22.30.13
 zulu-musl-22.32.15
 zulu-musl-22.32.17
+zulu-musl-22.32.21
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
