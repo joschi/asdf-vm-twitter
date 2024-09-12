@@ -187,6 +187,7 @@
 @stoplight/spectral-core-v1.8.1
 @stoplight/spectral-core-v1.9.0
 @stoplight/spectral-formats-1.6.0
+@stoplight/spectral-formats-1.7.0
 @stoplight/spectral-formats-v1.0.0
 @stoplight/spectral-formats-v1.0.1
 @stoplight/spectral-formats-v1.0.2
