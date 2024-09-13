@@ -202,6 +202,7 @@ confluent-community-7.0.12
 confluent-community-7.0.13
 confluent-community-7.0.14
 confluent-community-7.0.15
+confluent-community-7.0.16
 confluent-community-7.0.2
 confluent-community-7.0.3
 confluent-community-7.0.4
@@ -229,6 +230,7 @@ confluent-community-7.2.0
 confluent-community-7.2.1
 confluent-community-7.2.10
 confluent-community-7.2.11
+confluent-community-7.2.12
 confluent-community-7.2.2
 confluent-community-7.2.3
 confluent-community-7.2.4
@@ -239,6 +241,7 @@ confluent-community-7.2.8
 confluent-community-7.2.9
 confluent-community-7.3.0
 confluent-community-7.3.1
+confluent-community-7.3.10
 confluent-community-7.3.2
 confluent-community-7.3.3
 confluent-community-7.3.4
@@ -254,16 +257,20 @@ confluent-community-7.4.3
 confluent-community-7.4.4
 confluent-community-7.4.5
 confluent-community-7.4.6
+confluent-community-7.4.7
 confluent-community-7.5.0
 confluent-community-7.5.1
 confluent-community-7.5.2
 confluent-community-7.5.3
 confluent-community-7.5.4
 confluent-community-7.5.5
+confluent-community-7.5.6
 confluent-community-7.6.0
 confluent-community-7.6.1
 confluent-community-7.6.2
+confluent-community-7.6.3
 confluent-community-7.7.0
+confluent-community-7.7.1
 confluent-enterprise-1.0
 confluent-enterprise-1.0.1
 confluent-enterprise-2.0.0
@@ -401,6 +408,7 @@ confluent-enterprise-7.0.12
 confluent-enterprise-7.0.13
 confluent-enterprise-7.0.14
 confluent-enterprise-7.0.15
+confluent-enterprise-7.0.16
 confluent-enterprise-7.0.2
 confluent-enterprise-7.0.3
 confluent-enterprise-7.0.4
@@ -428,6 +436,7 @@ confluent-enterprise-7.2.0
 confluent-enterprise-7.2.1
 confluent-enterprise-7.2.10
 confluent-enterprise-7.2.11
+confluent-enterprise-7.2.12
 confluent-enterprise-7.2.2
 confluent-enterprise-7.2.3
 confluent-enterprise-7.2.4
@@ -438,6 +447,7 @@ confluent-enterprise-7.2.8
 confluent-enterprise-7.2.9
 confluent-enterprise-7.3.0
 confluent-enterprise-7.3.1
+confluent-enterprise-7.3.10
 confluent-enterprise-7.3.2
 confluent-enterprise-7.3.3
 confluent-enterprise-7.3.4
@@ -453,13 +463,17 @@ confluent-enterprise-7.4.3
 confluent-enterprise-7.4.4
 confluent-enterprise-7.4.5
 confluent-enterprise-7.4.6
+confluent-enterprise-7.4.7
 confluent-enterprise-7.5.0
 confluent-enterprise-7.5.1
 confluent-enterprise-7.5.2
 confluent-enterprise-7.5.3
 confluent-enterprise-7.5.4
 confluent-enterprise-7.5.5
+confluent-enterprise-7.5.6
 confluent-enterprise-7.6.0
 confluent-enterprise-7.6.1
 confluent-enterprise-7.6.2
+confluent-enterprise-7.6.3
 confluent-enterprise-7.7.0
+confluent-enterprise-7.7.1
