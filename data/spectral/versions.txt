@@ -287,6 +287,7 @@
 @stoplight/spectral-rulesets-1.19.1
 @stoplight/spectral-rulesets-1.20.0
 @stoplight/spectral-rulesets-1.20.1
+@stoplight/spectral-rulesets-1.20.2
 @stoplight/spectral-rulesets-v1.0.0
 @stoplight/spectral-rulesets-v1.1.0
 @stoplight/spectral-rulesets-v1.10.0
