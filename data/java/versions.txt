@@ -552,6 +552,9 @@ corretto-22.0.0.36.2
 corretto-22.0.0.37.1
 corretto-22.0.1.8.1
 corretto-22.0.2.9.1
+corretto-23.0.0.35.1
+corretto-23.0.0.36.1
+corretto-23.0.0.37.1
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -652,6 +655,9 @@ corretto-musl-22.0.0.36.2
 corretto-musl-22.0.0.37.1
 corretto-musl-22.0.1.8.1
 corretto-musl-22.0.2.9.1
+corretto-musl-23.0.0.35.1
+corretto-musl-23.0.0.36.1
+corretto-musl-23.0.0.37.1
 corretto-musl-8.252.09.1
 corretto-musl-8.262.10.2
 corretto-musl-8.265.01.2
@@ -847,6 +853,7 @@ graalvm-community-21.0.2
 graalvm-community-22.0.0
 graalvm-community-22.0.1
 graalvm-community-22.0.2
+graalvm-community-23.0.0
 java-se-ri-10+44
 java-se-ri-11+28
 java-se-ri-12+32
@@ -2557,6 +2564,7 @@ zulu-22.30.13
 zulu-22.32.15
 zulu-22.32.17
 zulu-22.32.21
+zulu-23.28.85
 zulu-6.10.0.3
 zulu-6.11.0.2
 zulu-6.12.0.2
@@ -2773,6 +2781,7 @@ zulu-javafx-21.36.17
 zulu-javafx-22.28.91
 zulu-javafx-22.30.13
 zulu-javafx-22.32.15
+zulu-javafx-23.28.85
 zulu-javafx-8.33.0.1
 zulu-javafx-8.36.0.1
 zulu-javafx-8.38.0.13
@@ -2908,6 +2917,7 @@ zulu-jre-22.30.15
 zulu-jre-22.32.15
 zulu-jre-22.32.17
 zulu-jre-22.32.21
+zulu-jre-23.28.85
 zulu-jre-7.6.0.7
 zulu-jre-7.7.0.1
 zulu-jre-8.38.0.13
@@ -3027,6 +3037,7 @@ zulu-jre-javafx-21.36.17
 zulu-jre-javafx-22.28.91
 zulu-jre-javafx-22.30.13
 zulu-jre-javafx-22.32.15
+zulu-jre-javafx-23.28.85
 zulu-jre-javafx-8.38.0.13
 zulu-jre-javafx-8.40.0.25
 zulu-jre-javafx-8.42.0.23
@@ -3153,6 +3164,7 @@ zulu-jre-musl-22.30.15
 zulu-jre-musl-22.32.15
 zulu-jre-musl-22.32.17
 zulu-jre-musl-22.32.21
+zulu-jre-musl-23.28.85
 zulu-jre-musl-8.38.0.13
 zulu-jre-musl-8.40.0.25
 zulu-jre-musl-8.42.0.21
@@ -3292,6 +3304,7 @@ zulu-musl-22.30.13
 zulu-musl-22.32.15
 zulu-musl-22.32.17
 zulu-musl-22.32.21
+zulu-musl-23.28.85
 zulu-musl-8.33.0.1
 zulu-musl-8.34.0.1
 zulu-musl-8.36.0.1
