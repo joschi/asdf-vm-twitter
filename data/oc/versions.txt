@@ -1763,6 +1763,7 @@ fast-4.13
 fast-4.14
 fast-4.15
 fast-4.16
+fast-4.17
 fast-4.2
 fast-4.3
 fast-4.4
@@ -1779,6 +1780,7 @@ latest-4.13
 latest-4.14
 latest-4.15
 latest-4.16
+latest-4.17
 latest-4.2
 latest-4.3
 latest-4.4
