@@ -133,6 +133,7 @@ watchexec-filterer-globset-v2.0.0
 watchexec-filterer-globset-v3.0.0
 watchexec-filterer-globset-v4.0.0
 watchexec-filterer-globset-v4.0.1
+watchexec-filterer-globset-v5.0.0
 watchexec-filterer-ignore-v1.0.0
 watchexec-filterer-ignore-v1.1.0
 watchexec-filterer-ignore-v1.2.0
