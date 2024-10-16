@@ -499,6 +499,7 @@ corretto-11.0.21.9.1
 corretto-11.0.22.7.1
 corretto-11.0.23.9.1
 corretto-11.0.24.8.1
+corretto-11.0.25.9.1
 corretto-11.0.3.7.1
 corretto-11.0.4.11.1
 corretto-11.0.5.10.1
@@ -519,6 +520,7 @@ corretto-17.0.10.7.1
 corretto-17.0.10.8.1
 corretto-17.0.11.9.1
 corretto-17.0.12.7.1
+corretto-17.0.13.11.1
 corretto-17.0.2.8.1
 corretto-17.0.3.6.1
 corretto-17.0.4.8.1
@@ -548,6 +550,7 @@ corretto-21.0.2.13.1
 corretto-21.0.2.14.1
 corretto-21.0.3.9.1
 corretto-21.0.4.7.1
+corretto-21.0.5.11.1
 corretto-22.0.0.34.1
 corretto-22.0.0.36.1
 corretto-22.0.0.36.2
@@ -557,6 +560,7 @@ corretto-22.0.2.9.1
 corretto-23.0.0.35.1
 corretto-23.0.0.36.1
 corretto-23.0.0.37.1
+corretto-23.0.1.8.1
 corretto-8.202.08.2
 corretto-8.212.04.2
 corretto-8.222.10.1
@@ -607,6 +611,7 @@ corretto-musl-11.0.21.9.1
 corretto-musl-11.0.22.7.1
 corretto-musl-11.0.23.9.1
 corretto-musl-11.0.24.8.1
+corretto-musl-11.0.25.9.1
 corretto-musl-11.0.7.10.1
 corretto-musl-11.0.8.10.1
 corretto-musl-11.0.9.11.1
@@ -623,6 +628,7 @@ corretto-musl-17.0.10.7.1
 corretto-musl-17.0.10.8.1
 corretto-musl-17.0.11.9.1
 corretto-musl-17.0.12.7.1
+corretto-musl-17.0.13.11.1
 corretto-musl-17.0.2.8.1
 corretto-musl-17.0.3.6.1
 corretto-musl-17.0.4.8.1
@@ -652,6 +658,7 @@ corretto-musl-21.0.2.13.1
 corretto-musl-21.0.2.14.1
 corretto-musl-21.0.3.9.1
 corretto-musl-21.0.4.7.1
+corretto-musl-21.0.5.11.1
 corretto-musl-22.0.0.34.1
 corretto-musl-22.0.0.36.1
 corretto-musl-22.0.0.36.2
@@ -661,6 +668,7 @@ corretto-musl-22.0.2.9.1
 corretto-musl-23.0.0.35.1
 corretto-musl-23.0.0.36.1
 corretto-musl-23.0.0.37.1
+corretto-musl-23.0.1.8.1
 corretto-musl-8.252.09.1
 corretto-musl-8.262.10.2
 corretto-musl-8.265.01.2
