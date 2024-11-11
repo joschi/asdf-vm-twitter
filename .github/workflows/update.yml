@@ -48,3 +48,11 @@ jobs:
         pull: '--rebase --autostash'
       env:
         GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
+    - name: Commit new RSS items
+      uses: EndBug/add-and-commit@v9
+      with:
+        message: "🤖 Add new RSS items"
+        add: "rss/"
+        pull: '--rebase --autostash'
+      env:
+        GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}

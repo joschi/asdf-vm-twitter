@@ -5,6 +5,7 @@ set -Eo pipefail
 DATA_DIR="./data"
 TWEETS_DIR="./tweets"
 TOOTS_DIR="./toots"
+RSS_DIR="./rss"
 TEMP_DIR=$(mktemp -d)
 BLACKLIST="${DATA_DIR}/blacklist.txt"
 trap 'rm -rf ${TEMP_DIR}' EXIT
@@ -71,6 +72,20 @@ function update_plugin_versions {
 EOF
 			# Toot new plugin versions
 			cp "${tweets_dir}/${version_filename}.tweet" "${toots_dir}/${version_filename}.toot"
+
+	# RSS item for new plugins
+	cat<<EOF > "${RSS_DIR}/version-${plugin}-${version_filename}.rss"
+<item>
+  <title>🚀 ${plugin} ${version} is now available in asdf!</title>
+  <description>
+    <p>💡 Run <code>asdf install ${plugin} ${version}</code> to install it.</p>
+  </description>
+  <link>${PLUGIN_REPO}</link>
+  <author>asdf-vm bot</author>
+  <category>new-version</category>
+  <pubDate>$(date -R)</pubDate>
+</item>
+EOF
 		fi
 	done < "${TEMP_DIR}/${plugin}-added.txt"
 
@@ -83,6 +98,7 @@ EOF
 ensure_dir "${DATA_DIR}"
 ensure_dir "${TWEETS_DIR}"
 ensure_dir "${TOOTS_DIR}"
+ensure_dir "${RSS_DIR}"
 
 plugin=$1
 plugin_url=$2
