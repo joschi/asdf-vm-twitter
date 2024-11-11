@@ -6,22 +6,40 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 tfmigrate 0.4.0 is now available in asdf!</title>
+  <title>🚀 v weekly.2024.46 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install tfmigrate 0.4.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.46</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">tfmigrate-0.4.0</guid>
+  <guid isPermaLink="false">v-weekly.2024.46</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 10:12:22 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 12:18:26 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 please 17.12.6-beta.1 is now available in asdf!</title>
+  <title>🚀 loki-logcli operator/v0.7.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install please 17.12.6-beta.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install loki-logcli operator/v0.7.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">please-17.12.6-beta.1</guid>
+  <guid isPermaLink="false">loki-logcli-operator/v0.7.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 10:11:41 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 12:17:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 jx 3.11.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install jx 3.11.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">jx-3.11.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 12:17:10 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 chromedriver 132.0.6832.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install chromedriver 132.0.6832.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">chromedriver-132.0.6832.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 12:16:13 +0000</pubDate>
 </item>
 <item>
   <title>💥 R is now supported by asdf</title>
@@ -80,6 +98,15 @@
   <guid isPermaLink="false">gam-7.00.38</guid>
   <category>new-version</category>
   <pubDate>Mon, 11 Nov 2024 06:14:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 please 17.12.6-beta.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install please 17.12.6-beta.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">please-17.12.6-beta.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 10:11:41 +0000</pubDate>
 </item>
 <item>
   <title>🚀 rke v1.7.0-rc.7 is now available in asdf!</title>
@@ -152,6 +179,15 @@
   <guid isPermaLink="false">sst-3.3.18</guid>
   <category>new-version</category>
   <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tfmigrate 0.4.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tfmigrate 0.4.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tfmigrate-0.4.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 10:12:22 +0000</pubDate>
 </item>
 <item>
   <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
