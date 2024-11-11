@@ -78,10 +78,9 @@ EOF
 <item>
   <title>🚀 ${plugin} ${version} is now available in asdf!</title>
   <description>
-    <p>💡 Run <code>asdf install ${plugin} ${version}</code> to install it.</p>
+    <![CDATA[<p>💡 Run <code>asdf install ${plugin} ${version}</code> to install it.</p>]]>
   </description>
-  <link>${PLUGIN_REPO}</link>
-  <author>asdf-vm bot</author>
+  <guid isPermaLink="false">${plugin}-${version}</guid>
   <category>new-version</category>
   <pubDate>$(date -R)</pubDate>
 </item>

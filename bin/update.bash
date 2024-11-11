@@ -54,12 +54,12 @@ EOF
 	cat<<EOF > "${RSS_DIR}/plugin-${plugin}.rss"
 <item>
   <title>💥 ${plugin} is now supported by asdf</title>
-  <description>
+  <description><![CDATA[
     <p>💡 Run <code>asdf plugin-add ${plugin}</code> to install it.</p>
     <p>🔗 <a href="${PLUGIN_REPO}">${PLUGIN_REPO}</a></p>
-  </description>
+  ]]></description>
   <link>${PLUGIN_REPO}</link>
-  <author>asdf-vm bot</author>
+  <guid isPermaLink="false">${PLUGIN_REPO}</guid>
   <category>new-plugin</category>
   <pubDate>$(date -R)</pubDate>
 </item>
