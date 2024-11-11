@@ -1,0 +1,4 @@
+💥 mongodb-database-tools is now supported by asdf!
+
+💡 Run `asdf plugin-add mongodb-database-tools` to install it.
+🔗 https://github.com/egose/asdf-database-tools

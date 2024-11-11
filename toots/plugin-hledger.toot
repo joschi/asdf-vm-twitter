@@ -1,0 +1,4 @@
+💥 hledger is now supported by asdf!
+
+💡 Run `asdf plugin-add hledger` to install it.
+🔗 https://github.com/airtonix/asdf-hledger.git

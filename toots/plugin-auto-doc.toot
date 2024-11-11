@@ -1,0 +1,4 @@
+💥 auto-doc is now supported by asdf!
+
+💡 Run `asdf plugin-add auto-doc` to install it.
+🔗 https://github.com/looztra/asdf-auto-doc.git

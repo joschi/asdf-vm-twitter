@@ -1,0 +1,4 @@
+💥 calicoctl is now supported by asdf!
+
+💡 Run `asdf plugin-add calicoctl` to install it.
+🔗 https://github.com/TheCubicleJockey/asdf-calicoctl.git

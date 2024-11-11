@@ -1,0 +1,4 @@
+💥 ruff is now supported by asdf!
+
+💡 Run `asdf plugin-add ruff` to install it.
+🔗 https://github.com/simhem/asdf-ruff

@@ -1,0 +1,4 @@
+💥 liquibase is now supported by asdf!
+
+💡 Run `asdf plugin-add liquibase` to install it.
+🔗 https://github.com/saliougaye/asdf-liquibase.git

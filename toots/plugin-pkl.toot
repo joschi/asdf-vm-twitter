@@ -1,0 +1,4 @@
+💥 pkl is now supported by asdf!
+
+💡 Run `asdf plugin-add pkl` to install it.
+🔗 https://github.com/mise-plugins/asdf-pkl.git

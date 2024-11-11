@@ -1,0 +1,4 @@
+💥 pandoc is now supported by asdf!
+
+💡 Run `asdf plugin-add pandoc` to install it.
+🔗 https://github.com/Fbrisset/asdf-pandoc.git

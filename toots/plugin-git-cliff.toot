@@ -1,0 +1,4 @@
+💥 git-cliff is now supported by asdf!
+
+💡 Run `asdf plugin-add git-cliff` to install it.
+🔗 https://github.com/jylenhof/asdf-git-cliff.git

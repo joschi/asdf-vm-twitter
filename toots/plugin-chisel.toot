@@ -1,0 +1,4 @@
+💥 chisel is now supported by asdf!
+
+💡 Run `asdf plugin-add chisel` to install it.
+🔗 https://github.com/lwiechec/asdf-chisel.git
