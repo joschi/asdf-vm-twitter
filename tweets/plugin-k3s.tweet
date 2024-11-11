@@ -1,0 +1,4 @@
+💥 k3s is now supported by asdf!
+
+💡 Run `asdf plugin-add k3s` to install it.
+🔗 https://github.com/dmpe/asdf-k3s.git

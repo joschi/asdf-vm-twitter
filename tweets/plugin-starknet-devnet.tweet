@@ -1,0 +1,4 @@
+💥 starknet-devnet is now supported by asdf!
+
+💡 Run `asdf plugin-add starknet-devnet` to install it.
+🔗 https://github.com/ptisserand/asdf-starknet-devnet

@@ -1,0 +1,4 @@
+💥 ollama is now supported by asdf!
+
+💡 Run `asdf plugin-add ollama` to install it.
+🔗 https://github.com/virtualstaticvoid/asdf-ollama.git

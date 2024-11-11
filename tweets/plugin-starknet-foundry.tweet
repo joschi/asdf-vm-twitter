@@ -1,0 +1,4 @@
+💥 starknet-foundry is now supported by asdf!
+
+💡 Run `asdf plugin-add starknet-foundry` to install it.
+🔗 https://github.com/foundry-rs/asdf-starknet-foundry.git

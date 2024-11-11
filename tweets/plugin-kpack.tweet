@@ -1,0 +1,4 @@
+💥 kpack is now supported by asdf!
+
+💡 Run `asdf plugin-add kpack` to install it.
+🔗 https://github.com/asdf-community/asdf-kpack-cli.git

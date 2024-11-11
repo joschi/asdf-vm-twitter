@@ -1,0 +1,4 @@
+💥 staticcheck is now supported by asdf!
+
+💡 Run `asdf plugin-add staticcheck` to install it.
+🔗 https://github.com/pbr0ck3r/asdf-staticcheck.git

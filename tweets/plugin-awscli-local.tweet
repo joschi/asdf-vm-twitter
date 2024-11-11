@@ -1,0 +1,4 @@
+💥 awscli-local is now supported by asdf!
+
+💡 Run `asdf plugin-add awscli-local` to install it.
+🔗 https://github.com/paulo-ferraz-oliveira/asdf-awscli-local

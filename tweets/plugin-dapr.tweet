@@ -1,0 +1,4 @@
+💥 dapr is now supported by asdf!
+
+💡 Run `asdf plugin-add dapr` to install it.
+🔗 https://github.com/asdf-community/asdf-dapr-cli.git

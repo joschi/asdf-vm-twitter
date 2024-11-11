@@ -1,0 +1,4 @@
+💥 helix-editor is now supported by asdf!
+
+💡 Run `asdf plugin-add helix-editor` to install it.
+🔗 https://github.com/CSergienko/asdf-helix

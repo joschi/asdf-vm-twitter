@@ -1,0 +1,4 @@
+💥 protoc-gen-connect-go is now supported by asdf!
+
+💡 Run `asdf plugin-add protoc-gen-connect-go` to install it.
+🔗 https://github.com/dylanrayboss/asdf-protoc-gen-connect-go.git

@@ -1,0 +1,4 @@
+💥 jfrog-cli is now supported by asdf!
+
+💡 Run `asdf plugin-add jfrog-cli` to install it.
+🔗 https://github.com/LozanoMatheus/asdf-jfrog-cli.git

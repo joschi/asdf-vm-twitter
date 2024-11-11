@@ -1,0 +1,4 @@
+💥 kcl is now supported by asdf!
+
+💡 Run `asdf plugin-add kcl` to install it.
+🔗 https://github.com/starkers/asdf-kcl

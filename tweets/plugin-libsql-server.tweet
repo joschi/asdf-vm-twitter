@@ -1,0 +1,4 @@
+💥 libsql-server is now supported by asdf!
+
+💡 Run `asdf plugin-add libsql-server` to install it.
+🔗 https://github.com/jonasb/asdf-libsql-server.git
