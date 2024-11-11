@@ -23,6 +23,7 @@ ensure_dir "${TOOTS_DIR}"
 ensure_dir "${RSS_DIR}"
 
 # Initialize plugin repository
+asdf plugin list all > /dev/null 2>&1
 curl -sSLf -o asdf-plugins.zip https://github.com/asdf-vm/asdf-plugins/archive/refs/heads/master.zip
 unzip -x -d asdf-plugins.tmp -qq -j -o asdf-plugins.zip 'asdf-plugins-master/plugins/*'
 find asdf-plugins.tmp -type f -exec basename {} \; | sort > "${TEMP_DIR}/plugins-new.txt"

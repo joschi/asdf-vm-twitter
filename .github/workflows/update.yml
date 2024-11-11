@@ -14,11 +14,6 @@ jobs:
       run: sudo apt -y install parallel
     - name: Set up asdf-vm
       uses: asdf-vm/actions/setup@v3.0.2
-    - uses: actions/cache@v4
-      id: cache
-      with:
-        path: ~/.asdf/repository
-        key: ${{ runner.os }}-plugins
     - name: Run update script
       env:
         GITHUB_API_TOKEN: ${{ secrets.PULL_TOKEN }}
