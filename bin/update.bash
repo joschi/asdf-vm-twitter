@@ -96,7 +96,7 @@ do
   cat "$rss_item" >> "${DATA_DIR}/feed.rss"
 done
 
-cat<<EOF > "${DATA_DIR}/feed.rss"
+cat<<EOF >> "${DATA_DIR}/feed.rss"
   </channel>
 </rss>
 EOF
