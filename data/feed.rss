@@ -6,58 +6,31 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 sst 3.3.18 is now available in asdf!</title>
+  <title>🚀 spacectl 1.6.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.18</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install spacectl 1.6.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">sst-3.3.18</guid>
+  <guid isPermaLink="false">spacectl-1.6.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 08:14:29 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 sst 3.3.17 is now available in asdf!</title>
+  <title>🚀 rust-analyzer 2024-11-11 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.17</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install rust-analyzer 2024-11-11</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">sst-3.3.17</guid>
+  <guid isPermaLink="false">rust-analyzer-2024-11-11</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 08:14:21 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 sst 3.3.16 is now available in asdf!</title>
+  <title>🚀 rke v1.7.0-rc.7 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.16</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install rke v1.7.0-rc.7</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">sst-3.3.16</guid>
+  <guid isPermaLink="false">rke-v1.7.0-rc.7</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.15 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.15</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.15</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 gam 7.00.38 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install gam 7.00.38</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">gam-7.00.38</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:14:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dbmate 2.23.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dbmate 2.23.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dbmate-2.23.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:13:43 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 08:14:20 +0000</pubDate>
 </item>
 <item>
   <title>💥 R is now supported by asdf</title>
@@ -91,6 +64,15 @@
   <pubDate>Mon, 11 Nov 2024 02:43:07 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 dbmate 2.23.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install dbmate 2.23.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">dbmate-2.23.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 06:13:43 +0000</pubDate>
+</item>
+<item>
   <title>🚀 dojo 1.0.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install dojo 1.0.0</code> to install it.</p>]]>
@@ -100,6 +82,15 @@
   <pubDate>Mon, 11 Nov 2024 02:43:47 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 gam 7.00.38 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install gam 7.00.38</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">gam-7.00.38</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 06:14:12 +0000</pubDate>
+</item>
+<item>
   <title>🚀 sst 3.3.14 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install sst 3.3.14</code> to install it.</p>]]>
@@ -107,6 +98,42 @@
   <guid isPermaLink="false">sst-3.3.14</guid>
   <category>new-version</category>
   <pubDate>Mon, 11 Nov 2024 04:14:36 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sst 3.3.15 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.15</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sst-3.3.15</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sst 3.3.16 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.16</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sst-3.3.16</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sst 3.3.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sst-3.3.17</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sst 3.3.18 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.18</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sst-3.3.18</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
 </item>
 <item>
   <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
