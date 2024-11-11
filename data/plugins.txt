@@ -1,5 +1,4 @@
 1password-cli
-R
 aapt2
 act
 action-validator
@@ -453,7 +452,6 @@ loki-logcli
 ls-lint
 lua
 lua-language-server
-luaJIT
 luajit
 lucy
 maestro
