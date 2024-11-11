@@ -56,3 +56,6 @@
 0.8.4.0
 0.8.5.0
 0.9.0.0
+sh-compat-test
+test-travis-deploy
+test-travis-deploy-2
