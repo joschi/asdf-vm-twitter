@@ -5,6 +5,7 @@ set -Euo pipefail
 DATA_DIR="./data"
 TWEETS_DIR="./tweets"
 TOOTS_DIR="./toots"
+RSS_DIR="./rss"
 TEMP_DIR=$(mktemp -d)
 BIN_DIR=$(dirname "$0")
 trap 'rm -rf ${TEMP_DIR}' EXIT
@@ -19,6 +20,7 @@ function ensure_dir {
 ensure_dir "${DATA_DIR}"
 ensure_dir "${TWEETS_DIR}"
 ensure_dir "${TOOTS_DIR}"
+ensure_dir "${RSS_DIR}"
 
 # Initialize plugin repository
 asdf plugin list all > /dev/null 2>&1
@@ -45,6 +47,21 @@ do
 EOF
 	# Toot new plugins
 	cp "${TWEETS_DIR}/plugin-${plugin}.tweet" "${TOOTS_DIR}/plugin-${plugin}.toot"
+
+	# RSS item for new plugins
+	cat<<EOF > "${RSS_DIR}/plugin-${plugin}.rss"
+<item>
+  <title>💥 ${plugin} is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add ${plugin}</code> to install it.</p>
+    <p>🔗 <a href="${PLUGIN_REPO}">${PLUGIN_REPO}</a></p>
+  </description>
+  <link>${PLUGIN_REPO}</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>$(date -R)</pubDate>
+</item>
+EOF
 done < "${TEMP_DIR}/plugins-added.txt"
 
 diff -u "${DATA_DIR}/plugins.txt" "${TEMP_DIR}/plugins-new.txt" || true
@@ -59,3 +76,25 @@ do
 	plugin_url=$(cut -f2 <<< "${plugin_row}")
 	"${BIN_DIR}"/update-plugin.bash "${plugin}" "${plugin_url}"
 done < "${DATA_DIR}/additional-plugins.tsv"
+
+# Build RSS feed
+cat<<EOF > "${DATA_DIR}/feed.rss"
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>asdf-vm plugin updates</title>
+    <link>https://asdf-vm.com/</link>
+    <description>Latest additions to asdf-vm plugins</description>
+    <language>en</language>
+EOF
+
+# shellcheck disable=SC2012
+for rss_item in $(ls -t -1 "${RSS_DIR}"/*.rss | head -n 250)
+do
+  cat "$rss_item" >> "${DATA_DIR}/feed.rss"
+done
+
+cat<<EOF > "${DATA_DIR}/feed.rss"
+  </channel>
+</rss>
+EOF
