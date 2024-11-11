@@ -1,0 +1,11 @@
+<item>
+  <title>💥 markdownlint-cli2 is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add markdownlint-cli2</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/paulo-ferraz-oliveira/asdf-markdownlint-cli2">https://github.com/paulo-ferraz-oliveira/asdf-markdownlint-cli2</a></p>
+  </description>
+  <link>https://github.com/paulo-ferraz-oliveira/asdf-markdownlint-cli2</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:44 +0000</pubDate>
+</item>

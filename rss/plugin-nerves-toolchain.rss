@@ -1,0 +1,11 @@
+<item>
+  <title>💥 nerves-toolchain is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add nerves-toolchain</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/nerves-project/asdf-plugin-nerves-toolchain">https://github.com/nerves-project/asdf-plugin-nerves-toolchain</a></p>
+  </description>
+  <link>https://github.com/nerves-project/asdf-plugin-nerves-toolchain</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:44 +0000</pubDate>
+</item>

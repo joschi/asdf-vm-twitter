@@ -1,0 +1,11 @@
+<item>
+  <title>💥 revive is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add revive</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/bjw-s/asdf-revive.git">https://github.com/bjw-s/asdf-revive.git</a></p>
+  </description>
+  <link>https://github.com/bjw-s/asdf-revive.git</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:45 +0000</pubDate>
+</item>

@@ -1,0 +1,11 @@
+<item>
+  <title>💥 unison is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add unison</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/susurri/asdf-unison.git">https://github.com/susurri/asdf-unison.git</a></p>
+  </description>
+  <link>https://github.com/susurri/asdf-unison.git</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:45 +0000</pubDate>
+</item>

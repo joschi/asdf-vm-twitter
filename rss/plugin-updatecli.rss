@@ -1,0 +1,11 @@
+<item>
+  <title>💥 updatecli is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add updatecli</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/updatecli/asdf-updatecli.git">https://github.com/updatecli/asdf-updatecli.git</a></p>
+  </description>
+  <link>https://github.com/updatecli/asdf-updatecli.git</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:45 +0000</pubDate>
+</item>

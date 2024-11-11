@@ -1,0 +1,11 @@
+<item>
+  <title>💥 bfs is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add bfs</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/virtualroot/asdf-bfs.git">https://github.com/virtualroot/asdf-bfs.git</a></p>
+  </description>
+  <link>https://github.com/virtualroot/asdf-bfs.git</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:44 +0000</pubDate>
+</item>

@@ -1,0 +1,11 @@
+<item>
+  <title>💥 r is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add r</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/asdf-community/asdf-r.git">https://github.com/asdf-community/asdf-r.git</a></p>
+  </description>
+  <link>https://github.com/asdf-community/asdf-r.git</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:45 +0000</pubDate>
+</item>

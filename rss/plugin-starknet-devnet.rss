@@ -1,0 +1,11 @@
+<item>
+  <title>💥 starknet-devnet is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add starknet-devnet</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/ptisserand/asdf-starknet-devnet">https://github.com/ptisserand/asdf-starknet-devnet</a></p>
+  </description>
+  <link>https://github.com/ptisserand/asdf-starknet-devnet</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:45 +0000</pubDate>
+</item>

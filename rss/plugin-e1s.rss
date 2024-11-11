@@ -1,0 +1,11 @@
+<item>
+  <title>💥 e1s is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add e1s</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/tbobm/asdf-e1s">https://github.com/tbobm/asdf-e1s</a></p>
+  </description>
+  <link>https://github.com/tbobm/asdf-e1s</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:44 +0000</pubDate>
+</item>

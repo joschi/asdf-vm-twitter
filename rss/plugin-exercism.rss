@@ -1,0 +1,11 @@
+<item>
+  <title>💥 exercism is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add exercism</code> to install it.</p>
+    <p>🔗 <a href="https://gitlab.com/bheesham/asdf-exercism.git">https://gitlab.com/bheesham/asdf-exercism.git</a></p>
+  </description>
+  <link>https://gitlab.com/bheesham/asdf-exercism.git</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:44 +0000</pubDate>
+</item>

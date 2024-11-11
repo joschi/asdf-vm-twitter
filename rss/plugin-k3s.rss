@@ -1,0 +1,11 @@
+<item>
+  <title>💥 k3s is now supported by asdf</title>
+  <description>
+    <p>💡 Run <code>asdf plugin-add k3s</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/dmpe/asdf-k3s.git">https://github.com/dmpe/asdf-k3s.git</a></p>
+  </description>
+  <link>https://github.com/dmpe/asdf-k3s.git</link>
+  <author>asdf-vm bot</author>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 00:28:44 +0000</pubDate>
+</item>
