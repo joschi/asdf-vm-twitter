@@ -6,13 +6,67 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 powerpipe 1.1.0-alpha.202411111329 is now available in asdf!</title>
+  <title>🚀 vcluster 0.21.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install powerpipe 1.1.0-alpha.202411111329</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">powerpipe-1.1.0-alpha.202411111329</guid>
+  <guid isPermaLink="false">vcluster-0.21.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 14:10:56 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 16:13:17 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tomcat 10.1.33 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tomcat 10.1.33</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tomcat-10.1.33</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:13:13 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 k6 0.55.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install k6 0.55.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">k6-0.55.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:11:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 jx 3.11.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install jx 3.11.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">jx-3.11.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:11:47 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 gradle 8.11 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install gradle 8.11</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">gradle-8.11</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:11:27 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 fzf 0.56.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install fzf 0.56.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">fzf-0.56.2</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:11:09 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 checkov 3.2.287 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install checkov 3.2.287</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">checkov-3.2.287</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:10:37 +0000</pubDate>
 </item>
 <item>
   <title>💥 R is now supported by asdf</title>
@@ -107,6 +161,15 @@
   <guid isPermaLink="false">please-17.12.6-beta.1</guid>
   <category>new-version</category>
   <pubDate>Mon, 11 Nov 2024 10:11:41 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 powerpipe 1.1.0-alpha.202411111329 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install powerpipe 1.1.0-alpha.202411111329</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">powerpipe-1.1.0-alpha.202411111329</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 14:10:56 +0000</pubDate>
 </item>
 <item>
   <title>🚀 rke v1.7.0-rc.7 is now available in asdf!</title>
