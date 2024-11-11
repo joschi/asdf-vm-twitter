@@ -6,31 +6,24 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
+  <title>🚀 sst 3.3.14 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.15.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.14</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcbeautify-2.15.0</guid>
+  <guid isPermaLink="false">sst-3.3.14</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 02:47:06 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 04:14:36 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 dojo 1.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dojo 1.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dojo-1.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 02:43:47 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 azure-cli 2.66.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install azure-cli 2.66.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">azure-cli-2.66.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 02:43:07 +0000</pubDate>
+  <title>💥 R is now supported by asdf</title>
+  <description><![CDATA[
+    <p>💡 Run <code>asdf plugin-add R</code> to install it.</p>
+    <p>🔗 <a href="https://github.com/asdf-community/asdf-r.git">https://github.com/asdf-community/asdf-r.git</a></p>
+  ]]></description>
+  <link>https://github.com/asdf-community/asdf-r.git</link>
+  <guid isPermaLink="false">https://github.com/asdf-community/asdf-r.git</guid>
+  <category>new-plugin</category>
+  <pubDate>Mon, 11 Nov 2024 02:42:50 +0000</pubDate>
 </item>
 <item>
   <title>💥 luaJIT is now supported by asdf</title>
@@ -44,15 +37,31 @@
   <pubDate>Mon, 11 Nov 2024 02:42:50 +0000</pubDate>
 </item>
 <item>
-  <title>💥 R is now supported by asdf</title>
-  <description><![CDATA[
-    <p>💡 Run <code>asdf plugin-add R</code> to install it.</p>
-    <p>🔗 <a href="https://github.com/asdf-community/asdf-r.git">https://github.com/asdf-community/asdf-r.git</a></p>
-  ]]></description>
-  <link>https://github.com/asdf-community/asdf-r.git</link>
-  <guid isPermaLink="false">https://github.com/asdf-community/asdf-r.git</guid>
-  <category>new-plugin</category>
-  <pubDate>Mon, 11 Nov 2024 02:42:50 +0000</pubDate>
+  <title>🚀 azure-cli 2.66.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install azure-cli 2.66.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">azure-cli-2.66.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 02:43:07 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 dojo 1.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install dojo 1.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">dojo-1.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 02:43:47 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.15.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.15.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 02:47:06 +0000</pubDate>
 </item>
   </channel>
 </rss>
