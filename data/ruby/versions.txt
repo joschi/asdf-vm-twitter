@@ -272,6 +272,7 @@
 3.3.3
 3.3.4
 3.3.5
+3.3.6
 3.4-dev
 3.4.0-preview1
 3.4.0-preview2
@@ -397,6 +398,7 @@ jruby-9.4.5.0
 jruby-9.4.6.0
 jruby-9.4.7.0
 jruby-9.4.8.0
+jruby-9.4.9.0
 jruby-dev
 maglev-1.0.0
 maglev-1.1.0-dev
