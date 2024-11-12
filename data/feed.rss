@@ -6,58 +6,58 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 spacectl 1.7.0 is now available in asdf!</title>
+  <title>🚀 websocat 1.14.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install spacectl 1.7.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install websocat 1.14.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">spacectl-1.7.0</guid>
+  <guid isPermaLink="false">websocat-1.14.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 14:12:10 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 16:13:39 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ruby jruby-9.4.9.0 is now available in asdf!</title>
+  <title>🚀 terragrunt 0.68.12 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ruby jruby-9.4.9.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.12</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ruby-jruby-9.4.9.0</guid>
+  <guid isPermaLink="false">terragrunt-0.68.12</guid>
   <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 14:11:57 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 16:13:25 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ruby 3.3.6 is now available in asdf!</title>
+  <title>🚀 sst 3.3.20 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ruby 3.3.6</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.20</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ruby-3.3.6</guid>
+  <guid isPermaLink="false">sst-3.3.20</guid>
   <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 14:11:57 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 16:13:10 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 regal 0.29.0 is now available in asdf!</title>
+  <title>🚀 pixi 0.36.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install regal 0.29.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pixi 0.36.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">regal-0.29.0</guid>
+  <guid isPermaLink="false">pixi-0.36.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 14:11:51 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 16:12:45 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 depot 2.76.3 is now available in asdf!</title>
+  <title>🚀 gcloud 501.0.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install depot 2.76.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install gcloud 501.0.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">depot-2.76.3</guid>
+  <guid isPermaLink="false">gcloud-501.0.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 14:09:13 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 16:11:20 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 daytona 0.44.1 is now available in asdf!</title>
+  <title>🚀 checkov 3.2.290 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install daytona 0.44.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install checkov 3.2.290</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">daytona-0.44.1</guid>
+  <guid isPermaLink="false">checkov-3.2.290</guid>
   <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 14:09:10 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 16:10:46 +0000</pubDate>
 </item>
 <item>
   <title>💥 R is now supported by asdf</title>
@@ -199,6 +199,15 @@
   <pubDate>Mon, 11 Nov 2024 18:11:14 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 daytona 0.44.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install daytona 0.44.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">daytona-0.44.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 14:09:10 +0000</pubDate>
+</item>
+<item>
   <title>🚀 dbmate 2.23.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install dbmate 2.23.0</code> to install it.</p>]]>
@@ -206,6 +215,15 @@
   <guid isPermaLink="false">dbmate-2.23.0</guid>
   <category>new-version</category>
   <pubDate>Mon, 11 Nov 2024 06:13:43 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 depot 2.76.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install depot 2.76.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">depot-2.76.3</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 14:09:13 +0000</pubDate>
 </item>
 <item>
   <title>🚀 dojo 1.0.0 is now available in asdf!</title>
@@ -469,6 +487,15 @@
   <pubDate>Tue, 12 Nov 2024 00:42:44 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 regal 0.29.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install regal 0.29.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">regal-0.29.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 14:11:51 +0000</pubDate>
+</item>
+<item>
   <title>🚀 rke v1.7.0-rc.7 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install rke v1.7.0-rc.7</code> to install it.</p>]]>
@@ -485,6 +512,24 @@
   <guid isPermaLink="false">rpk-24.3.1-rc4</guid>
   <category>new-version</category>
   <pubDate>Mon, 11 Nov 2024 22:09:36 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ruby 3.3.6 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ruby 3.3.6</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ruby-3.3.6</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 14:11:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ruby jruby-9.4.9.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ruby jruby-9.4.9.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ruby-jruby-9.4.9.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 14:11:57 +0000</pubDate>
 </item>
 <item>
   <title>🚀 rust-analyzer 2024-11-11 is now available in asdf!</title>
@@ -512,6 +557,15 @@
   <guid isPermaLink="false">spacectl-1.6.1</guid>
   <category>new-version</category>
   <pubDate>Mon, 11 Nov 2024 08:14:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spacectl 1.7.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spacectl 1.7.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spacectl-1.7.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 14:12:10 +0000</pubDate>
 </item>
 <item>
   <title>🚀 spectral 6.14.0 is now available in asdf!</title>
