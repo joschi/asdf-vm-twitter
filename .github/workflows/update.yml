@@ -3,6 +3,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */2 * * *'
+concurrency:
+  group: "update"
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -27,6 +30,12 @@ jobs:
         pull: '--rebase --autostash'
       env:
         GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
+    - name: Copy RSS feed for upload
+      run: |
+          mkdir -p _site
+          cp data/feed.rss _site/
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
     - name: Commit new tweets
       uses: EndBug/add-and-commit@v9
       with:
@@ -51,3 +60,16 @@ jobs:
         pull: '--rebase --autostash'
       env:
         GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
+  deploy:
+    needs: update
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
