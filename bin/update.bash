@@ -26,7 +26,8 @@ ensure_dir "${RSS_DIR}"
 asdf plugin list all > /dev/null 2>&1
 curl -sSLf -o asdf-plugins.zip https://github.com/asdf-vm/asdf-plugins/archive/refs/heads/master.zip
 unzip -x -d asdf-plugins.tmp -qq -j -o asdf-plugins.zip 'asdf-plugins-master/plugins/*'
-find asdf-plugins.tmp -type f -exec basename {} \; | sort > "${TEMP_DIR}/plugins-new.txt"
+find asdf-plugins.tmp -type f -exec basename {} \; | tr "[:upper:]" "[:lower:]" | sort | uniq > "${TEMP_DIR}/plugins-new.txt"
+
 if [[ ! -r "${DATA_DIR}/plugins.txt" ]]
 then
 	touch "${DATA_DIR}/plugins.txt"
