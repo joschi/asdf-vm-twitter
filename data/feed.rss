@@ -6,31 +6,193 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 melange 0.15.7 is now available in asdf!</title>
+  <title>🚀 java semeru-openj9-23.0.1+11_openj9-0.48.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install melange 0.15.7</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-23.0.1+11_openj9-0.48.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">melange-0.15.7</guid>
+  <guid isPermaLink="false">java-semeru-openj9-23.0.1+11_openj9-0.48.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 00:42:33 +0000</pubDate>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 helm-diff 3.9.12 is now available in asdf!</title>
+  <title>🚀 java semeru-openj9-21.0.5+11_openj9-0.48.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install helm-diff 3.9.12</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-21.0.5+11_openj9-0.48.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">helm-diff-3.9.12</guid>
+  <guid isPermaLink="false">java-semeru-openj9-21.0.5+11_openj9-0.48.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 00:41:57 +0000</pubDate>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 azure-functions-core-tools 4.0.6610 is now available in asdf!</title>
+  <title>🚀 java semeru-openj9-17.0.13+11_openj9-0.48.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install azure-functions-core-tools 4.0.6610</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-17.0.13+11_openj9-0.48.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">azure-functions-core-tools-4.0.6610</guid>
+  <guid isPermaLink="false">java-semeru-openj9-17.0.13+11_openj9-0.48.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 00:40:53 +0000</pubDate>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-openj9-11.0.25+9_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-11.0.25+9_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-openj9-11.0.25+9_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-openj9-8u432-b06_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-8u432-b06_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-openj9-8u432-b06_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-23.0.1+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-23.0.1+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-23.0.1+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-21.0.5+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-21.0.5+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-21.0.5+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-17.0.13+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-17.0.13+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-17.0.13+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-11.0.25+9_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-11.0.25+9_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-11.0.25+9_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-8u432-b06_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-8u432-b06_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-8u432-b06_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 helm 3.16.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install helm 3.16.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">helm-3.16.3</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:44:42 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 flutter 3.24.5-stable is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install flutter 3.24.5-stable</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">flutter-3.24.5-stable</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:44:04 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 chromedriver 133.0.6835.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6835.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">chromedriver-133.0.6835.3</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:43:23 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 aws-sam-cli 1.129.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install aws-sam-cli 1.129.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">aws-sam-cli-1.129.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:43:02 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tfc-agent 1.17.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tfc-agent 1.17.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tfc-agent-1.17.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 20:14:00 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tfmigrate 0.4.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tfmigrate 0.4.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tfmigrate-0.4.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 10:12:22 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tomcat 10.1.33 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tomcat 10.1.33</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tomcat-10.1.33</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:13:13 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 4.34.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 4.34.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-4.34.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 16:12:52 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 unison 0.5.28 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.28</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">unison-0.5.28</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 20:14:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 v weekly.2024.46 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.46</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">v-weekly.2024.46</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 12:18:26 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.21.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.21.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:13:17 +0000</pubDate>
 </item>
 <item>
   <title>🚀 websocat 1.14.0 is now available in asdf!</title>
@@ -312,6 +474,15 @@
   <pubDate>Wed, 13 Nov 2024 12:17:16 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 helm-diff 3.9.12 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install helm-diff 3.9.12</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">helm-diff-3.9.12</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 00:41:57 +0000</pubDate>
+</item>
+<item>
   <title>🚀 heroku-cli 10.0.0-alpha.2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install heroku-cli 10.0.0-alpha.2</code> to install it.</p>]]>
@@ -499,6 +670,15 @@
   <guid isPermaLink="false">melange-0.15.6</guid>
   <category>new-version</category>
   <pubDate>Wed, 13 Nov 2024 00:42:18 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 melange 0.15.7 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install melange 0.15.7</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">melange-0.15.7</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 00:42:33 +0000</pubDate>
 </item>
 <item>
   <title>🚀 mimirtool 2.14.2 is now available in asdf!</title>
@@ -1158,69 +1338,6 @@
   <pubDate>Wed, 13 Nov 2024 18:14:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 tfc-agent 1.17.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tfc-agent 1.17.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tfc-agent-1.17.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 20:14:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tfmigrate 0.4.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tfmigrate 0.4.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tfmigrate-0.4.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 10:12:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tomcat 10.1.33 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tomcat 10.1.33</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tomcat-10.1.33</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 16:13:13 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tuist 4.34.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tuist 4.34.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tuist-4.34.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 16:12:52 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 unison 0.5.28 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.28</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">unison-0.5.28</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 20:14:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 v weekly.2024.46 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.46</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">v-weekly.2024.46</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 12:18:26 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vcluster 0.21.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vcluster-0.21.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 16:13:17 +0000</pubDate>
-</item>
-<item>
   <title>💥 R is now supported by asdf</title>
   <description><![CDATA[
     <p>💡 Run <code>asdf plugin-add R</code> to install it.</p>
@@ -1331,6 +1448,15 @@
   <guid isPermaLink="false">azure-cli-2.66.0</guid>
   <category>new-version</category>
   <pubDate>Mon, 11 Nov 2024 02:43:07 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 azure-functions-core-tools 4.0.6610 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install azure-functions-core-tools 4.0.6610</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">azure-functions-core-tools-4.0.6610</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 00:40:53 +0000</pubDate>
 </item>
 <item>
   <title>🚀 babashka 1.12.195 is now available in asdf!</title>
