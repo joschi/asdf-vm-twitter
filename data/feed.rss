@@ -6,535 +6,22 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 mint 0.20.0-rc.1 is now available in asdf!</title>
+  <title>🚀 scala-cli 1.5.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-rc.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install scala-cli 1.5.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">mint-0.20.0-rc.1</guid>
+  <guid isPermaLink="false">scala-cli-1.5.3</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Thu, 14 Nov 2024 10:11:41 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 mint 0.20.0-alpha.3 is now available in asdf!</title>
+  <title>🚀 protoc-gen-go 1.35.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-alpha.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install protoc-gen-go 1.35.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">mint-0.20.0-alpha.3</guid>
+  <guid isPermaLink="false">protoc-gen-go-1.35.2</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mint 0.20.0-alpha.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-alpha.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mint-0.20.0-alpha.2</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mint 0.20.0-alpha.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-alpha.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mint-0.20.0-alpha.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 teleport-ent 16.4.7 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 16.4.7</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">teleport-ent-16.4.7</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 02:42:16 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terraform 1.10.0-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.0-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terraform-1.10.0-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 18:14:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terragrunt 0.68.10 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.10</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terragrunt-0.68.10</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 18:13:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terragrunt 0.68.12 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.12</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terragrunt-0.68.12</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 16:13:25 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terragrunt 0.68.13 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.13</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terragrunt-0.68.13</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 18:14:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tfc-agent 1.17.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tfc-agent 1.17.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tfc-agent-1.17.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 20:14:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tfmigrate 0.4.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tfmigrate 0.4.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tfmigrate-0.4.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 10:12:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tomcat 10.1.33 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tomcat 10.1.33</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tomcat-10.1.33</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 16:13:13 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tuist 4.34.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tuist 4.34.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tuist-4.34.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 16:12:52 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 unison 0.5.28 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.28</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">unison-0.5.28</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 20:14:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 v weekly.2024.46 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.46</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">v-weekly.2024.46</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 12:18:26 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vcluster 0.21.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vcluster-0.21.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 16:13:17 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 websocat 1.14.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install websocat 1.14.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">websocat-1.14.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 16:13:39 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 websocat 4.0.0-alpha1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install websocat 4.0.0-alpha1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">websocat-4.0.0-alpha1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 20:11:50 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.15.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.15.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 02:47:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd 3.4.35 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd 3.4.35</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-3.4.35</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd 3.5.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd 3.5.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-3.5.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd api/v3.5.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd api/v3.5.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-api/v3.5.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd client/pkg/v3.5.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd client/pkg/v3.5.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-client/pkg/v3.5.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd client/v2.305.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd client/v2.305.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-client/v2.305.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd client/v3.5.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd client/v3.5.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-client/v3.5.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd etcdctl/v3.5.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd etcdctl/v3.5.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-etcdctl/v3.5.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd etcdutl/v3.5.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd etcdutl/v3.5.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-etcdutl/v3.5.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd pkg/v3.5.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd pkg/v3.5.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-pkg/v3.5.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd raft/v3.5.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd raft/v3.5.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-raft/v3.5.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd server/v3.5.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd server/v3.5.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-server/v3.5.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 etcd tests/v3.5.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install etcd tests/v3.5.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">etcd-tests/v3.5.17</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 eza 0.20.8 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install eza 0.20.8</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">eza-0.20.8</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 06:13:28 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 firebase 13.25.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install firebase 13.25.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">firebase-13.25.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 00:41:21 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 flutter 3.24.5-stable is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install flutter 3.24.5-stable</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">flutter-3.24.5-stable</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 02:44:04 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 frankenphp 1.3.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install frankenphp 1.3.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">frankenphp-1.3.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 00:40:54 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 frankenphp caddy/v1.3.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install frankenphp caddy/v1.3.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">frankenphp-caddy/v1.3.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 00:40:54 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 fzf 0.56.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install fzf 0.56.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">fzf-0.56.2</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 16:11:09 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 gam 7.00.38 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install gam 7.00.38</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">gam-7.00.38</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:14:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 gcloud 501.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install gcloud 501.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">gcloud-501.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 16:11:20 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 glooctl v1.18.0-beta34 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install glooctl v1.18.0-beta34</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">glooctl-v1.18.0-beta34</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 14:09:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 gradle 8.11 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install gradle 8.11</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">gradle-8.11</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 16:11:27 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 granted 0.36.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install granted 0.36.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">granted-0.36.2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 02:40:42 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 granted 0.36.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install granted 0.36.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">granted-0.36.3</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 08:13:21 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 hasura-cli 2.45.0-beta.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install hasura-cli 2.45.0-beta.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">hasura-cli-2.45.0-beta.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 12:17:16 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 helm 3.16.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install helm 3.16.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">helm-3.16.3</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 02:44:42 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 helm-diff 3.9.12 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install helm-diff 3.9.12</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">helm-diff-3.9.12</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 00:41:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 heroku-cli 10.0.0-alpha.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 10.0.0-alpha.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">heroku-cli-10.0.0-alpha.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 00:41:45 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 heroku-cli 9.4.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.4.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">heroku-cli-9.4.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 20:10:18 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 heroku-cli 9.5.0-beta.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.5.0-beta.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">heroku-cli-9.5.0-beta.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 18:12:48 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 heroku-cli 9.5.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.5.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">heroku-cli-9.5.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:08:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 hwatch 0.3.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install hwatch 0.3.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">hwatch-0.3.17</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 14:09:33 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 hyperfine 1.19.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install hyperfine 1.19.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">hyperfine-1.19.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 22:08:43 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java semeru-jre-openj9-11.0.25+9_openj9-0.48.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-11.0.25+9_openj9-0.48.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-semeru-jre-openj9-11.0.25+9_openj9-0.48.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java semeru-jre-openj9-17.0.13+11_openj9-0.48.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-17.0.13+11_openj9-0.48.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-semeru-jre-openj9-17.0.13+11_openj9-0.48.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java semeru-jre-openj9-21.0.5+11_openj9-0.48.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-21.0.5+11_openj9-0.48.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-semeru-jre-openj9-21.0.5+11_openj9-0.48.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java semeru-jre-openj9-23.0.1+11_openj9-0.48.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-23.0.1+11_openj9-0.48.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-semeru-jre-openj9-23.0.1+11_openj9-0.48.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java semeru-jre-openj9-8u432-b06_openj9-0.48.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-8u432-b06_openj9-0.48.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-semeru-jre-openj9-8u432-b06_openj9-0.48.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java semeru-openj9-11.0.25+9_openj9-0.48.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-11.0.25+9_openj9-0.48.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-semeru-openj9-11.0.25+9_openj9-0.48.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 java semeru-openj9-17.0.13+11_openj9-0.48.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-17.0.13+11_openj9-0.48.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">java-semeru-openj9-17.0.13+11_openj9-0.48.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+  <pubDate>Thu, 14 Nov 2024 10:11:32 +0000</pubDate>
 </item>
 <item>
   <title>🚀 java semeru-openj9-21.0.5+11_openj9-0.48.0 is now available in asdf!</title>
@@ -715,6 +202,42 @@
   <guid isPermaLink="false">mimirtool-2.14.2</guid>
   <category>new-version</category>
   <pubDate>Wed, 13 Nov 2024 12:18:17 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 mint 0.20.0-alpha.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-alpha.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">mint-0.20.0-alpha.1</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 mint 0.20.0-alpha.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-alpha.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">mint-0.20.0-alpha.2</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 mint 0.20.0-alpha.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-alpha.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">mint-0.20.0-alpha.3</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 mint 0.20.0-rc.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-rc.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">mint-0.20.0-rc.1</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
 </item>
 <item>
   <title>🚀 newrelic-cli 0.97.0 is now available in asdf!</title>
@@ -1320,6 +843,141 @@
   <pubDate>Wed, 13 Nov 2024 00:43:00 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 teleport-ent 16.4.7 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 16.4.7</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">teleport-ent-16.4.7</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 02:42:16 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terraform 1.10.0-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.0-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terraform-1.10.0-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 18:14:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.68.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.68.10</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 18:13:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.68.12 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.12</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.68.12</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 16:13:25 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 terragrunt 0.68.13 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.13</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">terragrunt-0.68.13</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 18:14:59 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tfc-agent 1.17.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tfc-agent 1.17.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tfc-agent-1.17.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 20:14:00 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tfmigrate 0.4.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tfmigrate 0.4.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tfmigrate-0.4.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 10:12:22 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tomcat 10.1.33 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tomcat 10.1.33</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tomcat-10.1.33</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:13:13 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 tuist 4.34.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 4.34.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">tuist-4.34.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 16:12:52 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 unison 0.5.28 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.28</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">unison-0.5.28</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 20:14:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 v weekly.2024.46 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.46</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">v-weekly.2024.46</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 12:18:26 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.21.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.21.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:13:17 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 websocat 1.14.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install websocat 1.14.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">websocat-1.14.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 16:13:39 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 websocat 4.0.0-alpha1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install websocat 4.0.0-alpha1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">websocat-4.0.0-alpha1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 20:11:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.15.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">xcbeautify-2.15.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 02:47:06 +0000</pubDate>
+</item>
+<item>
   <title>💥 R is now supported by asdf</title>
   <description><![CDATA[
     <p>💡 Run <code>asdf plugin-add R</code> to install it.</p>
@@ -1808,6 +1466,366 @@
   <guid isPermaLink="false">elasticsearch-8.16.0</guid>
   <category>new-version</category>
   <pubDate>Tue, 12 Nov 2024 18:12:08 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd 3.4.35 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd 3.4.35</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-3.4.35</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd 3.5.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd 3.5.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-3.5.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd api/v3.5.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd api/v3.5.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-api/v3.5.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd client/pkg/v3.5.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd client/pkg/v3.5.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-client/pkg/v3.5.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd client/v2.305.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd client/v2.305.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-client/v2.305.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd client/v3.5.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd client/v3.5.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-client/v3.5.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd etcdctl/v3.5.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd etcdctl/v3.5.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-etcdctl/v3.5.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd etcdutl/v3.5.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd etcdutl/v3.5.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-etcdutl/v3.5.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd pkg/v3.5.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd pkg/v3.5.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-pkg/v3.5.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd raft/v3.5.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd raft/v3.5.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-raft/v3.5.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd server/v3.5.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd server/v3.5.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-server/v3.5.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 etcd tests/v3.5.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install etcd tests/v3.5.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">etcd-tests/v3.5.17</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:12:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 eza 0.20.8 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install eza 0.20.8</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">eza-0.20.8</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 06:13:28 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 firebase 13.25.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install firebase 13.25.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">firebase-13.25.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 00:41:21 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 flutter 3.24.5-stable is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install flutter 3.24.5-stable</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">flutter-3.24.5-stable</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:44:04 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 frankenphp 1.3.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install frankenphp 1.3.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">frankenphp-1.3.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 00:40:54 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 frankenphp caddy/v1.3.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install frankenphp caddy/v1.3.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">frankenphp-caddy/v1.3.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 00:40:54 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 fzf 0.56.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install fzf 0.56.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">fzf-0.56.2</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:11:09 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 gam 7.00.38 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install gam 7.00.38</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">gam-7.00.38</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 06:14:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 gcloud 501.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install gcloud 501.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">gcloud-501.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 16:11:20 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 glooctl v1.18.0-beta34 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install glooctl v1.18.0-beta34</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">glooctl-v1.18.0-beta34</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 14:09:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 gradle 8.11 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install gradle 8.11</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">gradle-8.11</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:11:27 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 granted 0.36.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install granted 0.36.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">granted-0.36.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 02:40:42 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 granted 0.36.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install granted 0.36.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">granted-0.36.3</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 08:13:21 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 hasura-cli 2.45.0-beta.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install hasura-cli 2.45.0-beta.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">hasura-cli-2.45.0-beta.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 12:17:16 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 helm 3.16.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install helm 3.16.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">helm-3.16.3</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:44:42 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 helm-diff 3.9.12 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install helm-diff 3.9.12</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">helm-diff-3.9.12</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 00:41:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 heroku-cli 10.0.0-alpha.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 10.0.0-alpha.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">heroku-cli-10.0.0-alpha.2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 00:41:45 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 heroku-cli 9.4.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.4.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">heroku-cli-9.4.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 20:10:18 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 heroku-cli 9.5.0-beta.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.5.0-beta.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">heroku-cli-9.5.0-beta.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 18:12:48 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 heroku-cli 9.5.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.5.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">heroku-cli-9.5.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:08:59 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 hwatch 0.3.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install hwatch 0.3.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">hwatch-0.3.17</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 14:09:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 hyperfine 1.19.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install hyperfine 1.19.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">hyperfine-1.19.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 22:08:43 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-11.0.25+9_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-11.0.25+9_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-11.0.25+9_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-17.0.13+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-17.0.13+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-17.0.13+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-21.0.5+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-21.0.5+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-21.0.5+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-23.0.1+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-23.0.1+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-23.0.1+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-8u432-b06_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-8u432-b06_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-8u432-b06_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-openj9-11.0.25+9_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-11.0.25+9_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-openj9-11.0.25+9_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-openj9-17.0.13+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-17.0.13+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-openj9-17.0.13+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
 </item>
   </channel>
 </rss>
