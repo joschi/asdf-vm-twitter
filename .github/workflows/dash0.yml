@@ -20,7 +20,7 @@ jobs:
       - name: Export workflow to Dash0
         uses: corentinmusard/otel-cicd-action@v1
         with:
-          otlpEndpoint: grpc://ingress.eu-west-1.aws.dash0-dev.com
+          otlpEndpoint: grpc://ingress.eu-west-1.aws.dash0-dev.com:4317/
           otlpHeaders: ${{ secrets.DASH0_OTLP_HEADERS }}
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           runId: ${{ github.event.workflow_run.id }}
