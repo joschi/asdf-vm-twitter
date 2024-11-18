@@ -6,85 +6,103 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 stylua 2.0.1 is now available in asdf!</title>
+  <title>🚀 terragrunt 0.68.15 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install stylua 2.0.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.15</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">stylua-2.0.1</guid>
+  <guid isPermaLink="false">terragrunt-0.68.15</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:12:57 +0000</pubDate>
+  <pubDate>Mon, 18 Nov 2024 22:13:20 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 scarb 2.8.5 is now available in asdf!</title>
+  <title>🚀 awscli 2.22.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install scarb 2.8.5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install awscli 2.22.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">scarb-2.8.5</guid>
+  <guid isPermaLink="false">awscli-2.22.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:12:45 +0000</pubDate>
+  <pubDate>Mon, 18 Nov 2024 22:08:20 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 melange 0.15.11 is now available in asdf!</title>
+  <title>🚀 awscli 1.36.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install melange 0.15.11</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install awscli 1.36.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">melange-0.15.11</guid>
+  <guid isPermaLink="false">awscli-1.36.5</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:12:10 +0000</pubDate>
+  <pubDate>Mon, 18 Nov 2024 22:08:20 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 melange 0.15.10 is now available in asdf!</title>
+  <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install melange 0.15.10</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.15.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">melange-0.15.10</guid>
+  <guid isPermaLink="false">xcbeautify-2.15.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:12:10 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 02:47:06 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 heroku-cli 9.5.1-beta.0 is now available in asdf!</title>
+  <title>🚀 yamlscript 0.1.84 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.5.1-beta.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.84</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">heroku-cli-9.5.1-beta.0</guid>
+  <guid isPermaLink="false">yamlscript-0.1.84</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:11:34 +0000</pubDate>
+  <pubDate>Fri, 15 Nov 2024 10:14:05 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 dotenvx 1.24.2 is now available in asdf!</title>
+  <title>🚀 yq 4.44.4 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotenvx 1.24.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.44.4</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">dotenvx-1.24.2</guid>
+  <guid isPermaLink="false">yq-4.44.4</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:10:55 +0000</pubDate>
+  <pubDate>Sat, 16 Nov 2024 06:16:12 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 doppler 3.69.2 is now available in asdf!</title>
+  <title>🚀 yq 4.44.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install doppler 3.69.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yq 4.44.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">doppler-3.69.2</guid>
+  <guid isPermaLink="false">yq-4.44.5</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:10:55 +0000</pubDate>
+  <pubDate>Sat, 16 Nov 2024 06:16:12 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 aws-amplify-cli 12.13.1 is now available in asdf!</title>
+  <title>🚀 yt-dlp 2024.11.18 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install aws-amplify-cli 12.13.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.11.18</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">aws-amplify-cli-12.13.1</guid>
+  <guid isPermaLink="false">yt-dlp-2024.11.18</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:10:23 +0000</pubDate>
+  <pubDate>Mon, 18 Nov 2024 06:16:45 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 aws-amplify-cli 7.6.3v7.6.2 is now available in asdf!</title>
+  <title>🚀 pnpm 9.13.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install aws-amplify-cli 7.6.3v7.6.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pnpm 9.13.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">aws-amplify-cli-7.6.3v7.6.2</guid>
+  <guid isPermaLink="false">pnpm-9.13.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:10:23 +0000</pubDate>
+  <pubDate>Wed, 13 Nov 2024 14:10:27 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pnpm 9.13.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pnpm 9.13.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pnpm-9.13.1</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 18:13:43 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pnpm 9.13.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pnpm 9.13.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pnpm-9.13.2</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 02:54:55 +0000</pubDate>
 </item>
 <item>
   <title>🚀 polaris 9.6.0 is now available in asdf!</title>
@@ -436,6 +454,15 @@
   <guid isPermaLink="false">scala-cli-1.5.3</guid>
   <category>new-version</category>
   <pubDate>Thu, 14 Nov 2024 10:11:41 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 scarb 2.8.5 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install scarb 2.8.5</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">scarb-2.8.5</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 20:12:45 +0000</pubDate>
 </item>
 <item>
   <title>🚀 seed7 05_20241118 is now available in asdf!</title>
@@ -798,6 +825,15 @@
   <pubDate>Sun, 17 Nov 2024 18:12:28 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 stylua 2.0.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install stylua 2.0.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">stylua-2.0.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 20:12:57 +0000</pubDate>
+</item>
+<item>
   <title>🚀 sui devnet-v1.38.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install sui devnet-v1.38.0</code> to install it.</p>]]>
@@ -1156,51 +1192,6 @@
   <guid isPermaLink="false">websocat-4.0.0-alpha1</guid>
   <category>new-version</category>
   <pubDate>Mon, 11 Nov 2024 20:11:50 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 xcbeautify 2.15.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcbeautify 2.15.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">xcbeautify-2.15.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 02:47:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yamlscript 0.1.84 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yamlscript 0.1.84</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yamlscript-0.1.84</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 10:14:05 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.44.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.44.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.44.4</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 06:16:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yq 4.44.5 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yq 4.44.5</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yq-4.44.5</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 06:16:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 yt-dlp 2024.11.18 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install yt-dlp 2024.11.18</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">yt-dlp-2024.11.18</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 06:16:45 +0000</pubDate>
 </item>
 <item>
   <title>🚀 etcd client/v2.305.17 is now available in asdf!</title>
@@ -1599,6 +1590,15 @@
   <pubDate>Wed, 13 Nov 2024 22:08:59 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 heroku-cli 9.5.1-beta.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.5.1-beta.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">heroku-cli-9.5.1-beta.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 20:11:34 +0000</pubDate>
+</item>
+<item>
   <title>🚀 hugo 0.139.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install hugo 0.139.0</code> to install it.</p>]]>
@@ -1950,6 +1950,24 @@
   <pubDate>Mon, 18 Nov 2024 18:14:48 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 melange 0.15.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install melange 0.15.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">melange-0.15.10</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 20:12:10 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 melange 0.15.11 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install melange 0.15.11</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">melange-0.15.11</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 20:12:10 +0000</pubDate>
+</item>
+<item>
   <title>🚀 melange 0.15.5 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install melange 0.15.5</code> to install it.</p>]]>
@@ -2236,24 +2254,6 @@
   <guid isPermaLink="false">pixi-0.36.0</guid>
   <category>new-version</category>
   <pubDate>Tue, 12 Nov 2024 16:12:45 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 pixi 0.37.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install pixi 0.37.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">pixi-0.37.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 12:20:03 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 please 17.12.6-beta.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install please 17.12.6-beta.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">please-17.12.6-beta.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 10:11:41 +0000</pubDate>
 </item>
   </channel>
 </rss>
