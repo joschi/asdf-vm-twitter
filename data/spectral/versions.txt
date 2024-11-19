@@ -163,6 +163,7 @@
 @stoplight/spectral-core-1.19.1
 @stoplight/spectral-core-1.19.2
 @stoplight/spectral-core-1.19.3
+@stoplight/spectral-core-1.19.4
 @stoplight/spectral-core-v1.0.0
 @stoplight/spectral-core-v1.1.0
 @stoplight/spectral-core-v1.10.0
