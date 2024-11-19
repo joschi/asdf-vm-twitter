@@ -6,22 +6,256 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 spectral @stoplight/spectral-core-1.19.4 is now available in asdf!</title>
+  <title>🚀 zellij 0.41.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-core-1.19.4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install zellij 0.41.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-core-1.19.4</guid>
+  <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 12:19:47 +0000</pubDate>
+  <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ecspresso 2.4.4 is now available in asdf!</title>
+  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ecspresso 2.4.4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ecspresso-2.4.4</guid>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.3</guid>
   <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 12:17:19 +0000</pubDate>
+  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-functions-1.9.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-functions-1.9.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-functions-1.9.3</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-formatters-1.4.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formatters-1.4.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-formatters-1.4.3</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-cli-6.14.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-cli-6.14.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-cli-6.14.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rancher 2.10.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rancher 2.10.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rancher-2.10.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:11:17 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ls-lint 2.3.0-beta.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ls-lint 2.3.0-beta.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ls-lint-2.3.0-beta.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:10:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 gleam 1.6.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install gleam 1.6.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">gleam-1.6.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:10:02 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 aws-nuke 3.31.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install aws-nuke 3.31.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">aws-nuke-3.31.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:09:16 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rpk 24.1.18-rc4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rpk 24.1.18-rc4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rpk-24.1.18-rc4</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:04 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rpk 24.1.18 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rpk 24.1.18</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rpk-24.1.18</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 17 Nov 2024 14:09:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rpk 24.3.1-rc4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rpk 24.3.1-rc4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rpk-24.3.1-rc4</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 22:09:36 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rpk 24.3.1-rc5 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rpk 24.3.1-rc5</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rpk-24.3.1-rc5</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 20:11:52 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ruby 3.3.6 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ruby 3.3.6</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ruby-3.3.6</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 14:11:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ruby jruby-9.4.9.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ruby jruby-9.4.9.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ruby-jruby-9.4.9.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 14:11:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 ruff 0.7.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install ruff 0.7.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">ruff-0.7.4</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 12:18:04 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rust-analyzer 2024-11-11 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rust-analyzer 2024-11-11</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rust-analyzer-2024-11-11</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 08:14:21 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rust-analyzer 2024-11-18 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rust-analyzer 2024-11-18</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rust-analyzer-2024-11-18</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 08:17:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 scala-cli 1.5.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install scala-cli 1.5.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">scala-cli-1.5.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 08:15:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 scala-cli 1.5.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install scala-cli 1.5.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">scala-cli-1.5.3</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 10:11:41 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 scarb 2.8.5 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install scarb 2.8.5</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">scarb-2.8.5</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 20:12:45 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 seed7 05_20241118 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install seed7 05_20241118</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">seed7-05_20241118</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 16:14:20 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 serverless 4.4.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install serverless 4.4.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">serverless-4.4.10</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 20:11:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 serverless 4.4.8 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install serverless 4.4.8</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">serverless-4.4.8</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 20:13:53 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 serverless 4.4.9 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install serverless 4.4.9</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">serverless-4.4.9</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 22:11:44 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 shorebird 1.4.11 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install shorebird 1.4.11</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">shorebird-1.4.11</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 20:13:54 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 shorebird 1.4.12 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install shorebird 1.4.12</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">shorebird-1.4.12</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 20:13:54 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spacectl 1.6.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spacectl 1.6.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spacectl-1.6.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 08:14:29 +0000</pubDate>
 </item>
 <item>
   <title>🚀 spacectl 1.7.0 is now available in asdf!</title>
@@ -85,6 +319,15 @@
   <guid isPermaLink="false">spectral-@stoplight/spectral-core-1.19.3</guid>
   <category>new-version</category>
   <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-core-1.19.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-core-1.19.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-core-1.19.4</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 12:19:47 +0000</pubDate>
 </item>
 <item>
   <title>🚀 spectral @stoplight/spectral-formats-1.8.0 is now available in asdf!</title>
@@ -742,6 +985,240 @@
   <guid isPermaLink="false">yt-dlp-2024.11.18</guid>
   <category>new-version</category>
   <pubDate>Mon, 18 Nov 2024 06:16:45 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 haskell 9.12.0.20241114 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install haskell 9.12.0.20241114</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">haskell-9.12.0.20241114</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 20:10:48 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 haskell 9.12.1-alpha3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install haskell 9.12.1-alpha3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">haskell-9.12.1-alpha3</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 20:10:48 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 hasura-cli 2.45.0-beta.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install hasura-cli 2.45.0-beta.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">hasura-cli-2.45.0-beta.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 12:17:16 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 helm 3.16.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install helm 3.16.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">helm-3.16.3</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:44:42 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 helm-diff 3.9.12 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install helm-diff 3.9.12</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">helm-diff-3.9.12</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 00:41:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 heroku-cli 10.0.0-alpha.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 10.0.0-alpha.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">heroku-cli-10.0.0-alpha.2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 00:41:45 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 heroku-cli 9.4.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.4.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">heroku-cli-9.4.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 20:10:18 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 heroku-cli 9.5.0-beta.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.5.0-beta.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">heroku-cli-9.5.0-beta.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 18:12:48 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 heroku-cli 9.5.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.5.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">heroku-cli-9.5.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:08:59 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 heroku-cli 9.5.1-beta.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install heroku-cli 9.5.1-beta.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">heroku-cli-9.5.1-beta.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 20:11:34 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 hishtory 0.318 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install hishtory 0.318</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">hishtory-0.318</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 00:44:48 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 hugo 0.139.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install hugo 0.139.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">hugo-0.139.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 18:14:06 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 hwatch 0.3.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install hwatch 0.3.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">hwatch-0.3.17</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 14:09:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 hwatch 0.3.18 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install hwatch 0.3.18</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">hwatch-0.3.18</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 04:13:21 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 hyperfine 1.19.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install hyperfine 1.19.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">hyperfine-1.19.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 22:08:43 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 imagemagick 7.1.1-41 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install imagemagick 7.1.1-41</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">imagemagick-7.1.1-41</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 17 Nov 2024 10:10:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java dragonwell-21.0.5.0.5.9 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java dragonwell-21.0.5.0.5.9</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-dragonwell-21.0.5.0.5.9</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 16 Nov 2024 02:49:54 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java dragonwell-musl-21.0.5.0.5.9 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java dragonwell-musl-21.0.5.0.5.9</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-dragonwell-musl-21.0.5.0.5.9</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 16 Nov 2024 02:49:54 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-11.0.25+9_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-11.0.25+9_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-11.0.25+9_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-17.0.13+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-17.0.13+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-17.0.13+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-21.0.5+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-21.0.5+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-21.0.5+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-23.0.1+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-23.0.1+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-23.0.1+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-jre-openj9-8u432-b06_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-jre-openj9-8u432-b06_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-jre-openj9-8u432-b06_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-openj9-11.0.25+9_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-11.0.25+9_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-openj9-11.0.25+9_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-openj9-17.0.13+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-17.0.13+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-openj9-17.0.13+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 java semeru-openj9-21.0.5+11_openj9-0.48.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install java semeru-openj9-21.0.5+11_openj9-0.48.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">java-semeru-openj9-21.0.5+11_openj9-0.48.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 02:45:01 +0000</pubDate>
 </item>
 <item>
   <title>🚀 java semeru-openj9-23.0.1+11_openj9-0.48.0 is now available in asdf!</title>
@@ -1626,634 +2103,157 @@
   <pubDate>Wed, 13 Nov 2024 00:42:42 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 rpk 24.1.18-rc4 is now available in asdf!</title>
+  <title>🚀 azure-functions-core-tools 4.0.6610 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install rpk 24.1.18-rc4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install azure-functions-core-tools 4.0.6610</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">rpk-24.1.18-rc4</guid>
+  <guid isPermaLink="false">azure-functions-core-tools-4.0.6610</guid>
   <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:04 +0000</pubDate>
+  <pubDate>Thu, 14 Nov 2024 00:40:53 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 rpk 24.1.18 is now available in asdf!</title>
+  <title>🚀 babashka 1.12.195 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install rpk 24.1.18</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install babashka 1.12.195</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">rpk-24.1.18</guid>
+  <guid isPermaLink="false">babashka-1.12.195</guid>
   <category>new-version</category>
-  <pubDate>Sun, 17 Nov 2024 14:09:24 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 10:09:23 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 rpk 24.3.1-rc4 is now available in asdf!</title>
+  <title>🚀 bazel 7.4.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install rpk 24.3.1-rc4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install bazel 7.4.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">rpk-24.3.1-rc4</guid>
+  <guid isPermaLink="false">bazel-7.4.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 22:09:36 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 20:09:33 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 rpk 24.3.1-rc5 is now available in asdf!</title>
+  <title>🚀 bbr 1.9.72 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install rpk 24.3.1-rc5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install bbr 1.9.72</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">rpk-24.3.1-rc5</guid>
+  <guid isPermaLink="false">bbr-1.9.72</guid>
   <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 20:11:52 +0000</pubDate>
+  <pubDate>Fri, 15 Nov 2024 22:08:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ruby 3.3.6 is now available in asdf!</title>
+  <title>🚀 bbr-s3-config-validator 1.9.72 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ruby 3.3.6</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install bbr-s3-config-validator 1.9.72</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ruby-3.3.6</guid>
+  <guid isPermaLink="false">bbr-s3-config-validator-1.9.72</guid>
   <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 14:11:57 +0000</pubDate>
+  <pubDate>Fri, 15 Nov 2024 22:08:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ruby jruby-9.4.9.0 is now available in asdf!</title>
+  <title>🚀 bitwarden 2024.11.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ruby jruby-9.4.9.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install bitwarden 2024.11.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ruby-jruby-9.4.9.0</guid>
+  <guid isPermaLink="false">bitwarden-2024.11.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 14:11:57 +0000</pubDate>
+  <pubDate>Thu, 14 Nov 2024 22:08:36 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 ruff 0.7.4 is now available in asdf!</title>
+  <title>🚀 borg 2.0.0b14 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install ruff 0.7.4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install borg 2.0.0b14</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">ruff-0.7.4</guid>
+  <guid isPermaLink="false">borg-2.0.0b14</guid>
   <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 12:18:04 +0000</pubDate>
+  <pubDate>Sat, 16 Nov 2024 20:09:17 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 rust-analyzer 2024-11-11 is now available in asdf!</title>
+  <title>🚀 buf 1.47.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install rust-analyzer 2024-11-11</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install buf 1.47.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">rust-analyzer-2024-11-11</guid>
+  <guid isPermaLink="false">buf-1.47.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 08:14:21 +0000</pubDate>
+  <pubDate>Wed, 13 Nov 2024 20:10:04 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 rust-analyzer 2024-11-18 is now available in asdf!</title>
+  <title>🚀 buf 1.47.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install rust-analyzer 2024-11-18</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install buf 1.47.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">rust-analyzer-2024-11-18</guid>
+  <guid isPermaLink="false">buf-1.47.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 08:17:01 +0000</pubDate>
+  <pubDate>Thu, 14 Nov 2024 14:08:26 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 scala-cli 1.5.2 is now available in asdf!</title>
+  <title>🚀 buf 1.47.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install scala-cli 1.5.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install buf 1.47.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">scala-cli-1.5.2</guid>
+  <guid isPermaLink="false">buf-1.47.2</guid>
   <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 08:15:12 +0000</pubDate>
+  <pubDate>Thu, 14 Nov 2024 16:11:05 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 scala-cli 1.5.3 is now available in asdf!</title>
+  <title>🚀 checkov 3.2.287 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install scala-cli 1.5.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install checkov 3.2.287</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">scala-cli-1.5.3</guid>
+  <guid isPermaLink="false">checkov-3.2.287</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 10:11:41 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 16:10:37 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 scarb 2.8.5 is now available in asdf!</title>
+  <title>🚀 checkov 3.2.288 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install scarb 2.8.5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install checkov 3.2.288</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">scarb-2.8.5</guid>
+  <guid isPermaLink="false">checkov-3.2.288</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:12:45 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 10:09:35 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 seed7 05_20241118 is now available in asdf!</title>
+  <title>🚀 checkov 3.2.289 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install seed7 05_20241118</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install checkov 3.2.289</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">seed7-05_20241118</guid>
+  <guid isPermaLink="false">checkov-3.2.289</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 16:14:20 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 10:09:35 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 serverless 4.4.10 is now available in asdf!</title>
+  <title>🚀 checkov 3.2.290 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install serverless 4.4.10</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install checkov 3.2.290</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">serverless-4.4.10</guid>
+  <guid isPermaLink="false">checkov-3.2.290</guid>
   <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 20:11:57 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 16:10:46 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 serverless 4.4.8 is now available in asdf!</title>
+  <title>🚀 checkov 3.2.291 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install serverless 4.4.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install checkov 3.2.291</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">serverless-4.4.8</guid>
+  <guid isPermaLink="false">checkov-3.2.291</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 20:13:53 +0000</pubDate>
+  <pubDate>Tue, 12 Nov 2024 20:09:41 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 serverless 4.4.9 is now available in asdf!</title>
+  <title>🚀 checkov 3.2.292 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install serverless 4.4.9</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install checkov 3.2.292</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">serverless-4.4.9</guid>
+  <guid isPermaLink="false">checkov-3.2.292</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 22:11:44 +0000</pubDate>
+  <pubDate>Wed, 13 Nov 2024 08:12:09 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 shorebird 1.4.11 is now available in asdf!</title>
+  <title>🚀 checkov 3.2.293 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install shorebird 1.4.11</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install checkov 3.2.293</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">shorebird-1.4.11</guid>
+  <guid isPermaLink="false">checkov-3.2.293</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 20:13:54 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 shorebird 1.4.12 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install shorebird 1.4.12</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">shorebird-1.4.12</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 20:13:54 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spacectl 1.6.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spacectl 1.6.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spacectl-1.6.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 08:14:29 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 132.0.6833.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 132.0.6833.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-132.0.6833.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 00:40:16 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 132.0.6834.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 132.0.6834.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-132.0.6834.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 12:16:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 132.0.6834.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 132.0.6834.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-132.0.6834.3</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 02:42:29 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 132.0.6834.6 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 132.0.6834.6</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-132.0.6834.6</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 20:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6835.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6835.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6835.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 12:16:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6835.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6835.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6835.3</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 02:43:23 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6836.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6836.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6836.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 12:16:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6837.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6837.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6837.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 22:08:47 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6838.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6838.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6838.0</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 10:10:20 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6840.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6840.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6840.0</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 10:08:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6841.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6841.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6841.0</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 17 Nov 2024 00:46:40 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6842.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6842.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6842.0</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 17 Nov 2024 10:09:06 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6843.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6843.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6843.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 00:44:54 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6844.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6844.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6844.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 10:10:45 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 circleci-cli 0.1.31151 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install circleci-cli 0.1.31151</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">circleci-cli-0.1.31151</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 18:12:56 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 clj-kondo 2024.11.14 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install clj-kondo 2024.11.14</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">clj-kondo-2024.11.14</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 16:11:10 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 cockroach 24.1.7 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install cockroach 24.1.7</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">cockroach-24.1.7</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 18:12:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 cockroach 24.2.5 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install cockroach 24.2.5</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">cockroach-24.2.5</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 18:12:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 cockroach 24.3.0-rc.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install cockroach 24.3.0-rc.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">cockroach-24.3.0-rc.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 16:11:35 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 coredns 1.11.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install coredns 1.11.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">coredns-1.11.4</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 04:11:36 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 ctlptl 0.8.36 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install ctlptl 0.8.36</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">ctlptl-0.8.36</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 18:11:14 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 cue 0.11.0-rc.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install cue 0.11.0-rc.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">cue-0.11.0-rc.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 22:09:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 daytona 0.44.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install daytona 0.44.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">daytona-0.44.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 14:09:10 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 daytona 0.45.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install daytona 0.45.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">daytona-0.45.0</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 16:11:46 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dbmate 2.23.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dbmate 2.23.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dbmate-2.23.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:13:43 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 depot 2.76.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install depot 2.76.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">depot-2.76.3</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 14:09:13 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 depot 2.77.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install depot 2.77.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">depot-2.77.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:11:56 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 devpod-cli 0.6.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install devpod-cli 0.6.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">devpod-cli-0.6.0</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 06:14:40 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 devpod-cli 0.6.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install devpod-cli 0.6.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">devpod-cli-0.6.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 12:18:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 doctl 1.118.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install doctl 1.118.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">doctl-1.118.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 18:13:15 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dojo 1.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dojo 1.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dojo-1.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 02:43:47 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dojo 1.0.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dojo 1.0.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dojo-1.0.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 20:11:05 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 doppler 3.69.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install doppler 3.69.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">doppler-3.69.2</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:10:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotenvx 1.22.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotenvx 1.22.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotenvx-1.22.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 06:12:49 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotenvx 1.22.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotenvx 1.22.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotenvx-1.22.2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 20:09:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotenvx 1.23.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotenvx 1.23.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotenvx-1.23.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 02:42:52 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotenvx 1.24.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotenvx 1.24.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotenvx-1.24.0</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 00:43:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotenvx 1.24.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotenvx 1.24.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotenvx-1.24.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 18:13:17 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotenvx 1.24.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotenvx 1.24.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotenvx-1.24.2</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:10:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotnet 6.0.136 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotnet 6.0.136</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotnet-6.0.136</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 00:41:13 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotnet 6.0.428 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotnet 6.0.428</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotnet-6.0.428</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 00:41:13 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotnet 8.0.111 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotnet 8.0.111</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotnet-8.0.111</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 00:41:13 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotnet 8.0.307 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotnet 8.0.307</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotnet-8.0.307</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 00:41:13 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotnet 8.0.404 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotnet 8.0.404</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotnet-8.0.404</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 00:41:13 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotnet 9.0.100 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotnet 9.0.100</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotnet-9.0.100</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 00:41:14 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotnet-core 6.0.428 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotnet-core 6.0.428</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotnet-core-6.0.428</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 20:10:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotnet-core 8.0.404 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotnet-core 8.0.404</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotnet-core-8.0.404</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 20:10:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dotnet-core 9.0.100 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotnet-core 9.0.100</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dotnet-core-9.0.100</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 20:10:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dynatrace-monaco 0.0.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dynatrace-monaco 0.0.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dynatrace-monaco-0.0.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 16:11:26 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 dynatrace-monaco 2.17.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install dynatrace-monaco 2.17.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">dynatrace-monaco-2.17.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 16:10:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 elasticsearch 8.15.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install elasticsearch 8.15.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">elasticsearch-8.15.4</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 12:16:35 +0000</pubDate>
+  <pubDate>Wed, 13 Nov 2024 16:10:39 +0000</pubDate>
 </item>
   </channel>
 </rss>
