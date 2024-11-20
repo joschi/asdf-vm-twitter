@@ -726,6 +726,7 @@ dragonwell-11.0.23.19.9
 dragonwell-11.0.23.20.9
 dragonwell-11.0.24.20.8
 dragonwell-11.0.24.21.8
+dragonwell-11.0.25.22.9
 dragonwell-11.0.7.2+9
 dragonwell-11.0.8.3
 dragonwell-11.0.9.4
@@ -761,6 +762,7 @@ dragonwell-8.18.19
 dragonwell-8.19.20
 dragonwell-8.2.2
 dragonwell-8.20.21
+dragonwell-8.23.22
 dragonwell-8.3.3
 dragonwell-8.4.4
 dragonwell-8.5.4
