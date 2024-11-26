@@ -6,67 +6,31 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 v weekly.2024.48 is now available in asdf!</title>
+  <title>🚀 ollama 0.4.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.48</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install ollama 0.4.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">v-weekly.2024.48</guid>
+  <guid isPermaLink="false">ollama-0.4.5</guid>
   <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 00:50:55 +0000</pubDate>
+  <pubDate>Tue, 26 Nov 2024 02:55:42 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 sst 3.3.29 is now available in asdf!</title>
+  <title>🚀 dotenvx 1.25.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.29</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install dotenvx 1.25.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">sst-3.3.29</guid>
+  <guid isPermaLink="false">dotenvx-1.25.1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 00:49:46 +0000</pubDate>
+  <pubDate>Tue, 26 Nov 2024 02:53:54 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 dotenvx 1.25.0 is now available in asdf!</title>
+  <title>🚀 bun 1.1.37 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install dotenvx 1.25.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install bun 1.1.37</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">dotenvx-1.25.0</guid>
+  <guid isPermaLink="false">bun-1.1.37</guid>
   <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 00:44:39 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 chromedriver 133.0.6859.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6859.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">chromedriver-133.0.6859.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 00:44:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 unison 0.5.28 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.28</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">unison-0.5.28</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 20:14:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 updatecli 0.87.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.87.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">updatecli-0.87.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 10:14:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 uv 0.5.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">uv-0.5.2</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 00:45:46 +0000</pubDate>
+  <pubDate>Tue, 26 Nov 2024 02:53:26 +0000</pubDate>
 </item>
 <item>
   <title>🚀 uv 0.5.3 is now available in asdf!</title>
@@ -103,6 +67,15 @@
   <guid isPermaLink="false">v-weekly.2024.47</guid>
   <category>new-version</category>
   <pubDate>Wed, 20 Nov 2024 10:12:19 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 v weekly.2024.48 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.48</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">v-weekly.2024.48</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 00:50:55 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vale 3.9.1 is now available in asdf!</title>
@@ -310,6 +283,33 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 smithy 1.53.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install smithy 1.53.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">smithy-1.53.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 20 Nov 2024 18:14:04 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 snyk 1.1294.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install snyk 1.1294.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">snyk-1.1294.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 20 Nov 2024 14:10:51 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spacectl 1.6.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spacectl 1.6.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spacectl-1.6.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 08:14:29 +0000</pubDate>
 </item>
 <item>
   <title>🚀 spacectl 1.7.0 is now available in asdf!</title>
@@ -742,6 +742,15 @@
   <guid isPermaLink="false">sst-3.3.28</guid>
   <category>new-version</category>
   <pubDate>Mon, 25 Nov 2024 00:47:52 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sst 3.3.29 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.29</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sst-3.3.29</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 00:49:46 +0000</pubDate>
 </item>
 <item>
   <title>🚀 starknet-devnet 0.2.3 is now available in asdf!</title>
@@ -1363,6 +1372,33 @@
   <guid isPermaLink="false">typos-1.28.0</guid>
   <category>new-version</category>
   <pubDate>Mon, 25 Nov 2024 22:11:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 unison 0.5.28 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install unison 0.5.28</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">unison-0.5.28</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 20:14:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 updatecli 0.87.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install updatecli 0.87.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">updatecli-0.87.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 25 Nov 2024 10:14:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 uv 0.5.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">uv-0.5.2</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 00:45:46 +0000</pubDate>
 </item>
 <item>
   <title>🚀 nomad 1.9.3+ent is now available in asdf!</title>
@@ -2218,42 +2254,6 @@
   <guid isPermaLink="false">rke-v1.7.0</guid>
   <category>new-version</category>
   <pubDate>Wed, 13 Nov 2024 00:42:42 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 rpk 24.1.18-rc4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install rpk 24.1.18-rc4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">rpk-24.1.18-rc4</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:04 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 rpk 24.1.18 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install rpk 24.1.18</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">rpk-24.1.18</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 17 Nov 2024 14:09:24 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 rpk 24.2.11-rc1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install rpk 24.2.11-rc1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">rpk-24.2.11-rc1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 16:14:33 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 rpk 24.2.11 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install rpk 24.2.11</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">rpk-24.2.11</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 22:10:24 +0000</pubDate>
 </item>
   </channel>
 </rss>
