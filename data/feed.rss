@@ -6,13 +6,193 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 sentinel 0.29.0 is now available in asdf!</title>
+  <title>🚀 pipelight 0.9.9 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install sentinel 0.29.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.9</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">sentinel-0.29.0</guid>
+  <guid isPermaLink="false">pipelight-0.9.9</guid>
   <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 08:15:27 +0000</pubDate>
+  <pubDate>Tue, 26 Nov 2024 10:13:19 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipelight 0.9.8 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.8</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipelight-0.9.8</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 10:13:19 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipelight 0.9.7 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.7</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipelight-0.9.7</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 10:13:19 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 chromedriver 133.0.6860.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6860.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">chromedriver-133.0.6860.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 10:10:41 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 camunda-modeler 5.30.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install camunda-modeler 5.30.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">camunda-modeler-5.30.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 10:10:36 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zellij 0.41.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zellij 0.41.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zellij-0.41.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-ref-resolver-1.0.5 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ref-resolver-1.0.5</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-ref-resolver-1.0.5</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-ruleset-bundler-1.6.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ruleset-bundler-1.6.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-ruleset-bundler-1.6.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-ruleset-migrator-1.11.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ruleset-migrator-1.11.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-ruleset-migrator-1.11.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 02:42:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-ruleset-migrator-1.11.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ruleset-migrator-1.11.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-ruleset-migrator-1.11.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 02:42:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:14:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.3</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-runtime-1.1.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-runtime-1.1.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-runtime-1.1.3</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spring-boot 3.2.12 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spring-boot 3.2.12</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spring-boot-3.2.12</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 21 Nov 2024 10:12:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spring-boot 3.3.6 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spring-boot 3.3.6</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spring-boot-3.3.6</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 21 Nov 2024 14:12:19 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spring-boot 3.4.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spring-boot 3.4.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spring-boot-3.4.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 21 Nov 2024 18:14:55 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sqlite 3.47.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sqlite 3.47.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sqlite-3.47.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 25 Nov 2024 16:14:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sst 3.3.14 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.14</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sst-3.3.14</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 04:14:36 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sst 3.3.15 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.15</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sst-3.3.15</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
 </item>
 <item>
   <title>🚀 sst 3.3.16 is now available in asdf!</title>
@@ -1032,13 +1212,166 @@
   <pubDate>Mon, 18 Nov 2024 06:16:45 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zellij 0.41.2 is now available in asdf!</title>
+  <title>🚀 operator-sdk 1.38.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zellij 0.41.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install operator-sdk 1.38.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zellij-0.41.2</guid>
+  <guid isPermaLink="false">operator-sdk-1.38.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+  <pubDate>Tue, 19 Nov 2024 22:10:23 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pdm 2.21.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pdm 2.21.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pdm-2.21.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 25 Nov 2024 08:16:25 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 php 8.1.31 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install php 8.1.31</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">php-8.1.31</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 16:13:02 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 php 8.2.26 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install php 8.2.26</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">php-8.2.26</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 18:13:51 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 php 8.3.14 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install php 8.3.14</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">php-8.3.14</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 16:13:02 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 php 8.4.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install php 8.4.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">php-8.4.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 18:13:51 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 php 8.4.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install php 8.4.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">php-8.4.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 20 Nov 2024 10:11:40 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 phrase 2.34.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install phrase 2.34.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">phrase-2.34.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 25 Nov 2024 10:13:08 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipectl 0.49.4-rc0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipectl 0.49.4-rc0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipectl-0.49.4-rc0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 02:41:42 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipectl 0.49.4-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipectl 0.49.4-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipectl-0.49.4-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 04:13:15 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipectl 0.49.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipectl 0.49.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipectl-0.49.4</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 20 Nov 2024 06:14:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipelight 0.9.1-2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.1-2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipelight-0.9.1-2</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 14:10:47 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipelight 0.9.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipelight-0.9.2</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 14:10:47 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipelight 0.9.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipelight-0.9.3</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 14:10:47 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipelight 0.9.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipelight-0.9.4</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 23 Nov 2024 16:11:24 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipelight 0.9.5 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.5</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipelight-0.9.5</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 24 Nov 2024 12:17:52 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pipelight 0.9.6 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.6</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pipelight-0.9.6</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 24 Nov 2024 20:10:25 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pixi 0.36.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pixi 0.36.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pixi-0.36.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 16:12:45 +0000</pubDate>
 </item>
 <item>
   <title>🚀 pixi 0.37.0 is now available in asdf!</title>
@@ -1761,6 +2094,15 @@
   <pubDate>Mon, 18 Nov 2024 16:14:20 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 sentinel 0.29.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sentinel 0.29.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sentinel-0.29.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 08:15:27 +0000</pubDate>
+</item>
+<item>
   <title>🚀 sentry-cli 2.39.0 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install sentry-cli 2.39.0</code> to install it.</p>]]>
@@ -1912,348 +2254,6 @@
   <guid isPermaLink="false">spectral-@stoplight/spectral-cli-6.14.0</guid>
   <category>new-version</category>
   <pubDate>Tue, 12 Nov 2024 06:14:27 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-cli-6.14.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-cli-6.14.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-cli-6.14.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-cli-6.14.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-cli-6.14.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-cli-6.14.2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-core-1.19.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-core-1.19.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-core-1.19.2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 04:13:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-core-1.19.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-core-1.19.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-core-1.19.3</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-core-1.19.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-core-1.19.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-core-1.19.4</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 12:19:47 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-formats-1.8.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formats-1.8.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-formats-1.8.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 02:42:05 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-formats-1.8.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formats-1.8.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-formats-1.8.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:14:33 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-formats-1.8.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formats-1.8.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-formats-1.8.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-formatters-1.4.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formatters-1.4.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-formatters-1.4.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:14:33 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-formatters-1.4.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formatters-1.4.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-formatters-1.4.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-formatters-1.4.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formatters-1.4.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-formatters-1.4.3</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-functions-1.9.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-functions-1.9.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-functions-1.9.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:14:33 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-functions-1.9.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-functions-1.9.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-functions-1.9.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-functions-1.9.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-functions-1.9.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-functions-1.9.3</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-parsers-1.0.5 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-parsers-1.0.5</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-parsers-1.0.5</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-ref-resolver-1.0.5 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ref-resolver-1.0.5</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-ref-resolver-1.0.5</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-ruleset-bundler-1.6.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ruleset-bundler-1.6.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-ruleset-bundler-1.6.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-ruleset-migrator-1.11.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ruleset-migrator-1.11.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-ruleset-migrator-1.11.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 02:42:05 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-ruleset-migrator-1.11.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ruleset-migrator-1.11.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-ruleset-migrator-1.11.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 02:42:05 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:14:33 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.3</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-runtime-1.1.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-runtime-1.1.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-runtime-1.1.3</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spring-boot 3.2.12 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spring-boot 3.2.12</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spring-boot-3.2.12</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 10:12:05 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spring-boot 3.3.6 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spring-boot 3.3.6</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spring-boot-3.3.6</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 14:12:19 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spring-boot 3.4.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spring-boot 3.4.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spring-boot-3.4.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 18:14:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sqlite 3.47.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sqlite 3.47.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sqlite-3.47.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 16:14:24 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.14 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.14</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.14</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 04:14:36 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.15 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.15</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.15</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 lefthook 1.8.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install lefthook 1.8.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">lefthook-1.8.3</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 08:16:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 lefthook 1.8.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install lefthook 1.8.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">lefthook-1.8.4</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 10:12:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 liquibase 4.30.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install liquibase 4.30.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">liquibase-4.30.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 16:12:26 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 logtalk 3.85.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install logtalk 3.85.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">logtalk-3.85.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 18:13:31 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 loki-logcli 3.3.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install loki-logcli 3.3.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">loki-logcli-3.3.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 20:11:25 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 loki-logcli operator/v0.7.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install loki-logcli operator/v0.7.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">loki-logcli-operator/v0.7.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 12:17:29 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 ls-lint 2.3.0-beta.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install ls-lint 2.3.0-beta.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">ls-lint-2.3.0-beta.2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 14:10:50 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 ls-lint 2.3.0-beta.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install ls-lint 2.3.0-beta.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">ls-lint-2.3.0-beta.3</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 16:12:41 +0000</pubDate>
 </item>
   </channel>
 </rss>
