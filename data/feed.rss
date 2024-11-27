@@ -6,157 +6,265 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 kafka confluent-enterprise-7.7.2 is now available in asdf!</title>
+  <title>🚀 terraform 1.10.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-enterprise-7.7.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terraform 1.10.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-enterprise-7.7.2</guid>
+  <guid isPermaLink="false">terraform-1.10.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 10:12:48 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-enterprise-7.6.4 is now available in asdf!</title>
+  <title>🚀 starknet-foundry 0.34.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-enterprise-7.6.4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install starknet-foundry 0.34.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-enterprise-7.6.4</guid>
+  <guid isPermaLink="false">starknet-foundry-0.34.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 10:12:40 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-enterprise-7.5.7 is now available in asdf!</title>
+  <title>🚀 quarkus 3.17.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-enterprise-7.5.7</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install quarkus 3.17.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-enterprise-7.5.7</guid>
+  <guid isPermaLink="false">quarkus-3.17.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 10:12:25 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-enterprise-7.4.8 is now available in asdf!</title>
+  <title>🚀 pipelight 0.10.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-enterprise-7.4.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.10.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-enterprise-7.4.8</guid>
+  <guid isPermaLink="false">pipelight-0.10.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 10:12:18 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-enterprise-7.3.11 is now available in asdf!</title>
+  <title>🚀 pipelight 0.9.12 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-enterprise-7.3.11</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.12</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-enterprise-7.3.11</guid>
+  <guid isPermaLink="false">pipelight-0.9.12</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 10:12:18 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-enterprise-7.2.13 is now available in asdf!</title>
+  <title>🚀 pipelight 0.9.11-3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-enterprise-7.2.13</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.11-3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-enterprise-7.2.13</guid>
+  <guid isPermaLink="false">pipelight-0.9.11-3</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 10:12:18 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-enterprise-7.1.15 is now available in asdf!</title>
+  <title>🚀 pipelight 0.9.11-2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-enterprise-7.1.15</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install pipelight 0.9.11-2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-enterprise-7.1.15</guid>
+  <guid isPermaLink="false">pipelight-0.9.11-2</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 10:12:18 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-community-7.7.2 is now available in asdf!</title>
+  <title>🚀 atlas 0.29.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-community-7.7.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install atlas 0.29.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-community-7.7.2</guid>
+  <guid isPermaLink="false">atlas-0.29.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 10:10:24 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-community-7.6.4 is now available in asdf!</title>
+  <title>🚀 apollo-router 1.58.0-rc.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-community-7.6.4</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install apollo-router 1.58.0-rc.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-community-7.6.4</guid>
+  <guid isPermaLink="false">apollo-router-1.58.0-rc.3</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 10:10:21 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-community-7.5.7 is now available in asdf!</title>
+  <title>🚀 step 0.28.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-community-7.5.7</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install step 0.28.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-community-7.5.7</guid>
+  <guid isPermaLink="false">step-0.28.1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 20 Nov 2024 02:53:02 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-community-7.4.8 is now available in asdf!</title>
+  <title>🚀 step 0.28.2-rc1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-community-7.4.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install step 0.28.2-rc1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-community-7.4.8</guid>
+  <guid isPermaLink="false">step-0.28.2-rc1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 20 Nov 2024 20:13:33 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-community-7.3.11 is now available in asdf!</title>
+  <title>🚀 step 0.28.2-rc2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-community-7.3.11</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install step 0.28.2-rc2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-community-7.3.11</guid>
+  <guid isPermaLink="false">step-0.28.2-rc2</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 20 Nov 2024 20:13:33 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-community-7.2.13 is now available in asdf!</title>
+  <title>🚀 step 0.28.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-community-7.2.13</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install step 0.28.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-community-7.2.13</guid>
+  <guid isPermaLink="false">step-0.28.2</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Wed, 20 Nov 2024 20:13:33 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 kafka confluent-community-7.1.15 is now available in asdf!</title>
+  <title>🚀 stripe-cli 1.22.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install kafka confluent-community-7.1.15</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install stripe-cli 1.22.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">kafka-confluent-community-7.1.15</guid>
+  <guid isPermaLink="false">stripe-cli-1.22.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:14:07 +0000</pubDate>
+  <pubDate>Thu, 21 Nov 2024 00:45:09 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 gam 7.01.03 is now available in asdf!</title>
+  <title>🚀 stylua 2.0.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install gam 7.01.03</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install stylua 2.0.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">gam-7.01.03</guid>
+  <guid isPermaLink="false">stylua-2.0.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:13:22 +0000</pubDate>
+  <pubDate>Sun, 17 Nov 2024 18:12:28 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 devpod-cli 0.5.23 is now available in asdf!</title>
+  <title>🚀 stylua 2.0.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install devpod-cli 0.5.23</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install stylua 2.0.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">devpod-cli-0.5.23</guid>
+  <guid isPermaLink="false">stylua-2.0.1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:13:04 +0000</pubDate>
+  <pubDate>Mon, 18 Nov 2024 20:12:57 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 codefresh 0.88.3 is now available in asdf!</title>
+  <title>🚀 sui devnet-v1.38.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install codefresh 0.88.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install sui devnet-v1.38.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">codefresh-0.88.3</guid>
+  <guid isPermaLink="false">sui-devnet-v1.38.0</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 08:12:55 +0000</pubDate>
+  <pubDate>Mon, 18 Nov 2024 18:15:53 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sui mainnet-v1.37.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sui mainnet-v1.37.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sui-mainnet-v1.37.3</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 02:56:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sui mainnet-v1.37.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sui mainnet-v1.37.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sui-mainnet-v1.37.4</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 21 Nov 2024 12:18:52 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 swiftformat 0.55.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install swiftformat 0.55.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">swiftformat-0.55.0</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 16 Nov 2024 22:11:14 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 swiftformat 0.55.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install swiftformat 0.55.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">swiftformat-0.55.1</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 21 Nov 2024 00:45:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 swiftformat 0.55.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install swiftformat 0.55.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">swiftformat-0.55.2</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 24 Nov 2024 10:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 swiftformat 0.55.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install swiftformat 0.55.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">swiftformat-0.55.3</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 27 Nov 2024 00:46:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 swiftlint 0.57.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install swiftlint 0.57.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">swiftlint-0.57.1</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 24 Nov 2024 16:12:51 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 swiprolog 9.3.15-devel is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install swiprolog 9.3.15-devel</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">swiprolog-9.3.15-devel</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 18:15:55 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 syft 1.17.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install syft 1.17.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">syft-1.17.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 21 Nov 2024 16:14:59 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 talhelper 3.0.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install talhelper 3.0.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">talhelper-3.0.10</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 08:16:18 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 talhelper 3.0.9 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install talhelper 3.0.9</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">talhelper-3.0.9</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 04:13:19 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 talos 1.8.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install talos 1.8.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">talos-1.8.3</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 16:12:42 +0000</pubDate>
 </item>
 <item>
   <title>🚀 talos 1.9.0-alpha.3 is now available in asdf!</title>
@@ -940,6 +1048,204 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 powershell-core 7.5.0-rc.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install powershell-core 7.5.0-rc.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">powershell-core-7.5.0-rc.1</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 00:45:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 promtool 0.300.0-rc.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install promtool 0.300.0-rc.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">promtool-0.300.0-rc.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 00:42:44 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 promtool 0.300.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install promtool 0.300.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">promtool-0.300.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 18:13:45 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 promtool 3.0.0-rc.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install promtool 3.0.0-rc.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">promtool-3.0.0-rc.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 00:42:44 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 promtool 3.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install promtool 3.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">promtool-3.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 18:13:45 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 protoc 29.0-rc3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install protoc 29.0-rc3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">protoc-29.0-rc3</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 00:46:01 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 protoc-gen-go 1.35.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install protoc-gen-go 1.35.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">protoc-gen-go-1.35.2</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 10:11:32 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pulumi 3.139.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pulumi 3.139.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pulumi-3.139.0</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 08:15:37 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pulumi 3.140.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pulumi 3.140.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pulumi-3.140.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 16:13:10 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pulumi 3.141.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pulumi 3.141.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pulumi-3.141.0</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 22 Nov 2024 16:13:02 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 pulumi 3.142.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install pulumi 3.142.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">pulumi-3.142.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 18:14:32 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 python 3.14.0a2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install python 3.14.0a2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">python-3.14.0a2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 20 Nov 2024 20:13:08 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 python 3.14.0a2t is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install python 3.14.0a2t</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">python-3.14.0a2t</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 20 Nov 2024 20:13:08 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 python miniforge3-24.9.2-0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install python miniforge3-24.9.2-0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">python-miniforge3-24.9.2-0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:09:59 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 quarkus 3.15.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install quarkus 3.15.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">quarkus-3.15.2</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 18 Nov 2024 18:15:25 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 quarkus 3.16.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install quarkus 3.16.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">quarkus-3.16.3</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 18:14:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 quarkus 3.16.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install quarkus 3.16.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">quarkus-3.16.4</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 20 Nov 2024 16:13:03 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rabbitmq v4.0.4 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rabbitmq v4.0.4</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rabbitmq-v4.0.4</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 22 Nov 2024 00:45:51 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rabbitmq v4.1.0-beta.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rabbitmq v4.1.0-beta.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rabbitmq-v4.1.0-beta.1</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 14 Nov 2024 18:13:49 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rabbitmq v4.1.0-beta.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rabbitmq v4.1.0-beta.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rabbitmq-v4.1.0-beta.2</guid>
+  <category>new-version</category>
+  <pubDate>Sun, 24 Nov 2024 00:49:44 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rancher 2.10.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rancher 2.10.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rancher-2.10.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:11:17 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 rancher 2.11.0-rc.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rancher 2.11.0-rc.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rancher-2.11.0-rc.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 14:11:14 +0000</pubDate>
 </item>
 <item>
   <title>🚀 rclone 1.68.2 is now available in asdf!</title>
@@ -1869,391 +2175,85 @@
   <pubDate>Thu, 21 Nov 2024 08:15:37 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 step 0.28.1 is now available in asdf!</title>
+  <title>🚀 luajit 2.0.0-beta9 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install step 0.28.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install luajit 2.0.0-beta9</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">step-0.28.1</guid>
+  <guid isPermaLink="false">luajit-2.0.0-beta9</guid>
   <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 02:53:02 +0000</pubDate>
+  <pubDate>Sat, 23 Nov 2024 18:11:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 step 0.28.2-rc1 is now available in asdf!</title>
+  <title>🚀 luajit 2.0.0-rc1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install step 0.28.2-rc1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install luajit 2.0.0-rc1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">step-0.28.2-rc1</guid>
+  <guid isPermaLink="false">luajit-2.0.0-rc1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 20:13:33 +0000</pubDate>
+  <pubDate>Sat, 23 Nov 2024 18:11:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 step 0.28.2-rc2 is now available in asdf!</title>
+  <title>🚀 luajit 2.0.0-rc2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install step 0.28.2-rc2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install luajit 2.0.0-rc2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">step-0.28.2-rc2</guid>
+  <guid isPermaLink="false">luajit-2.0.0-rc2</guid>
   <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 20:13:33 +0000</pubDate>
+  <pubDate>Sat, 23 Nov 2024 18:11:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 step 0.28.2 is now available in asdf!</title>
+  <title>🚀 luajit 2.0.0-rc3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install step 0.28.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install luajit 2.0.0-rc3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">step-0.28.2</guid>
+  <guid isPermaLink="false">luajit-2.0.0-rc3</guid>
   <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 20:13:33 +0000</pubDate>
+  <pubDate>Sat, 23 Nov 2024 18:11:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 stripe-cli 1.22.0 is now available in asdf!</title>
+  <title>🚀 luajit 2.0.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install stripe-cli 1.22.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install luajit 2.0.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">stripe-cli-1.22.0</guid>
+  <guid isPermaLink="false">luajit-2.0.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 00:45:09 +0000</pubDate>
+  <pubDate>Sat, 23 Nov 2024 18:11:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 stylua 2.0.0 is now available in asdf!</title>
+  <title>🚀 luajit 2.0.1-fixed is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install stylua 2.0.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install luajit 2.0.1-fixed</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">stylua-2.0.0</guid>
+  <guid isPermaLink="false">luajit-2.0.1-fixed</guid>
   <category>new-version</category>
-  <pubDate>Sun, 17 Nov 2024 18:12:28 +0000</pubDate>
+  <pubDate>Sat, 23 Nov 2024 18:11:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 stylua 2.0.1 is now available in asdf!</title>
+  <title>🚀 luajit 2.0.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install stylua 2.0.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install luajit 2.0.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">stylua-2.0.1</guid>
+  <guid isPermaLink="false">luajit-2.0.1</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 20:12:57 +0000</pubDate>
+  <pubDate>Sat, 23 Nov 2024 18:11:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 sui devnet-v1.38.0 is now available in asdf!</title>
+  <title>🚀 luajit 2.0.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install sui devnet-v1.38.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install luajit 2.0.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">sui-devnet-v1.38.0</guid>
+  <guid isPermaLink="false">luajit-2.0.2</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 18:15:53 +0000</pubDate>
+  <pubDate>Sat, 23 Nov 2024 18:11:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 sui mainnet-v1.37.3 is now available in asdf!</title>
+  <title>🚀 luajit 2.0.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install sui mainnet-v1.37.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install luajit 2.0.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">sui-mainnet-v1.37.3</guid>
+  <guid isPermaLink="false">luajit-2.0.3</guid>
   <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 02:56:57 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sui mainnet-v1.37.4 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sui mainnet-v1.37.4</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sui-mainnet-v1.37.4</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 12:18:52 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 swiftformat 0.55.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install swiftformat 0.55.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">swiftformat-0.55.0</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 22:11:14 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 swiftformat 0.55.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install swiftformat 0.55.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">swiftformat-0.55.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 00:45:05 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 swiftformat 0.55.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install swiftformat 0.55.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">swiftformat-0.55.2</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 24 Nov 2024 10:11:56 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 swiftformat 0.55.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install swiftformat 0.55.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">swiftformat-0.55.3</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 00:46:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 swiftlint 0.57.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install swiftlint 0.57.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">swiftlint-0.57.1</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 24 Nov 2024 16:12:51 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 swiprolog 9.3.15-devel is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install swiprolog 9.3.15-devel</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">swiprolog-9.3.15-devel</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 18:15:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 syft 1.17.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install syft 1.17.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">syft-1.17.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 16:14:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 talhelper 3.0.10 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install talhelper 3.0.10</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">talhelper-3.0.10</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 08:16:18 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 talhelper 3.0.9 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install talhelper 3.0.9</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">talhelper-3.0.9</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 04:13:19 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 talos 1.8.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install talos 1.8.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">talos-1.8.3</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 16:12:42 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 melange 0.16.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install melange 0.16.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">melange-0.16.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 22:11:08 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mill 0.11.13 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mill 0.11.13</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mill-0.11.13</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 12:17:56 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mill 0.12.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mill 0.12.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mill-0.12.3</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 08:16:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mimirtool 2.14.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mimirtool 2.14.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mimirtool-2.14.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 12:18:17 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 minify 2.21.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install minify 2.21.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">minify-2.21.2</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 24 Nov 2024 22:09:09 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mint 0.20.0-alpha.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-alpha.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mint-0.20.0-alpha.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mint 0.20.0-alpha.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-alpha.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mint-0.20.0-alpha.2</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mint 0.20.0-alpha.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-alpha.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mint-0.20.0-alpha.3</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mint 0.20.0-rc.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.0-rc.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mint-0.20.0-rc.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 08:14:07 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mint 0.20.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mint 0.20.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mint-0.20.1</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 23 Nov 2024 10:11:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mirrord 3.125.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mirrord 3.125.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mirrord-3.125.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 10:11:31 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mitmproxy 11.0.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mitmproxy 11.0.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mitmproxy-11.0.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 00:46:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mockery 2.47.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mockery 2.47.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mockery-2.47.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 18:13:31 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mockery 2.48.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mockery 2.48.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mockery-2.48.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 08:14:50 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mockery 2.49.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mockery 2.49.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mockery-2.49.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 00:44:30 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 mockery 2.49.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install mockery 2.49.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">mockery-2.49.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 00:45:25 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 newrelic-cli 0.97.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install newrelic-cli 0.97.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">newrelic-cli-0.97.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 22:09:17 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 newrelic-cli 0.97.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install newrelic-cli 0.97.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">newrelic-cli-0.97.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 10:11:23 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 nfpm 2.41.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install nfpm 2.41.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">nfpm-2.41.1</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 14:08:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 nodejs 18.20.5 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install nodejs 18.20.5</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">nodejs-18.20.5</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 08:13:38 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 nodejs 20.18.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install nodejs 20.18.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">nodejs-20.18.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 16:14:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 nodejs 23.2.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install nodejs 23.2.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">nodejs-23.2.0</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 08:14:34 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 nodejs 23.3.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install nodejs 23.3.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">nodejs-23.3.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 16:14:00 +0000</pubDate>
+  <pubDate>Sat, 23 Nov 2024 18:11:59 +0000</pubDate>
 </item>
   </channel>
 </rss>
