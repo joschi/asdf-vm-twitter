@@ -6,22 +6,49 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 vcluster 0.19.8 is now available in asdf!</title>
+  <title>🚀 powerpipe 1.1.0-alpha.202411291453 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install powerpipe 1.1.0-alpha.202411291453</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.19.8</guid>
+  <guid isPermaLink="false">powerpipe-1.1.0-alpha.202411291453</guid>
   <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 18:15:55 +0000</pubDate>
+  <pubDate>Fri, 29 Nov 2024 16:12:43 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.20.5 is now available in asdf!</title>
+  <title>🚀 jx 3.11.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.20.5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install jx 3.11.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.20.5</guid>
+  <guid isPermaLink="false">jx-3.11.2</guid>
   <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 08:16:46 +0000</pubDate>
+  <pubDate>Fri, 29 Nov 2024 16:12:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 hugo 0.139.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install hugo 0.139.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">hugo-0.139.3</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 29 Nov 2024 16:11:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 gohugo 0.139.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install gohugo 0.139.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">gohugo-0.139.3</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 29 Nov 2024 16:11:41 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 daytona 0.47.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install daytona 0.47.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">daytona-0.47.0</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 29 Nov 2024 16:11:18 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.21.0 is now available in asdf!</title>
@@ -202,6 +229,24 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sst 3.3.16 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.16</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sst-3.3.16</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sst 3.3.17 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.17</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sst-3.3.17</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
 </item>
 <item>
   <title>🚀 sst 3.3.18 is now available in asdf!</title>
@@ -1266,67 +1311,22 @@
   <pubDate>Fri, 22 Nov 2024 20:13:13 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 powerpipe 1.1.0-alpha.202411272310 is now available in asdf!</title>
+  <title>🚀 vcluster 0.19.8 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install powerpipe 1.1.0-alpha.202411272310</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.19.8</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">powerpipe-1.1.0-alpha.202411272310</guid>
+  <guid isPermaLink="false">vcluster-0.19.8</guid>
   <category>new-version</category>
-  <pubDate>Thu, 28 Nov 2024 00:45:43 +0000</pubDate>
+  <pubDate>Mon, 25 Nov 2024 18:15:55 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 powershell-core 7.5.0-rc.1 is now available in asdf!</title>
+  <title>🚀 vcluster 0.20.5 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install powershell-core 7.5.0-rc.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.20.5</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">powershell-core-7.5.0-rc.1</guid>
+  <guid isPermaLink="false">vcluster-0.20.5</guid>
   <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 00:45:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 promtool 0.300.0-rc.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install promtool 0.300.0-rc.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">promtool-0.300.0-rc.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 00:42:44 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 promtool 0.300.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install promtool 0.300.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">promtool-0.300.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 18:13:45 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 promtool 0.300.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install promtool 0.300.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">promtool-0.300.1</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 28 Nov 2024 18:14:01 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 promtool 3.0.0-rc.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install promtool 3.0.0-rc.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">promtool-3.0.0-rc.1</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 00:42:44 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 promtool 3.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install promtool 3.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">promtool-3.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 18:13:45 +0000</pubDate>
+  <pubDate>Fri, 15 Nov 2024 08:16:46 +0000</pubDate>
 </item>
 <item>
   <title>🚀 promtool 3.0.1 is now available in asdf!</title>
