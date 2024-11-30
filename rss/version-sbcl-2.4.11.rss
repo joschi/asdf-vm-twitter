@@ -1,0 +1,9 @@
+<item>
+  <title>🚀 sbcl 2.4.11 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sbcl 2.4.11</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sbcl-2.4.11</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 30 Nov 2024 12:18:14 +0000</pubDate>
+</item>
