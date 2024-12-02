@@ -6,67 +6,22 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 rust-analyzer 2024-12-02 is now available in asdf!</title>
+  <title>🚀 eksctl 0.195.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install rust-analyzer 2024-12-02</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install eksctl 0.195.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">rust-analyzer-2024-12-02</guid>
+  <guid isPermaLink="false">eksctl-0.195.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 02 Dec 2024 08:15:31 +0000</pubDate>
+  <pubDate>Mon, 02 Dec 2024 10:11:23 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 lefthook 1.8.5 is now available in asdf!</title>
+  <title>🚀 chromedriver 133.0.6872.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install lefthook 1.8.5</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6872.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">lefthook-1.8.5</guid>
+  <guid isPermaLink="false">chromedriver-133.0.6872.0</guid>
   <category>new-version</category>
-  <pubDate>Mon, 02 Dec 2024 08:14:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 eksctl 0.195.0-rc.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install eksctl 0.195.0-rc.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">eksctl-0.195.0-rc.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 02 Dec 2024 08:14:03 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 v weekly.2024.46 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.46</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">v-weekly.2024.46</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 12:18:26 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 v weekly.2024.47 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.47</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">v-weekly.2024.47</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 10:12:19 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 v weekly.2024.48 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.48</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">v-weekly.2024.48</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 00:50:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vale 3.9.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vale 3.9.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vale-3.9.1</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 10:13:22 +0000</pubDate>
+  <pubDate>Mon, 02 Dec 2024 10:11:04 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vault 1.16.13+ent is now available in asdf!</title>
@@ -319,42 +274,6 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.14 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.14</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.14</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 04:14:36 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.15 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.15</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.15</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.16 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.16</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.16</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.17</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
 </item>
 <item>
   <title>🚀 sst 3.3.18 is now available in asdf!</title>
@@ -1401,49 +1320,40 @@
   <pubDate>Wed, 27 Nov 2024 18:16:19 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 promtool 3.0.0 is now available in asdf!</title>
+  <title>🚀 v weekly.2024.46 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install promtool 3.0.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.46</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">promtool-3.0.0</guid>
+  <guid isPermaLink="false">v-weekly.2024.46</guid>
   <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 18:13:45 +0000</pubDate>
+  <pubDate>Mon, 11 Nov 2024 12:18:26 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 promtool 3.0.1 is now available in asdf!</title>
+  <title>🚀 v weekly.2024.47 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install promtool 3.0.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.47</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">promtool-3.0.1</guid>
+  <guid isPermaLink="false">v-weekly.2024.47</guid>
   <category>new-version</category>
-  <pubDate>Thu, 28 Nov 2024 18:14:01 +0000</pubDate>
+  <pubDate>Wed, 20 Nov 2024 10:12:19 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 protoc 29.0-rc3 is now available in asdf!</title>
+  <title>🚀 v weekly.2024.48 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install protoc 29.0-rc3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v weekly.2024.48</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">protoc-29.0-rc3</guid>
+  <guid isPermaLink="false">v-weekly.2024.48</guid>
   <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 00:46:01 +0000</pubDate>
+  <pubDate>Tue, 26 Nov 2024 00:50:55 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 protoc 29.0 is now available in asdf!</title>
+  <title>🚀 vale 3.9.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install protoc 29.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install vale 3.9.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">protoc-29.0</guid>
+  <guid isPermaLink="false">vale-3.9.1</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 20:12:36 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 protoc-gen-go 1.35.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install protoc-gen-go 1.35.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">protoc-gen-go-1.35.2</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 14 Nov 2024 10:11:32 +0000</pubDate>
+  <pubDate>Mon, 18 Nov 2024 10:13:22 +0000</pubDate>
 </item>
 <item>
   <title>🚀 protolint 0.51.0 is now available in asdf!</title>
@@ -1896,6 +1806,15 @@
   <pubDate>Mon, 25 Nov 2024 08:16:48 +0000</pubDate>
 </item>
 <item>
+  <title>🚀 rust-analyzer 2024-12-02 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install rust-analyzer 2024-12-02</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">rust-analyzer-2024-12-02</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 02 Dec 2024 08:15:31 +0000</pubDate>
+</item>
+<item>
   <title>🚀 sbcl 2.4.11 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install sbcl 2.4.11</code> to install it.</p>]]>
@@ -2254,6 +2173,87 @@
   <guid isPermaLink="false">spectral-@stoplight/spectral-formats-1.8.0</guid>
   <category>new-version</category>
   <pubDate>Tue, 12 Nov 2024 02:42:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-formats-1.8.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formats-1.8.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-formats-1.8.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:14:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-formats-1.8.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formats-1.8.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-formats-1.8.2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-formatters-1.4.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formatters-1.4.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-formatters-1.4.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:14:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-formatters-1.4.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formatters-1.4.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-formatters-1.4.2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-formatters-1.4.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-formatters-1.4.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-formatters-1.4.3</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-functions-1.9.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-functions-1.9.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-functions-1.9.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:14:33 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-functions-1.9.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-functions-1.9.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-functions-1.9.2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-functions-1.9.3 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-functions-1.9.3</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-functions-1.9.3</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-parsers-1.0.5 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-parsers-1.0.5</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-parsers-1.0.5</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
 </item>
   </channel>
 </rss>
