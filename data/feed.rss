@@ -6,13 +6,94 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 sst 3.3.63 is now available in asdf!</title>
+  <title>🚀 sst 3.3.64 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.63</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.64</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">sst-3.3.63</guid>
+  <guid isPermaLink="false">sst-3.3.64</guid>
   <category>new-version</category>
-  <pubDate>Tue, 10 Dec 2024 04:13:41 +0000</pubDate>
+  <pubDate>Tue, 10 Dec 2024 06:18:07 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.6.6 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.6</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.6.6</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 03 Dec 2024 18:15:15 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-alpha2-optimize is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha2-optimize</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha2-optimize</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 05 Dec 2024 16:13:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-alpha2-rc1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha2-rc1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha2-rc1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 26 Nov 2024 12:19:39 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zbctl 8.7.0-alpha2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zbctl-8.7.0-alpha2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 04 Dec 2024 18:15:37 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 zellij 0.41.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install zellij 0.41.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">zellij-0.41.2</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.21.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.21.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 11 Nov 2024 16:13:17 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.21.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.21.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 19 Nov 2024 18:14:32 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.21.2-beta.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.2-beta.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.21.2-beta.0</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 04 Dec 2024 22:13:11 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.21.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.21.2</guid>
+  <category>new-version</category>
+  <pubDate>Thu, 05 Dec 2024 20:13:16 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.22.0-alpha.0 is now available in asdf!</title>
@@ -267,49 +348,31 @@
   <pubDate>Wed, 04 Dec 2024 22:13:22 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.6.6 is now available in asdf!</title>
+  <title>🚀 tuist 4.35.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.6.6</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 4.35.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.6.6</guid>
+  <guid isPermaLink="false">tuist-4.35.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 03 Dec 2024 18:15:15 +0000</pubDate>
+  <pubDate>Thu, 21 Nov 2024 16:15:19 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.7.0-alpha2-optimize is now available in asdf!</title>
+  <title>🚀 tuist 4.36.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha2-optimize</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 4.36.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha2-optimize</guid>
+  <guid isPermaLink="false">tuist-4.36.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 05 Dec 2024 16:13:56 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 16:13:24 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 zbctl 8.7.0-alpha2-rc1 is now available in asdf!</title>
+  <title>🚀 typos 1.28.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha2-rc1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install typos 1.28.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha2-rc1</guid>
+  <guid isPermaLink="false">typos-1.28.0</guid>
   <category>new-version</category>
-  <pubDate>Tue, 26 Nov 2024 12:19:39 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zbctl 8.7.0-alpha2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zbctl 8.7.0-alpha2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zbctl-8.7.0-alpha2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 04 Dec 2024 18:15:37 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 zellij 0.41.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install zellij 0.41.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">zellij-0.41.2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+  <pubDate>Mon, 25 Nov 2024 22:11:05 +0000</pubDate>
 </item>
 <item>
   <title>🚀 typos 1.28.1 is now available in asdf!</title>
@@ -573,40 +636,22 @@
   <pubDate>Fri, 15 Nov 2024 08:16:46 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.21.0 is now available in asdf!</title>
+  <title>🚀 terragrunt 0.69.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.21.0</guid>
+  <guid isPermaLink="false">terragrunt-0.69.2</guid>
   <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 16:13:17 +0000</pubDate>
+  <pubDate>Wed, 27 Nov 2024 18:16:05 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.21.1 is now available in asdf!</title>
+  <title>🚀 terragrunt 0.69.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.21.1</guid>
+  <guid isPermaLink="false">terragrunt-0.69.3</guid>
   <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 18:14:32 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vcluster 0.21.2-beta.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.2-beta.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vcluster-0.21.2-beta.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 04 Dec 2024 22:13:11 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 vcluster 0.21.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.21.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">vcluster-0.21.2</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 05 Dec 2024 20:13:16 +0000</pubDate>
+  <pubDate>Thu, 28 Nov 2024 22:12:06 +0000</pubDate>
 </item>
 <item>
   <title>🚀 terragrunt 0.69.5 is now available in asdf!</title>
@@ -879,31 +924,13 @@
   <pubDate>Fri, 15 Nov 2024 18:14:00 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 tuist 4.35.0 is now available in asdf!</title>
+  <title>🚀 teleport-community 17.0.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install tuist 4.35.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-community 17.0.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">tuist-4.35.0</guid>
+  <guid isPermaLink="false">teleport-community-17.0.2</guid>
   <category>new-version</category>
-  <pubDate>Thu, 21 Nov 2024 16:15:19 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tuist 4.36.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tuist 4.36.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tuist-4.36.0</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 16:13:24 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 typos 1.28.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install typos 1.28.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">typos-1.28.0</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 22:11:05 +0000</pubDate>
+  <pubDate>Mon, 25 Nov 2024 18:15:38 +0000</pubDate>
 </item>
 <item>
   <title>🚀 teleport-community 17.0.3 is now available in asdf!</title>
@@ -1183,24 +1210,6 @@
   <guid isPermaLink="false">terragrunt-0.69.1</guid>
   <category>new-version</category>
   <pubDate>Fri, 22 Nov 2024 22:12:38 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terragrunt 0.69.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terragrunt-0.69.2</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 18:16:05 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terragrunt 0.69.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.69.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terragrunt-0.69.3</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 28 Nov 2024 22:12:06 +0000</pubDate>
 </item>
 <item>
   <title>🚀 swiftformat 0.55.0 is now available in asdf!</title>
@@ -1491,24 +1500,6 @@
   <pubDate>Sat, 16 Nov 2024 08:14:55 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 teleport-community 17.0.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install teleport-community 17.0.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">teleport-community-17.0.2</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 18:15:38 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.50 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.50</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.50</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 06 Dec 2024 08:14:37 +0000</pubDate>
-</item>
-<item>
   <title>🚀 sst 3.3.51 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install sst 3.3.51</code> to install it.</p>]]>
@@ -1615,6 +1606,15 @@
   <guid isPermaLink="false">sst-3.3.62</guid>
   <category>new-version</category>
   <pubDate>Tue, 10 Dec 2024 00:49:06 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 sst 3.3.63 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.63</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">sst-3.3.63</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 10 Dec 2024 04:13:41 +0000</pubDate>
 </item>
 <item>
   <title>🚀 starkli 0.3.6 is now available in asdf!</title>
@@ -1795,33 +1795,6 @@
   <guid isPermaLink="false">swag-2.0.0-rc4</guid>
   <category>new-version</category>
   <pubDate>Sat, 30 Nov 2024 22:11:05 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.15 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.15</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.15</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.16 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.16</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.16</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 sst 3.3.17 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.17</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">sst-3.3.17</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 11 Nov 2024 06:16:22 +0000</pubDate>
 </item>
 <item>
   <title>🚀 sst 3.3.18 is now available in asdf!</title>
@@ -2112,31 +2085,13 @@
   <pubDate>Fri, 06 Dec 2024 08:14:37 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 spectral @stoplight/spectral-cli-6.14.1 is now available in asdf!</title>
+  <title>🚀 sst 3.3.50 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-cli-6.14.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install sst 3.3.50</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-cli-6.14.1</guid>
+  <guid isPermaLink="false">sst-3.3.50</guid>
   <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-cli-6.14.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-cli-6.14.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-cli-6.14.2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 19 Nov 2024 14:11:29 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 spectral @stoplight/spectral-core-1.19.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-core-1.19.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">spectral-@stoplight/spectral-core-1.19.2</guid>
-  <category>new-version</category>
-  <pubDate>Tue, 12 Nov 2024 04:13:12 +0000</pubDate>
+  <pubDate>Fri, 06 Dec 2024 08:14:37 +0000</pubDate>
 </item>
 <item>
   <title>🚀 spectral @stoplight/spectral-core-1.19.3 is now available in asdf!</title>
@@ -2254,6 +2209,51 @@
   <guid isPermaLink="false">spectral-@stoplight/spectral-ref-resolver-1.0.5</guid>
   <category>new-version</category>
   <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-ruleset-bundler-1.6.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ruleset-bundler-1.6.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-ruleset-bundler-1.6.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-ruleset-migrator-1.11.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ruleset-migrator-1.11.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-ruleset-migrator-1.11.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 02:42:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-ruleset-migrator-1.11.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-ruleset-migrator-1.11.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-ruleset-migrator-1.11.1</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 13 Nov 2024 22:10:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.0</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 02:42:05 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 spectral @stoplight/spectral-rulesets-1.21.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install spectral @stoplight/spectral-rulesets-1.21.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">spectral-@stoplight/spectral-rulesets-1.21.1</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 18:14:33 +0000</pubDate>
 </item>
   </channel>
 </rss>
