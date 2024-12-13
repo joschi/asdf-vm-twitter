@@ -1780,6 +1780,7 @@
 3.3.75
 3.3.8
 3.3.9
+3.4.0
 @serverless-stack/cli2@1.10.0
 @serverless-stack/cli2@1.10.1
 @serverless-stack/cli2@1.10.3
