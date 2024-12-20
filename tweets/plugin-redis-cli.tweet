@@ -1,4 +1,0 @@
-💥 redis-cli is now supported by asdf!
-
-💡 Run `asdf plugin-add redis-cli` to install it.
-🔗 https://github.com/NeoHsu/asdf-redis-cli.git

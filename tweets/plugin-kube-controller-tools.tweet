@@ -1,4 +1,0 @@
-💥 kube-controller-tools is now supported by asdf!
-
-💡 Run `asdf plugin-add kube-controller-tools` to install it.
-🔗 https://github.com/jimmidyson/asdf-kube-controller-tools.git
