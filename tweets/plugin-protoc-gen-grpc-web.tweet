@@ -1,4 +1,0 @@
-💥 protoc-gen-grpc-web is now supported by asdf!
-
-💡 Run `asdf plugin-add protoc-gen-grpc-web` to install it.
-🔗 https://github.com/pbr0ck3r/asdf-protoc-gen-grpc-web.git

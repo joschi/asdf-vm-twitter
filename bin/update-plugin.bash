@@ -3,7 +3,6 @@ set -e
 set -Eo pipefail
 
 DATA_DIR="./data"
-TWEETS_DIR="./tweets"
 TOOTS_DIR="./toots"
 RSS_DIR="./rss"
 TEMP_DIR=$(mktemp -d)
@@ -20,7 +19,6 @@ function ensure_dir {
 function update_plugin_versions {
 	local plugin=$1
 	local plugin_dir="${DATA_DIR}/${plugin}"
-	local tweets_dir="${TWEETS_DIR}/${plugin}"
 	local toots_dir="${TOOTS_DIR}/${plugin}"
 
 	if grep "^${plugin}$" "${BLACKLIST}"
@@ -38,14 +36,13 @@ function update_plugin_versions {
 	fi
 
 	ensure_dir "${plugin_dir}"
-	ensure_dir "${tweets_dir}"
 	ensure_dir "${toots_dir}"
 
 	asdf list-all "${plugin}" | sort | uniq > "${TEMP_DIR}/${plugin}-new.txt" || return 1
 
 	if [[ ! -e "${plugin_dir}/versions.txt" ]]
 	then
-		# New plugin with new versions: Restrict output to the latest version to avoid Tweet storms
+		# New plugin with new versions: Restrict output to the latest version to avoid message storms
 		touch "${plugin_dir}/versions.txt"
 		comm -13 "${plugin_dir}/versions.txt" "${TEMP_DIR}/${plugin}-new.txt" | sort -V | tail -n1 > "${TEMP_DIR}/${plugin}-added.txt"
 	else
@@ -59,19 +56,17 @@ function update_plugin_versions {
 
 		if grep "^${plugin}$" "${BLACKLIST}"
 		then
-			echo "${plugin}: Not tweeting about ${plugin} ${version} because it's blacklisted"
+			echo "${plugin}: Not posting about ${plugin} ${version} because it's blacklisted"
 		else
 			# Sanitize version for use as file name
 			version_filename=${version//\//-}
 
-			# Tweet new plugin versions
-			cat<<EOF > "${tweets_dir}/${version_filename}.tweet"
+			# Toot new plugin versions
+			cat<<EOF > "${toots_dir}/${version_filename}.toot"
 🚀 ${plugin} ${version} is now available in asdf!
 
 💡 Run \`asdf install ${plugin} ${version}\` to install it.
 EOF
-			# Toot new plugin versions
-			cp "${tweets_dir}/${version_filename}.tweet" "${toots_dir}/${version_filename}.toot"
 
 	# RSS item for new plugins
 	cat<<EOF > "${RSS_DIR}/version-${plugin}-${version_filename}.rss"
@@ -95,7 +90,6 @@ EOF
 }
 
 ensure_dir "${DATA_DIR}"
-ensure_dir "${TWEETS_DIR}"
 ensure_dir "${TOOTS_DIR}"
 ensure_dir "${RSS_DIR}"
 

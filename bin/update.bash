@@ -3,7 +3,6 @@ set -e
 set -Euo pipefail
 
 DATA_DIR="./data"
-TWEETS_DIR="./tweets"
 TOOTS_DIR="./toots"
 RSS_DIR="./rss"
 TEMP_DIR=$(mktemp -d)
@@ -18,7 +17,6 @@ function ensure_dir {
 }
 
 ensure_dir "${DATA_DIR}"
-ensure_dir "${TWEETS_DIR}"
 ensure_dir "${TOOTS_DIR}"
 ensure_dir "${RSS_DIR}"
 
@@ -41,15 +39,13 @@ do
 
 	PLUGIN_REPO="$(sed -e 's/repository = //' "${HOME}/.asdf/repository/plugins/${plugin}")"
 
-	# Tweet new plugins
-	cat<<EOF > "${TWEETS_DIR}/plugin-${plugin}.tweet"
+	# Toot new plugins
+	cat<<EOF > "${TOOTS_DIR}/plugin-${plugin}.toot"
 💥 ${plugin} is now supported by asdf!
 
 💡 Run \`asdf plugin-add ${plugin}\` to install it.
 🔗 ${PLUGIN_REPO}
 EOF
-	# Toot new plugins
-	cp "${TWEETS_DIR}/plugin-${plugin}.tweet" "${TOOTS_DIR}/plugin-${plugin}.toot"
 
 	# RSS item for new plugins
 	cat<<EOF > "${RSS_DIR}/plugin-${plugin}.rss"

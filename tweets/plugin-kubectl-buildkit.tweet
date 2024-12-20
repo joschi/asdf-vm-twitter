@@ -1,4 +1,0 @@
-💥 kubectl-buildkit is now supported by asdf!
-
-💡 Run `asdf plugin-add kubectl-buildkit` to install it.
-🔗 https://github.com/ezcater/asdf-kubectl-buildkit.git
