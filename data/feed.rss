@@ -6,40 +6,31 @@
     <description>Latest additions to asdf-vm plugins</description>
     <language>en</language>
 <item>
-  <title>🚀 oc 3.11.1519-1 is now available in asdf!</title>
+  <title>🚀 chromedriver 133.0.6920.0 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install oc 3.11.1519-1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install chromedriver 133.0.6920.0</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">oc-3.11.1519-1</guid>
+  <guid isPermaLink="false">chromedriver-133.0.6920.0</guid>
   <category>new-version</category>
-  <pubDate>Thu, 26 Dec 2024 22:09:35 +0000</pubDate>
+  <pubDate>Fri, 27 Dec 2024 00:41:18 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 awscli 2.22.24 is now available in asdf!</title>
+  <title>🚀 xcresultparser 1.8.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install awscli 2.22.24</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install xcresultparser 1.8.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">awscli-2.22.24</guid>
+  <guid isPermaLink="false">xcresultparser-1.8.2</guid>
   <category>new-version</category>
-  <pubDate>Thu, 26 Dec 2024 22:07:47 +0000</pubDate>
+  <pubDate>Fri, 06 Dec 2024 20:13:06 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 awscli 1.36.29 is now available in asdf!</title>
+  <title>🚀 xcresultparser 1.8.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install awscli 1.36.29</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install xcresultparser 1.8.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">awscli-1.36.29</guid>
+  <guid isPermaLink="false">xcresultparser-1.8.3</guid>
   <category>new-version</category>
-  <pubDate>Thu, 26 Dec 2024 22:07:47 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 aws-nuke 3.39.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install aws-nuke 3.39.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">aws-nuke-3.39.0</guid>
-  <category>new-version</category>
-  <pubDate>Thu, 26 Dec 2024 22:07:46 +0000</pubDate>
+  <pubDate>Sun, 15 Dec 2024 14:09:46 +0000</pubDate>
 </item>
 <item>
   <title>🚀 yamlscript 0.1.84 is now available in asdf!</title>
@@ -247,6 +238,24 @@
   <guid isPermaLink="false">zellij-0.41.2</guid>
   <category>new-version</category>
   <pubDate>Tue, 19 Nov 2024 14:11:56 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.22.0-alpha.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.0-alpha.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.22.0-alpha.1</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 25 Nov 2024 16:14:55 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 vcluster 0.22.0-alpha.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.0-alpha.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">vcluster-0.22.0-alpha.2</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 04 Dec 2024 20:14:46 +0000</pubDate>
 </item>
 <item>
   <title>🚀 vcluster 0.22.0-alpha.3 is now available in asdf!</title>
@@ -528,22 +537,22 @@
   <pubDate>Sat, 21 Dec 2024 22:10:50 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcresultparser 1.8.2 is now available in asdf!</title>
+  <title>🚀 uv 0.5.9 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcresultparser 1.8.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.9</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcresultparser-1.8.2</guid>
+  <guid isPermaLink="false">uv-0.5.9</guid>
   <category>new-version</category>
-  <pubDate>Fri, 06 Dec 2024 20:13:06 +0000</pubDate>
+  <pubDate>Sat, 14 Dec 2024 00:45:53 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 xcresultparser 1.8.3 is now available in asdf!</title>
+  <title>🚀 v 0.4.9 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install xcresultparser 1.8.3</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install v 0.4.9</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">xcresultparser-1.8.3</guid>
+  <guid isPermaLink="false">v-0.4.9</guid>
   <category>new-version</category>
-  <pubDate>Sun, 15 Dec 2024 14:09:46 +0000</pubDate>
+  <pubDate>Sun, 22 Dec 2024 02:51:30 +0000</pubDate>
 </item>
 <item>
   <title>🚀 v weekly.2024.46 is now available in asdf!</title>
@@ -807,22 +816,22 @@
   <pubDate>Fri, 22 Nov 2024 10:14:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.22.0-alpha.1 is now available in asdf!</title>
+  <title>🚀 tuist 4.34.2 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.0-alpha.1</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 4.34.2</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.22.0-alpha.1</guid>
+  <guid isPermaLink="false">tuist-4.34.2</guid>
   <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 16:14:55 +0000</pubDate>
+  <pubDate>Fri, 15 Nov 2024 14:11:25 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 vcluster 0.22.0-alpha.2 is now available in asdf!</title>
+  <title>🚀 tuist 4.34.3 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install vcluster 0.22.0-alpha.2</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tuist 4.34.3</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">vcluster-0.22.0-alpha.2</guid>
+  <guid isPermaLink="false">tuist-4.34.3</guid>
   <category>new-version</category>
-  <pubDate>Wed, 04 Dec 2024 20:14:46 +0000</pubDate>
+  <pubDate>Fri, 15 Nov 2024 18:14:00 +0000</pubDate>
 </item>
 <item>
   <title>🚀 tuist 4.35.0 is now available in asdf!</title>
@@ -1104,42 +1113,6 @@
   <pubDate>Wed, 11 Dec 2024 16:14:07 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 uv 0.5.9 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install uv 0.5.9</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">uv-0.5.9</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 14 Dec 2024 00:45:53 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 v 0.4.9 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install v 0.4.9</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">v-0.4.9</guid>
-  <category>new-version</category>
-  <pubDate>Sun, 22 Dec 2024 02:51:30 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tf-summarize 0.3.14 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tf-summarize 0.3.14</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tf-summarize-0.3.14</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 30 Nov 2024 14:09:35 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tfc-agent 1.17.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tfc-agent 1.17.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tfc-agent-1.17.1</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 20:14:00 +0000</pubDate>
-</item>
-<item>
   <title>🚀 tfc-agent 1.17.2 is now available in asdf!</title>
   <description>
     <![CDATA[<p>💡 Run <code>asdf install tfc-agent 1.17.2</code> to install it.</p>]]>
@@ -1399,51 +1372,6 @@
   <guid isPermaLink="false">tuist-4.34.1</guid>
   <category>new-version</category>
   <pubDate>Fri, 15 Nov 2024 12:18:29 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tuist 4.34.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tuist 4.34.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tuist-4.34.2</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 14:11:25 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 tuist 4.34.3 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install tuist 4.34.3</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">tuist-4.34.3</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 18:14:00 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terragrunt 0.68.13 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.13</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terragrunt-0.68.13</guid>
-  <category>new-version</category>
-  <pubDate>Wed, 13 Nov 2024 18:14:59 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terragrunt 0.68.14 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.14</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terragrunt-0.68.14</guid>
-  <category>new-version</category>
-  <pubDate>Fri, 15 Nov 2024 16:15:14 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 terragrunt 0.68.15 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.15</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">terragrunt-0.68.15</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 18 Nov 2024 22:13:20 +0000</pubDate>
 </item>
 <item>
   <title>🚀 terragrunt 0.68.16 is now available in asdf!</title>
@@ -1707,49 +1635,22 @@
   <pubDate>Fri, 20 Dec 2024 16:12:20 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 teleport-ent 16.4.8 is now available in asdf!</title>
+  <title>🚀 tf-summarize 0.3.14 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 16.4.8</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tf-summarize 0.3.14</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">teleport-ent-16.4.8</guid>
+  <guid isPermaLink="false">tf-summarize-0.3.14</guid>
   <category>new-version</category>
-  <pubDate>Wed, 20 Nov 2024 04:14:50 +0000</pubDate>
+  <pubDate>Sat, 30 Nov 2024 14:09:35 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 teleport-ent 16.4.9 is now available in asdf!</title>
+  <title>🚀 tfc-agent 1.17.1 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 16.4.9</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install tfc-agent 1.17.1</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">teleport-ent-16.4.9</guid>
+  <guid isPermaLink="false">tfc-agent-1.17.1</guid>
   <category>new-version</category>
-  <pubDate>Tue, 03 Dec 2024 20:12:46 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 teleport-ent 17.0.0 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.0.0</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">teleport-ent-17.0.0</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 00:46:50 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 teleport-ent 17.0.1 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.0.1</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">teleport-ent-17.0.1</guid>
-  <category>new-version</category>
-  <pubDate>Sat, 16 Nov 2024 08:14:55 +0000</pubDate>
-</item>
-<item>
-  <title>🚀 teleport-ent 17.0.2 is now available in asdf!</title>
-  <description>
-    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.0.2</code> to install it.</p>]]>
-  </description>
-  <guid isPermaLink="false">teleport-ent-17.0.2</guid>
-  <category>new-version</category>
-  <pubDate>Mon, 25 Nov 2024 18:15:38 +0000</pubDate>
+  <pubDate>Wed, 13 Nov 2024 20:14:00 +0000</pubDate>
 </item>
 <item>
   <title>🚀 teleport-ent 17.0.3 is now available in asdf!</title>
@@ -1986,31 +1887,31 @@
   <pubDate>Tue, 12 Nov 2024 16:13:25 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 tekton-pac-cli 0.30.0 is now available in asdf!</title>
+  <title>🚀 terragrunt 0.68.13 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install tekton-pac-cli 0.30.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.13</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">tekton-pac-cli-0.30.0</guid>
+  <guid isPermaLink="false">terragrunt-0.68.13</guid>
   <category>new-version</category>
-  <pubDate>Wed, 27 Nov 2024 12:20:09 +0000</pubDate>
+  <pubDate>Wed, 13 Nov 2024 18:14:59 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 tekton-pac-cli 0.31.0 is now available in asdf!</title>
+  <title>🚀 terragrunt 0.68.14 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install tekton-pac-cli 0.31.0</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.14</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">tekton-pac-cli-0.31.0</guid>
+  <guid isPermaLink="false">terragrunt-0.68.14</guid>
   <category>new-version</category>
-  <pubDate>Tue, 17 Dec 2024 12:21:20 +0000</pubDate>
+  <pubDate>Fri, 15 Nov 2024 16:15:14 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 teleport-community 14.3.34 is now available in asdf!</title>
+  <title>🚀 terragrunt 0.68.15 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install teleport-community 14.3.34</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install terragrunt 0.68.15</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">teleport-community-14.3.34</guid>
+  <guid isPermaLink="false">terragrunt-0.68.15</guid>
   <category>new-version</category>
-  <pubDate>Thu, 28 Nov 2024 02:57:07 +0000</pubDate>
+  <pubDate>Mon, 18 Nov 2024 22:13:20 +0000</pubDate>
 </item>
 <item>
   <title>🚀 teleport-community 15.4.22 is now available in asdf!</title>
@@ -2247,13 +2148,112 @@
   <pubDate>Tue, 12 Nov 2024 02:42:16 +0000</pubDate>
 </item>
 <item>
-  <title>🚀 swiprolog 9.3.16-devel is now available in asdf!</title>
+  <title>🚀 teleport-ent 16.4.8 is now available in asdf!</title>
   <description>
-    <![CDATA[<p>💡 Run <code>asdf install swiprolog 9.3.16-devel</code> to install it.</p>]]>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 16.4.8</code> to install it.</p>]]>
   </description>
-  <guid isPermaLink="false">swiprolog-9.3.16-devel</guid>
+  <guid isPermaLink="false">teleport-ent-16.4.8</guid>
   <category>new-version</category>
-  <pubDate>Mon, 02 Dec 2024 14:11:19 +0000</pubDate>
+  <pubDate>Wed, 20 Nov 2024 04:14:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 teleport-ent 16.4.9 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 16.4.9</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">teleport-ent-16.4.9</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 03 Dec 2024 20:12:46 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 teleport-ent 17.0.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.0.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">teleport-ent-17.0.0</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 16 Nov 2024 00:46:50 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 teleport-ent 17.0.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.0.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">teleport-ent-17.0.1</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 16 Nov 2024 08:14:55 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 teleport-ent 17.0.2 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install teleport-ent 17.0.2</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">teleport-ent-17.0.2</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 25 Nov 2024 18:15:38 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 syft 1.18.0 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install syft 1.18.0</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">syft-1.18.0</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 09 Dec 2024 22:13:57 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 syft 1.18.1 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install syft 1.18.1</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">syft-1.18.1</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 13 Dec 2024 20:12:21 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 talhelper 3.0.10 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install talhelper 3.0.10</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">talhelper-3.0.10</guid>
+  <category>new-version</category>
+  <pubDate>Fri, 15 Nov 2024 08:16:18 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 talhelper 3.0.11 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install talhelper 3.0.11</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">talhelper-3.0.11</guid>
+  <category>new-version</category>
+  <pubDate>Sat, 14 Dec 2024 04:13:12 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 talhelper 3.0.12 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install talhelper 3.0.12</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">talhelper-3.0.12</guid>
+  <category>new-version</category>
+  <pubDate>Mon, 16 Dec 2024 06:16:09 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 talhelper 3.0.13 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install talhelper 3.0.13</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">talhelper-3.0.13</guid>
+  <category>new-version</category>
+  <pubDate>Wed, 18 Dec 2024 04:16:27 +0000</pubDate>
+</item>
+<item>
+  <title>🚀 talhelper 3.0.9 is now available in asdf!</title>
+  <description>
+    <![CDATA[<p>💡 Run <code>asdf install talhelper 3.0.9</code> to install it.</p>]]>
+  </description>
+  <guid isPermaLink="false">talhelper-3.0.9</guid>
+  <category>new-version</category>
+  <pubDate>Tue, 12 Nov 2024 04:13:19 +0000</pubDate>
 </item>
   </channel>
 </rss>
